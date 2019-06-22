@@ -1,4 +1,4 @@
-/*
+/*.html
     Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
     Content-Security-Policy: default-src 'self' clenove.hrbatypes.cz
     Referrer-Policy: same-origin

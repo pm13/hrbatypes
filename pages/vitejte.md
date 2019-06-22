@@ -10,6 +10,4 @@ Teď náš čeká jarní spánek a poctivý trénink na příští sezónu. Něk
 
 Pokud hledáte informace o oddílu, pak je najdete v částech ["Trénink"](/trenink/) a ["Členové oddílu"](/clenove-oddilu/) nebo nás můžete [kontaktovat](https://clenove.hrbatypes.cz/komentare/pridat/).
 
-**Stáhněte si prosím [přihlášku na Albeř](http://vssk.mff.cuni.cz/wordpress/wp-content/uploads/2019/04/Přihláška-na-ST-Albeř-2019.pdf).**
-
 <iframe src="https://clenove.hrbatypes.cz/iframe/komentare/" class="w-100 border-0" height="950"></iframe>

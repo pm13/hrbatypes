@@ -1,0 +1,54 @@
+{% from 'macros.html' import local_nav_unit, article_header %}
+{% from 'macros.html' import local_link with context %}
+
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>{% block title %}{% endblock %} | {{ SITENAME }}</title>
+        <link rel="stylesheet" href="/theme/style.min.css">
+        <link rel="icon" href="/favicon.ico">
+    </head>
+    <body>
+        <nav class="navbar fixed-top p-0 pt-1">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    <img src="/theme/logo.png">
+                    {{ SITENAME }}
+                </a>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="row mb-2">
+                <header class="col-md-9 offset-md-3">
+                    {% block header %}{% endblock %}
+                </header>
+            </div>
+            <div class="row">
+                <main class="col-md-9 order-md-last">
+                    {% block content %}{% endblock %}
+                </main>
+                <aside class="col-md-3 order-md-first">
+                    {% call local_nav_unit() %}
+                        {{ local_link('Trénink', '/trenink/') }}
+                        {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
+                        {{ local_link('Odkazy', '/odkazy/') }}
+                        {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
+                        {{ local_link('<em>Přidat komentář</em>'|safe, 'https://clenove.hrbatypes.cz/komentare/pridat/') }}
+                    {% endcall %}
+                    {% call local_nav_unit('Aktuality') %}
+                        {% for article in (all_articles or articles)[:5] %}
+                            {{ local_link(article.title, '/' ~ article.url) }}
+                        {% endfor %}
+                    {% endcall %}
+                    {% call local_nav_unit('Sezóny') %}
+                        {% for category, articles in categories|sort_categories %}
+                            {{ local_link(category.name, '/' ~ category.url) }}
+                        {% endfor %}
+                    {% endcall %}
+                </aside>
+            </div>
+        </div>
+    </body>
+</html>

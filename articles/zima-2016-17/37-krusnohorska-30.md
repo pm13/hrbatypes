@@ -1,0 +1,23 @@
+Title: 37. Krušnohorská 30
+Date: 2017-01-18 14:15
+Category: Zima 2016/17
+Author: Ferda
+
+Silný nárazový vítr, závěje a sněhové jazyky, uzavřené silnice, husté sněžení doporučení nevyjíždět, ale závod nezrušili tak jsem musel jet. Dostat se na start bylo sice obtížnější než obvykle, ale s odstavením auta do závěje, prorážením sněhových jazyků pěšky a úpěním na lyžích proti větru se mi to podařilo.
+
+![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}
+
+Prezentace probíhá v příjemném bufetu na stadionu, lidí je tu příjemně málo, organizátoři milí a usměvaví, velký rozdíl oproti Night Light Marathonu. Trasa je naštěstí změněna, původní trasu přes Vitišku a Pramenáč se vzhledem k podmínkám nedaří udržet ve sjízdném stavu. I na náhradní trati jsou místa kde se bruslí jen velmi obtížně.
+
+Na start 15 kilometrového závodu se nikdo nežene, takže i když přijdu 5 minut před startem nemám problém stoupnout si do první řady. Proběhne kontrola, že jsou všichni na startu a start. Ten proběhl krásně, nikam se zbytečně nikdo nežene a já asi poprvé na závodě užívám příjemné tempo hned od startu a hlídám si čelo závodu z třetí pozice. Po úvodním zahřívacím kolečku se sjezdovkou si říkám, že bych mohl zkusit odjet a udělat si náskok na zítra. Zrychlím do prudkého kopce a jsem první, bohužel při vyhýbání s turistou mi špička lyže zajede do hlubokého sněhu a končím na zemi. Náskok je pryč a opět se řadím na druhé místo a čekám na další příležitost, která přišla relativně brzy a té už jsem využil lépe a vypracovaný náskok jsem vcelku pohodovým tempem udržel až do cíle, a to i přes cílového tygra pro fanoušky. Opět se potvrdilo, že chce-li slabší lyžař/běžec/sportovec vyhrát musí dobře zvolit závod a to se mi povedlo náramně. A těšil jsem se, že podobné to bude i v neděli, i když jsem měl obavu, že někdo rychlý přijede.
+
+A opravdu přijeli. Kamil Myšík a Martin Kafka, nerozlučná dvojka, co si stále dělá srandu z mého mazání a jen překartáčování naprášených lyžích před závodem. No holt dneska nebude pohodová vyjížďka, sice jsem se Kamila snažil přesvědčit ať se nikam nežene, ale marně. Po startu vypálil jak splašený a při opětovném průjezdu stadionem po cca 600 metrech měl tak 50 - 100 metrů náskoku. Je pravda, že jsem mu pomohl svou nešikovností a pádem při výstupu do sjezdovky (zde musím poděkovat Martinovi Malečkovi, že zastavil proud závodníku za mnou a já se mohl v klidu postavit a pokračovat bez ztráty pozice ve startovním poli. Jo malé závody mají své výhody), ale to neomlouvá mou pomalost. Po průjezdu stadionem mě nebavilo okupovat 4. pozici a tak jsem zkusil jet Kamila stíhat. Na rovinatých pasážích to nešlo, ale alespoň se zdálo, že se nevzdaluje. Horší bylo, že když jsem se po 4 km otočil, smečka vlčáku za mnou byla nebezpečně blízko. Naštěstí následovalo kilometrové stoupání, kde jsem úspěšně dojel Kamila, pokorně mu šlapal na patky a nechal ho razit zapadanou a zafoukanou stopu a smečka vlčáků se někam ztratila. Bohužel po stoupání přišlo pozvolné a dlouhé klesání, kde se ukázalo, že mé lyže nejsou konkurenceschopné, tak jsem píchal jak zběsilý aby Kamil nezmizel. To se do jisté míry podařilo a v následujícím stoupání si ho zas docvakl. Ve sjezdu se za ním opět schoval a ve stoupání na závodní tratě jsem mu zkusil ujet, abych si vyzkoušel nástup do dlouhého 3 km finiše. Ujet se podařilo v pohodě, taktika vypadá dobře, jen mě docela brzy po skončení kopců zas dojel. Před průjezdem stadionem do druhého kola jsem se nechal předjet, aby si opět užil chvíli slávy a ovace fanoušků. Bohužel za stadionem jsem se ho neudržel, ale náskok si Kamil vypracoval jen malý (cca 20 metrů) a tak mi nezbylo nic jiného než jet do stoupání bomby a zmizet. Podařilo se, Kamil nikde. Dalším postupným cílem bylo nenechat se předjet v dlouhém klesání. To se povedlo a před stoupáním jsem měl k dobru dobré 2 metry :), holt neumím soupaže. Ale ty dva metry byly rozhodující, do kopce jsem zas prásknul do koní a jel co to dalo abych si mohl dovolit chytat tygra v cíli. Vše se povedlo jen tygra (ne Žižkovského) zavřeli do klece, ale to vlastně nevadilo a vítězný double byl na světě. Teď bych měl pověsit lyže na hřebík a užívat si slávy :-D. Nedělního závodu se zúčastnil i Jirka a vybojoval krásné 14 místo.
+
+Tak za rok snad znovu a i se stejným množstvím sněhu a naší větší účastí. Jelikož se opět se potvrdilo, že Krušnohorská 30 je příjemný závod.
+
+Výsledky najdete v přiloženém souboru. O závodě si můžete přečíst i v [Teplickém Deníku](http://teplicky.denik.cz/ostatni_region/lyzari-behem-krusnohorske-tricitky-souperili-take-s-pocasim-20170116.html).
+
+Přílohy:
+--------
+
+- [výsledky]({static}/static/zima-2016-17/K30-2017.pdf)

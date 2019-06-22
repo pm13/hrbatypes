@@ -1,0 +1,30 @@
+{% macro local_nav_unit(header=none) %}
+    <nav class="card mb-3">
+        {% if header %}
+            <h2 class="card-header h4">{{ header }}</h2>
+        {% endif %}
+        <div class="list-group">
+            {{ caller() }}
+        </div>
+    </nav>
+{% endmacro %}
+
+{% macro local_link(text, url) %}
+    {% with active = (text in (category, article and article.title, page and page.title, page and page.aside)) %}
+        <a class="list-group-item list-group-item-action {{ 'active' if active }}" href="{{ url }}">{{ text }}</a>
+    {% endwith %}
+{% endmacro %}
+
+{% macro article_header(article, link_to_category=false) %}
+    <p class="font-italic">
+        {{ article.locale_date }}
+        {% if article.author %}
+            – {{ article.author }}
+        {% endif %}
+        {% if link_to_category %}
+            – <a href="/{{ article.category.url }}">{{ article.category }}</a>
+        {% else %}
+            – {{ article.category }}
+        {% endif %}
+    </p>
+{% endmacro %}

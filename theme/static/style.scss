@@ -1,0 +1,56 @@
+$primary: #800;
+$secondary: #c70;
+$link-color: #de6207;
+
+$navbar: #ffc000;
+$info: #6c757d; // $gray-600
+
+// Disable rounded borders.
+$enable-rounded: false;
+
+// Make texts more compact.
+$font-size-base: 0.925rem;
+
+$h1-font-size: 2rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.5rem;
+$h4-font-size: 1.25rem;
+$h5-font-size: 1.075rem;
+
+$blockquote-font-size: 1.075rem;
+
+// Include bootstrap.
+@import 'bootstrap/scss/bootstrap';
+
+// Layout: make place for fixed navbar.
+body {
+    padding-top: 4rem;
+}
+
+// Navbar: set background color.
+.navbar {
+    background: $navbar;
+}
+
+// Brand: set font properties.
+.navbar-brand {
+    color: $black;
+    font-weight: bold;
+
+    &:hover, &:focus {
+        color: $black;
+    }
+}
+
+// Logo: set image position and size.
+.navbar-brand img {
+    position: relative;
+    bottom: 0.1rem;
+    height: 2rem;
+}
+
+// Sticky article: set border color and background.
+.sticky {
+    border-color: $gray-400 !important;
+    background: $gray-100;
+}

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ article.title }}
+{% endblock %}
+
+{% block header %}
+    <h1>{{ article.title }}</h1>
+{% endblock %}
+
+{% block content %}
+    {{ article_header(article, link_to_category=true) }}
+    {{ article.content|postprocess_content(smaller_headers=article.sticky) }}
+{% endblock %}

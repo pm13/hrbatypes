@@ -70,3 +70,8 @@ RSS
 
 - [RSS](/rss.xml)
 - [RSS ke komentářům](https://clenove.hrbatypes.cz/komentare/rss.xml)
+
+Zdrojové kódy
+-------------
+
+- [Zdrojové kódy webu](https://github.com/pm13/hrbatypes/)

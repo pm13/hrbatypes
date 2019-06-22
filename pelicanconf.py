@@ -7,7 +7,7 @@ OUTPUT_PATH = pathlib.Path('~/tmp/hrbatypes').expanduser()
 PORT = 9999
 
 SITENAME = 'VSK MFF UK BL'
-SITEURL = os.environ.get('SITEURL', f'http://127.0.0.1:{PORT}')
+SITEURL = os.environ.get('URL', f'http://127.0.0.1:{PORT}')
 
 ARTICLE_URL = PAGE_URL = '{slug}/'
 ARTICLE_SAVE_AS = PAGE_SAVE_AS = '{slug}/index.html'

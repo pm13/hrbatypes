@@ -1,5 +1,5 @@
 /*
     Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
-    Content-Security-Policy: default-src 'self' clenove.hrbatypes.cz
+    Content-Security-Policy: default-src 'self' clenove.hrbatypes.cz; frame-ancestors 'none'
     Referrer-Policy: same-origin
     X-Content-Type-Options: nosniff

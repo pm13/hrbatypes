@@ -43,6 +43,7 @@ STATIC_CREATE_LINKS = True
 
 THEME = 'theme'
 ARTICLE_EXCLUDES = ['theme']
+IGNORE_FILES = ['README.md']
 
 FEED_RSS = 'rss.xml'
 FEED_MAX_ITEMS = 10

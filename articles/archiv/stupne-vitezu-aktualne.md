@@ -1,4 +1,4 @@
-Title: Stupně vítězů (aktuálně)
+Title: Stupně vítězů aktuálně
 Date: 2019-06-26 12:00
 Category: Archív
 

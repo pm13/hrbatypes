@@ -1,4 +1,4 @@
-Title: Stupně vítězů (ze staršího webu)
+Title: Stupně vítězů ze staršího webu
 Date: 2019-05-12 12:00
 Category: Archív
 

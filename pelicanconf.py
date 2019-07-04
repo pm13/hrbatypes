@@ -1,13 +1,12 @@
 import os
-import pathlib
 from functools import partial
 
 PATH = '.'
-OUTPUT_PATH = pathlib.Path('~/tmp/hrbatypes').expanduser()
+OUTPUT_PATH = os.path.expanduser('~/tmp/hrbatypes')
 PORT = 9999
 
 SITENAME = 'VSK MFF UK BL'
-SITEURL = os.environ.get('URL', f'http://127.0.0.1:{PORT}')
+SITEURL = os.environ.get('URL', '/')
 
 ARTICLE_URL = PAGE_URL = '{slug}/'
 ARTICLE_SAVE_AS = PAGE_SAVE_AS = '{slug}/index.html'

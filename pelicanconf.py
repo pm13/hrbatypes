@@ -1,9 +1,7 @@
 import os
 from functools import partial
 
-PATH = '.'
 OUTPUT_PATH = os.path.expanduser('~/tmp/hrbatypes')
-PORT = 9999
 
 SITENAME = 'VSK MFF UK BL'
 SITEURL = os.environ.get('URL', '')

@@ -5,7 +5,7 @@ PATH = '.'
 PORT = 9999
 
 SITENAME = 'VSK MFF UK BL'
-SITEURL = os.environ.get('URL', '/')
+SITEURL = os.environ.get('URL', '')
 
 ARTICLE_URL = PAGE_URL = '{slug}/'
 ARTICLE_SAVE_AS = PAGE_SAVE_AS = '{slug}/index.html'
@@ -40,6 +40,7 @@ STATIC_PATHS = ['favicon.ico', 'static']
 STATIC_CREATE_LINKS = True
 
 THEME = 'theme'
+
 ARTICLE_EXCLUDES = ['output', 'theme']
 IGNORE_FILES = ['README.md']
 

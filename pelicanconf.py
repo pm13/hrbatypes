@@ -2,6 +2,7 @@ import os
 from functools import partial
 
 PATH = '.'
+OUTPUT_PATH = os.path.expanduser('~/tmp/hrbatypes')
 PORT = 9999
 
 SITENAME = 'VSK MFF UK BL'
@@ -41,7 +42,7 @@ STATIC_CREATE_LINKS = True
 
 THEME = 'theme'
 
-ARTICLE_EXCLUDES = ['output', 'theme']
+ARTICLE_EXCLUDES = ['theme']
 IGNORE_FILES = ['README.md']
 
 FEED_RSS = 'rss.xml'

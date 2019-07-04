@@ -1,6 +1,7 @@
 import os
 from functools import partial
 
+PATH = '.'
 OUTPUT_PATH = os.path.expanduser('~/tmp/hrbatypes')
 
 SITENAME = 'VSK MFF UK BL'

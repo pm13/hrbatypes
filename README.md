@@ -70,7 +70,7 @@ a
 [celkové výsledky]({static}/static/zima-2017-18/boboloppet-2018.pdf)
 ```
 
-### Formátovací poznámky
+### Poznámky
 
 * Začínejte nadpisem druhé úrovně (první úroveň se použije pro titulek).
 

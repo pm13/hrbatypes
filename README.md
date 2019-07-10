@@ -65,5 +65,12 @@ a
 
 ### Vyšší (formátovací) dívčí
 
-Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [bootstrap](https://getbootstrap.com/) )
+Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [bootstrap](https://getbootstrap.com/) ) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
 
+```
+![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}
+```
+
+Zde obrázek s Ferdinandem plave vlevo, vpravo má okraj 2 pixely a je 450 pixelů široký (pochopitelně!).
+
+Inspirujte se existujícími články a nebojte se zeptat toho, kdo to celé zpískal.

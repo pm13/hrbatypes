@@ -20,7 +20,7 @@ V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte v
 Spuštění
 --------
 
-Pelican je generátor statických webových stránek, takže ve výchozím adresáři spuštění `pelican` udělá právě to - vygeneruje adresář `~/tmp/hrbatypes`, který lze nahrát někam na server. Pokud chcete následně pustit server (doporučujeme):
+Pelican je generátor statických webových stránek, takže ve výchozím adresáři spuštění `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes`, který lze nahrát někam na server. Pokud chcete následně pustit server (doporučujeme):
 
 ```
 pelican --listen
@@ -36,7 +36,7 @@ Na <http://localhost:8000> potom uvidíte, jak bude vaše lokální varianta vyp
 
 Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní řešení:
 
-1. Vygenerovat `~/tmp/hrbatypes` (viz výše)
+1. Vygenerovat `~/hrbatypes` (viz výše)
 
 2. Spustit ve vygenerovaném adresáři integrovaný webový server Pythonu:
 

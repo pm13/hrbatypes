@@ -2,7 +2,7 @@ import os
 from functools import partial
 
 PATH = '.'
-OUTPUT_PATH = os.path.expanduser('~/tmp/hrbatypes')
+OUTPUT_PATH = os.path.expanduser('~/hrbatypes')
 
 SITENAME = 'VSK MFF UK BL'
 SITEURL = os.environ.get('URL', '')

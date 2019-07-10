@@ -6,7 +6,7 @@ Web [VSK MFF UK BL](https://www.hrbatypes.cz)
 Instalace
 ---------
 
-V Linuxu doporučujeme použit balíček s nástrojem `pelican` (více viz https://blog.getpelican.com/) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech **markdown** - takže například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
+V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz https://blog.getpelican.com/) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech **Markdown** - například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
 
 
 Alternativně lze nainstalovat potřebné závislosti do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
@@ -20,7 +20,7 @@ V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte v
 Spuštění
 --------
 
-Pelican je generátor statických webových stránek, takže ve výchozím adresáři spuštění `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes`, který lze nahrát někam na server. Pokud chcete následně pustit server (doporučujeme):
+Pelican je generátor statických webových stránek, takže ve výchozím adresáři příkaz `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes`, který lze nahrát někam na server. Následně můžete spustit server (doporučujeme):
 
 ```
 pelican --listen
@@ -47,7 +47,7 @@ python -m http.server
 Změna obsahu
 ------------
 
-Všechny články se píšou v **markdownu** (vysvětlení syntaxe viz třeba https://commonmark.org/help/ nebo https://help.gamejolt.com/markdown).
+Všechny články se píšou v **Markdownu** (vysvětlení syntaxe viz třeba https://commonmark.org/help/ nebo https://help.gamejolt.com/markdown).
 
 Články jsou strukturované do podadresářů `articles` podle sezón a jmenují se podle titulku, ale obojí je jen pro pohodlnost. Kde se na webu článek objeví, záleží na metadatech v něm. Příklad (snad pochopitelný):
 
@@ -66,7 +66,7 @@ Přílohy (obrázky i výsledky) mají strukturou podobnou, ovšem v `static`. O
 
 a
 
-```
+```-
 [celkové výsledky]({static}/static/zima-2017-18/boboloppet-2018.pdf)
 ```
 
@@ -78,7 +78,7 @@ a
 
 ### Vyšší (formátovací) dívčí
 
-Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [bootstrap](https://getbootstrap.com/)) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
+Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [Bootstrap](https://getbootstrap.com/)) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
 
 ```
 ![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}

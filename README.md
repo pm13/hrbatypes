@@ -58,7 +58,7 @@ Category: Zima 2017/18
 Author: Vláďa
 ```
 
-Přílohy (obrázky i výsledky) mají strukturou podobnou, ovšem v `static`. Odkazuje se pak na ně takto:
+Přílohy (obrázky i výsledky) mají strukturu podobnou, ovšem v `static`. Odkazuje se pak na ně takto:
 
 ```
 ![JF]({static}/static/zima-2017-18/vasaloppet-jf.jpg)
@@ -75,6 +75,8 @@ a
 * Začínejte nadpisem druhé úrovně (první úroveň se použije pro titulek).
 
 * Obrázky ukládejte v přiměřené velikosti.
+
+* Úvodní stránku nenajdete v `articles`, ale v `pages` (`vitejte.md`).
 
 ### Vyšší (formátovací) dívčí
 

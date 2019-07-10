@@ -20,7 +20,7 @@ V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte v
 Spuštění
 --------
 
-Pelican je generátor statických webových stránek, takže ve výchozím adresáři příkaz `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes`, který lze nahrát někam na server. Následně můžete spustit server (doporučujeme):
+Pelican je generátor statických webových stránek, takže ve výchozím adresáři příkaz `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes` ( který lze někam nahrát). Následně můžete spustit server (doporučujeme):
 
 ```
 pelican --listen

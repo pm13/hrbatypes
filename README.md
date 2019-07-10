@@ -15,7 +15,7 @@ Alternativně lze nainstalovat potřebné závislosti do virtuálního prostřed
 pip install -r requirements.txt
 ```
 
-Ve Windows... **TODO!**
+Ve Windows si nějak opatřete rozumnou instalaci Pythonu a spusťte výše uvedený příkaz.
 
 Spuštění
 --------
@@ -33,6 +33,16 @@ pelican --autoreload --listen
 ```
 
 Na <http://localhost:8000> potom uvidíte, jak bude vaše lokální varianta vypadat na webu.
+
+Ve Windows je s `--listen` problém, tak musít zvolit dvoukrokové řešení:
+
+1. Vygenerovat `~/tmp/hrbatypes` (viz výše)
+
+2. Spustit ve vygenerovaném adresáři integrovaný webový server Pythonu:
+
+```
+python -m http.server
+```
 
 Změna obsahu
 ------------

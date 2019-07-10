@@ -37,5 +37,25 @@ Na <http://localhost:8000> potom uvidíte, jak bude vaše lokální varianta vyp
 Změna obsahu
 ------------
 
-Všechny  články se píšou v **markdownu** (vysvětlení syntaxe viz třeba hhtps://commonmark.org/help nebo  https://help.gamejolt.com/markdown).
+Všechny  články se píšou v **markdownu** (vysvětlení syntaxe viz třeba https://commonmark.org/help nebo  https://help.gamejolt.com/markdown).
 
+Články jsou strukturované do podadresářů `articles` podle sezón a jmenují se podle titulku, ale obojí je jen pro pohodlnost. Kde se na webu článek objeví, záleží na metadatech v něm. Příklad (snad pochopitelný):
+
+```
+Title: 47. Karlův běh
+Date: 2018-02-14 09:07
+Category: Zima 2017/18
+Author: Vláďa
+```
+
+Přílohy (obrázky i výsledky) mají strukturou podobnou, ovšem v `static`. Odkazuje pak na ně takto:
+
+```
+![JF]({static}/static/zima-2017-18/vasaloppet-jf.jpg)
+```
+
+a 
+
+```
+[celkové výsledky]({static}/static/zima-2017-18/boboloppet-2018.pdf)
+```

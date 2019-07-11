@@ -12,7 +12,7 @@ V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz ht
 Alternativně lze nainstalovat potřebné závislosti do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
 
 ```
-pip install -r requirements.txt
+pip install pelican Markdown
 ```
 
 V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte výše uvedený příkaz.

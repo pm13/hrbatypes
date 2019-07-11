@@ -20,4 +20,4 @@ Horský maraton 2019
 Krkonošská 70 2019
 ------------------
 
-![Krkonoška 70 2019]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2019.jpg){: width="650"}
+![Krkonošská 70 2019]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2019.jpg){: width="650"}

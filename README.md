@@ -9,7 +9,7 @@ Instalace
 V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz https://blog.getpelican.com/) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech **Markdown** - například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
 
 
-Alternativně lze nainstalovat potřebné závislosti do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
+Alternativně lze nainstalovat potřebné balíčky do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
 
 ```
 pip install pelican Markdown
@@ -32,7 +32,7 @@ Oba kroky lze zkombinovat s obnovením po každé změně (doporučujeme):
 pelican --autoreload --listen
 ```
 
-Na <http://localhost:8000> potom uvidíte, jak bude vaše lokální varianta vypadat na webu.
+Na <http://localhost:8000> potom uvidíte, jak budou vaše lokální úpravy vypadat na webu.
 
 Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní řešení:
 

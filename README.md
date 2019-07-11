@@ -76,7 +76,7 @@ a
 
 * Začínejte nadpisem druhé úrovně (první úroveň se použije pro titulek).
 
-* Fotky ukládejte v přiměřené velikosti.
+* Fotky ukládejte v přiměřené velikosti. Pojmenujte je tak, aby se dalo vytušit, k čemu se vztahují.
 
 * Úvodní stránku nenajdete v `articles`, ale v `pages` (`vitejte.md`).
 

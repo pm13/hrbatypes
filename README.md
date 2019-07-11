@@ -44,6 +44,8 @@ Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní 
 python -m http.server
 ```
 
+*Pro pokročilé:* příkaz `pelican` má mnoho dalších parametrů, například ``--output``, ``--port`` a především ``--help``.
+
 Změna obsahu
 ------------
 

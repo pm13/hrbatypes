@@ -26,7 +26,7 @@ Pelican je generátor statických webových stránek, takže ve výchozím adres
 pelican --listen
 ```
 
-Oba kroky lze zkombinovat s obnovením po každé změně (doporučujeme):
+Oba předchozí kroky lze nahradit jedním, který navíc po každé změně příslušné soubory vygeneruje znovu (doporučujeme):
 
 ```
 pelican --autoreload --listen

@@ -1,5 +1,5 @@
 Title: Stupně vítězů aktuálně
-Date: 2019-06-26 12:00
+Date: 2019-07-23 12:00
 Category: Archív
 
 Napříč Českou Kanadou 2019

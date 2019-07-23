@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2019-06-26 12:00
 Category: Archív
 
+Napříč Českou Kanadou 2019
+------------------
+
+![Napříč Českou Kanadou 2019]({static}/static/archiv/stupne-vitezu-aktualne/ceska-kanada-2019.jpg){: width="650"}
+
 Jasoň - Drsoň 2019
 ------------------
 

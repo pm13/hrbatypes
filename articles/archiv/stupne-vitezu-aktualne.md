@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2019-07-23 12:00
+Date: 2019-08-12 12:00
 Category: Archív
+
+Františkova bludička 2019
+------------------
+
+![Františkova bludička 2019]({static}/static/archiv/stupne-vitezu-aktualne/frantiskova-bludicka-2019.jpg){: width="650"}
 
 Napříč Českou Kanadou 2019
 ------------------

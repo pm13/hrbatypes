@@ -5,6 +5,8 @@ Category: Archív
 Františkova bludička 2019
 ------------------
 
+Podle později zvěřejněných výsledků 1.
+
 ![Františkova bludička 2019]({static}/static/archiv/stupne-vitezu-aktualne/frantiskova-bludicka-2019.jpg){: width="650"}
 
 Bohemia Orienteering 2019

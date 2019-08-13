@@ -1,5 +1,5 @@
 Title: Stupně vítězů aktuálně
-Date: 2019-08-12 12:00
+Date: 2019-08-13 12:00
 Category: Archív
 
 Františkova bludička 2019

@@ -7,6 +7,11 @@ Františkova bludička 2019
 
 ![Františkova bludička 2019]({static}/static/archiv/stupne-vitezu-aktualne/frantiskova-bludicka-2019.jpg){: width="650"}
 
+Bohemia Orienteering 2019
+------------------
+
+![Bohemia Orienteering 2019]({static}/static/archiv/stupne-vitezu-aktualne/bohemia-2019.jpg){: width="650"}
+
 Napříč Českou Kanadou 2019
 ------------------
 

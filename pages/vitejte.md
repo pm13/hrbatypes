@@ -2,9 +2,9 @@ Title: Vítejte na stránkách běžců na lyžích MFF UK
 Save_as: index.html
 URL:
 
-Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. To všechno znamená, že sezóna podzimních krosů a jiných taškařic se blíží tak neváhejte a přijďtě na první trénink nové sezony, který bude ve čtvrtek 26.9.2019 v tradiční čas na tradičním místě. A to vše za podmínky, že bude dostatečný počet cvičenců.
+Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. To všechno znamená, že sezóna podzimních krosů a jiných taškařic se blíží – tak neváhejte a přijďte na první trénink nové sezony, který bude ve čtvrtek 26.9.2019 v tradiční čas na tradičním místě. **A to vše za podmínky, že bude dostatečný počet cvičenců.**
 
-Vyplňte prosím svou účast v formuláři.
+Proto prosíme – [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 
 ![Bedna na K70]({static}/static/vitejte/k70-bedna.jpg){: width="500"}
 

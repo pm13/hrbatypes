@@ -6,7 +6,7 @@ Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen n
 
 Proto prosíme – [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 
-![Bedna na K70]({static}/static/vitejte/k70-bedna.jpg){: width="500"}
+![Napříč Českou Kanadou 2019]({static}/static/vitejte/ceska-kanada-2019.jpg){: height="320" .mr-1 .mb-1} ![Bohemia Orienteering 2019]({static}/static/vitejte/bohemia-2019.jpg){: height="320"}
 
 Pokud hledáte informace o oddílu, pak je najdete v částech ["Trénink"](/trenink/) a ["Členové oddílu"](/clenove-oddilu/) nebo nás můžete [kontaktovat](https://clenove.hrbatypes.cz/komentare/pridat/).
 

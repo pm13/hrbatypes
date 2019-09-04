@@ -5,7 +5,7 @@ Category: Archív
 Františkova bludička 2019
 ------------------
 
-Podle později zvěřejněných výsledků 1.
+Podle později zveřejněných výsledků 1.
 
 ![Františkova bludička 2019]({static}/static/archiv/stupne-vitezu-aktualne/frantiskova-bludicka-2019.jpg){: width="650"}
 

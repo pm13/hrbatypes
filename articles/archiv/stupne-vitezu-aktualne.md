@@ -5,6 +5,8 @@ Category: Archív
 Barokomaratón 2019
 ------------------
 
+Ve skutečnosti 4. místo - ale nebylo by úplně fér srovnávat nás se staršími, kteří měli víc času získat zkušenosti a tak je mohlo napadnout, že nebylo úplně výhodné zničit se několik dní před startem.
+
 ![Barokomaratón 2019]({static}/static/archiv/stupne-vitezu-aktualne/barokomaraton-2019.jpg){: width="650"}
 
 Františkova bludička 2019

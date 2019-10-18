@@ -3,8 +3,8 @@ Save_as: index.html
 URL:
 
 Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. Podzimní příprava vyvrcholí tradičně soustředěním u Hesounů, které je plánováno v termínu 7.-15.12.
-Jinak tréninky se jako obvykle konají každý čtvrtek proto
 
+Jinak tréninky se jako obvykle konají každý čtvrtek proto
 [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 
 ![Napříč Českou Kanadou 2019]({static}/static/vitejte/ceska-kanada-2019.jpg){: height="320" .mr-1 .mb-1} ![Bohemia Orienteering 2019]({static}/static/vitejte/bohemia-2019.jpg){: height="320"}

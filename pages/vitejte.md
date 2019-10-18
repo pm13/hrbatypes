@@ -2,9 +2,10 @@ Title: Vítejte na stránkách běžců na lyžích MFF UK
 Save_as: index.html
 URL:
 
-Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. To všechno znamená, že sezóna podzimních krosů a jiných taškařic se blíží – tak neváhejte a přijďte na první trénink nové sezony, který bude ve čtvrtek 26.9.2019 v tradiční čas na tradičním místě. **A to vše za podmínky, že bude dostatečný počet cvičenců.**
+Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. Podzimní příprava vyvrcholí tradičně soustředěním u Hesounů, které je plánováno v termínu 7.-15.12.
+Jinak tréninky se jako obvykle konají každý čtvrtek proto
 
-Proto prosíme – [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
+[nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 
 ![Napříč Českou Kanadou 2019]({static}/static/vitejte/ceska-kanada-2019.jpg){: height="320" .mr-1 .mb-1} ![Bohemia Orienteering 2019]({static}/static/vitejte/bohemia-2019.jpg){: height="320"}
 

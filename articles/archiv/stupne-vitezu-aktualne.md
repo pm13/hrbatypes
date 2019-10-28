@@ -2,10 +2,10 @@ Title: Stupně vítězů aktuálně
 Date: 2019-08-13 12:00
 Category: Archív
 
-Podkrnošský podmírák 2019
---------------------
+Podkrkonošský Podmírák 2019
+---------------------------
 
-![Podkrnošský podmírák 2019]({static}/static/archiv/stupne-vitezu-aktualne/podkrnossky-podmirak-2019.jpg){: width="450"}
+![Podkrkonošský podmírák 2019]({static}/static/archiv/stupne-vitezu-aktualne/podkrkonossky-podmirak-2019.jpg){: width="450"}
 
 Barokomaratón 2019
 ------------------

@@ -7,6 +7,9 @@ Podkrkonošský Podmírák 2019
 
 ![Podkrkonošský podmírák 2019]({static}/static/archiv/stupne-vitezu-aktualne/podkrkonossky-podmirak-2019.jpg){: width="450"}
 
+Tady by ve skutečnosti měly být fotografie dvě. Podmírák se koná dvakrát ročně (na jaře a na podzim) a Petr není jediným hrbatým
+běžcem, který se letos ocitl na stupních vítězů. Jenže na to se historie neptá, ta se ptá: "Kde byl fotograf?".
+
 Barokomaratón 2019
 ------------------
 

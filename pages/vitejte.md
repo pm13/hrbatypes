@@ -2,7 +2,7 @@ Title: Vítejte na stránkách běžců na lyžích MFF UK
 Save_as: index.html
 URL:
 
-![Podzimní běh lyžařů 2019]({static}/static/vitejte/podzimni-beh-lyzaru-2019.jpg){: height="320" .float-right .ml-2 .mb-1}
+![Podzimní běh lyžařů 2019]({static}/static/vitejte/podzimni-beh-lyzaru-2019.jpg){: height="320" .float-md-right .ml-2 .mb-1}
 
 Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. Podzimní příprava vyvrcholí tradičně soustředěním u Hesounů, které je plánováno v termínu 7.-15.12.
 

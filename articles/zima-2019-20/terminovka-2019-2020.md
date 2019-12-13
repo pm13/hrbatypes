@@ -76,7 +76,7 @@ Ostatní závody hodné vážného zřetele
 
 - závody v Senohrabech podle aktuální sněhové situace.
 
-A ještě odkaz, na konkurenční listiny nejen dálkových běhů:
+Konkurenční listiny nejen dálkových běhů:
 -----------------------------------------------------------
 
 - [Svaz lyžařů ČR](http://zavody.czech-ski.com/event/list)

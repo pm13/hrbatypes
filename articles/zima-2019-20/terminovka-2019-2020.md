@@ -4,11 +4,11 @@ Category: Zima 2019/20
 Author: Jirka
 Sticky: 1
 
-Na horách již stačil napadnout a roztát první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
+Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 
 A teď již raději necháme mluvit raději mluvit data.
 
-Změny vyhrazeny, případné další závody budou doplněny v průběhu podzimu a zimy.
+Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 Soustředění, prosinec, bouda Berta (u Hesounů)
 ----------------------------------------------

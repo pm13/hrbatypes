@@ -28,7 +28,7 @@ Něco pro dálkoplazy
 ### Seriál [SKI-TOUR](http://www.ski-tour.cz/cs/zavody)
 
 - [Bedřichovský nightlight maraton](https://www.ski-tour.cz/bedrichovsky-nlm/r2), 3. - 4. ledna, Bedřichov
-- [Zadovsk8 30](https://www.ski-tour.cz/zadovska-30/r3), 18. - 19. ledna, Churáňov
+- [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), 18. - 19. ledna, Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 24. - 25. ledna, Velké Karlovice
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 1. - 2. února, Deštné v Orlických horách
 - [Jizerská 50](http://jiz50.cz), 7. - 9. února, Bedřichov
@@ -46,10 +46,11 @@ Něco pro dálkoplazy
 Ostatní závody hodné vážného zřetele
 ------------------------------------
 
-### 40. [Krušnohorská 30](https://k30-lote.webnode.cz), 25. - 26. 1., Nové Město v Krušných horách (náhradní termín 14.-15.3.2020)
+### 40. [Krušnohorská 30](https://k30-lote.webnode.cz), 25. - 26. 1., Nové Město v Krušných horách 
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky
+- náhradní termín 14.-15.3.2020
 
 ### 13. ročník [Bedřichovské pětihodinovky](http://www.b5h.cz/), 5. ledna, Bedřichov
 
@@ -65,13 +66,15 @@ Ostatní závody hodné vážného zřetele
 - libovolný styl
 - součást série závodů Bobotripple, který Petr vyhrál v roce 2015
 
-### [Jesenická 70](http://www.jesenicka70.cz/cz/), ¯\_(ツ)_/¯
+### [Jesenická 70](http://www.jesenicka70.cz/cz/), ¯\\_(ツ)_/¯
 
 - nejtěžší závod v běhu na lyžích na území ČR
 
 ### [Skadi Loppet](http://www.skadi-loppet.de/en/home.html), 14. - 15. března, Velký Javor
 
-### [SKI Senohraby](https://www.senohraby.cz/ski-179/), závody v Senohrabech podle aktuální sněhové situace.
+### [SKI Senohraby](https://www.senohraby.cz/ski-179/) 
+
+- závody v Senohrabech podle aktuální sněhové situace.
 
 A ještě odkaz, na konkurenční listiny nejen dálkových běhů:
 -----------------------------------------------------------

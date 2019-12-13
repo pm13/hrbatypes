@@ -79,6 +79,7 @@ Ostatní závody hodné vážného zřetele
 A ještě odkaz, na konkurenční listiny nejen dálkových běhů:
 -----------------------------------------------------------
 
+- [Svaz lyžařů ČR](http://zavody.czech-ski.com/event/list)
 - [bezky.net](https://bezky.net/kalendar)
 - [Ski Classics](https://vismaskiclassics.com/)
 - [Euroloppet](https://www.euroloppet.com/en.html)

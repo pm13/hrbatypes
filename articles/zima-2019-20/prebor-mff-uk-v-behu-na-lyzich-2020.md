@@ -28,3 +28,11 @@ Muži 11 km
 | 1.     | Vahalová Petra   | 27:40 |        |
 | 2.     | Valentová Helena | 30:22 | +2:42  |   
 
+
+![stadion]({static}/static/zima-2019-20/soustredko-ferda-cil.jpg){: height="600"}
+![stadion]({static}/static/zima-2019-20/soustredko-tym-stadion.jpg){: height="600"}
+![svaznice]({static}/static/zima-2019-20/soustredko-ferda-na-svaznici.jpg){: height="600"}
+![mohyla]({static}/static/zima-2019-20/soustredko-mohyla.jpg){: height="600"}
+![smid]({static}/static/zima-2019-20/soustredko-stoupani-ke-smidovi.jpg){: height="600"}
+![petr]({static}/static/zima-2019-20/soustredko-zlatak-petr.jpg){: height="600"}
+![zlatak_vyhledy]({static}/static/zima-2019-20/soustredko-zlatak-vyhledy.jpg){: height="600"}

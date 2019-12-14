@@ -17,7 +17,7 @@ Muži 8 km
 | 3.     | Rusý Tomáš            | 25:11 | 12:25     | 12:46   |
 | 4.     | Marhoun Petr          | 25:29 | 12:31     | 12:58   |
 | 5.     | Pipek Jan             | 34:46 | 16:58     | 17:48   |
-| DNS    | Fuka Ladislav         |       |           |         |
+| DNS    | Fuka Vladimír         |       |           |         |
 | DNS    | Fišer Jiří            |       |           |         |
 
 Ženy 4 km

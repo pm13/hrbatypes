@@ -41,6 +41,14 @@ VŠ liga, ženy, 6 km klasicky, 6. 1. 2020
 | 7.     | Bochenková Martina | 26:47:3 | 04:38:6 | 00:00:0   |
 | 8.     | Chejnovska Anna    | 26:58:4 | 04:49:7 | 00:11:1   |
 
+Bedřichovská pětihodinovka, smíšené dvojice, 6. 1. 2020
+------------------------------------------------------
+
+| Pořadí | Jméno                         | Body |
+|--------|-------------------------------|------|
+| 6.     | Barvíř Honza / Vahalová Petra | 620  |
+| 11.    | Marhoun Petr / Macková Simona | 570  |
+
 Přílohy:
 --------
 

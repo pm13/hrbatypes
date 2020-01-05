@@ -3,6 +3,8 @@ Date: 2020-01-05 22:48:00
 Category: Zima 2019/20
 Author: Petr
 
+*/\* Třeba sem ještě někdo něco připíše... \*/*
+
 VŠ liga, muži, 6 km volně, 5. 1. 2020
 -------------------------------------
 

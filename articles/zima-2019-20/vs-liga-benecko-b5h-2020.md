@@ -40,3 +40,10 @@ VŠ liga, ženy, 6 km klasicky, 6. 1. 2020
 |--------|--------------------|---------|---------|-----------|
 | 7.     | Bochenková Martina | 26:47:3 | 04:38:6 | 00:00:0   |
 | 8.     | Chejnovska Anna    | 26:58:4 | 04:49:7 | 00:11:1   |
+
+Přílohy:
+--------
+
+- [VŠ liga sobota]({static}/static/zima-2019-20/benecko-vysledky-sobota-2020.pdf)
+- [VŠ liga neděle]({static}/static/zima-2019-20/benecko-vysledky-nedele-2020.pdf)
+- [B5h]({static}/static/zima-2019-20/vysledky-b5h-2020.pdf)

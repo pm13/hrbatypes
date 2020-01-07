@@ -6,7 +6,7 @@ Sticky: 1
 
 Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 
-A teď již raději necháme mluvit raději mluvit data.
+A teď již raději necháme mluvit data.
 
 Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
@@ -46,7 +46,7 @@ Něco pro dálkoplazy
 Ostatní závody hodné vážného zřetele
 ------------------------------------
 
-### 40. [Krušnohorská 30](https://k30-lote.webnode.cz), 25. - 26. 1., Nové Město v Krušných horách 
+### 40. [Krušnohorská 30](https://k30-lote.webnode.cz), 25. - 26. 1., Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky
@@ -72,12 +72,12 @@ Ostatní závody hodné vážného zřetele
 
 ### [Skadi Loppet](http://www.skadi-loppet.de/en/home.html), 14. - 15. března, Velký Javor
 
-### [SKI Senohraby](https://www.senohraby.cz/ski-179/) 
+### [SKI Senohraby](https://www.senohraby.cz/ski-179/)
 
 - závody v Senohrabech podle aktuální sněhové situace.
 
 Konkurenční listiny nejen dálkových běhů:
------------------------------------------------------------
+-----------------------------------------
 
 - [Svaz lyžařů ČR](http://zavody.czech-ski.com/event/list)
 - [bezky.net](https://bezky.net/kalendar)

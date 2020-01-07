@@ -20,7 +20,7 @@ VŠ liga, ženy, 4 km volně, 5. 1. 2020
 | Pořadí | Jméno              | Čas     | Ztráta  | Relativně |
 |--------|--------------------|---------|---------|-----------|
 | 7.     | Bochenková Martina | 15:04:4 | 02:06:9 | 00:00:0   |
-| 8.     | Chejnovska Anna    | 15:16:4 | 02:18:9 | 00:12:0   |
+| 8.     | Chejnovská Anna    | 15:16:4 | 02:18:9 | 00:12:0   |
 
 Ani jedna se k nám tak moc nehlásí, ale když s námi obě občas trénují...
 
@@ -39,7 +39,7 @@ VŠ liga, ženy, 6 km klasicky, 6. 1. 2020
 | Pořadí | Jméno              | Čas     | Ztráta  | Relativně |
 |--------|--------------------|---------|---------|-----------|
 | 7.     | Bochenková Martina | 26:47:3 | 04:38:6 | 00:00:0   |
-| 8.     | Chejnovska Anna    | 26:58:4 | 04:49:7 | 00:11:1   |
+| 8.     | Chejnovská Anna    | 26:58:4 | 04:49:7 | 00:11:1   |
 
 Bedřichovská pětihodinovka, smíšené dvojice, 6. 1. 2020
 ------------------------------------------------------

@@ -49,6 +49,8 @@ Bedřichovská pětihodinovka, smíšené dvojice, 6. 1. 2020
 | 6.     | Barvíř Honza / Vahalová Petra | 620  |
 | 11.    | Marhoun Petr / Macková Simona | 570  |
 
+![Benecko]({static}/static/zima-2019-20/benecko.jpeg){: width="700"}
+
 ![Trasa B5h]({static}/static/zima-2019-20/b5h.png){: width="700"}
 
 Přílohy:

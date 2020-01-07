@@ -5,7 +5,7 @@ Author: Petr
 
 */\* Třeba sem ještě někdo něco připíše... \*/*
 
-VŠ liga, muži, 6 km volně, 5. 1. 2020
+VŠ liga, muži, 6 km skate, 5. 1. 2020
 -------------------------------------
 
 | Pořadí | Jméno                 | Čas     | Ztráta  | Relativně |
@@ -14,7 +14,7 @@ VŠ liga, muži, 6 km volně, 5. 1. 2020
 | 12.    | Marhoun Petr          | 19:38:6 | 02:17:2 | 01:07:6   |
 | 21.    | Rusý Tomáš            | 20:33:4 | 03:12:0 | 02:02:4   |
 
-VŠ liga, ženy, 4 km volně, 5. 1. 2020
+VŠ liga, ženy, 4 km skate, 5. 1. 2020
 -------------------------------------
 
 | Pořadí | Jméno              | Čas     | Ztráta  | Relativně |

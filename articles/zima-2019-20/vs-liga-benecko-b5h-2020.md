@@ -28,7 +28,7 @@ VŠ liga, ženy, 4 km skate, 5. 1. 2020
 | 7.     | Bochenková Martina | 15:04:4 | 02:06:9 | 00:00:0   |
 | 8.     | Chejnovská Anna    | 15:16:4 | 02:18:9 | 00:12:0   |
 
-Ani jedna se k nám tak úplně nehlásí (Martina vůbec, Anička v jedné ze dvou kolonek), ale když s námi obě občas trénují...
+*Ani jedna se k nám tak úplně nehlásí (Martina vůbec, Anička v jedné ze dvou kolonek), ale když s námi obě občas trénují...*
 
 VŠ liga, muži, 8 km klasicky, 6. 1. 2020
 ----------------------------------------

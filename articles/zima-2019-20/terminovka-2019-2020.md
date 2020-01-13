@@ -28,7 +28,7 @@ Něco pro dálkoplazy
 ### Seriál [SKI-TOUR](http://www.ski-tour.cz/cs/zavody)
 
 - [Bedřichovský nightlight maraton](https://www.ski-tour.cz/bedrichovsky-nlm/r2), 3. - 4. ledna, Bedřichov
-- [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), ~~18. - 19. ledna~~, 14. - 15. března Churáňov
+- [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), ~~18. - 19. ledna~~ 14. - 15. března Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 24. - 25. ledna, Velké Karlovice
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 1. - 2. února, Deštné v Orlických horách
 - [Jizerská 50](http://jiz50.cz), 7. - 9. února, Bedřichov

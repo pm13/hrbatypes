@@ -9,7 +9,7 @@ Author: Petr
 
 Černá hora byla dneska hodně přísná - snad bude za dva týdny ta v Krkonoších hodnější. Zvláště jestli jí budu muset jet poprvé naplno...
 
-**Ferda k neděli:** Krásná klistrová podmínka. Do kopce mi to celkem šlo, z kopce a po rovině nic moc. A na ty 3 soupažáky jsem neměl, ale to bylo urcitě jenom klistrem a ne mou výkonností 😀.
+**Ferda k neděli:** Krásná klistrová podmínka. Do kopce mi to celkem šlo, z kopce a po rovině nic moc. A na ty 3 soupažáky jsem neměl, ale to bylo určitě jenom klistrem a ne mou výkonností 😀.
 
 
 Skate, 24 km

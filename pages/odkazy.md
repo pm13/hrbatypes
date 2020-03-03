@@ -11,7 +11,7 @@ Nejrůznější důležité stránky
 - [Jizerská o.p.s.](https://www.jizerskaops.cz/)
 - [Bílá stopa Šumava](http://bilastopa.cz/)
 - [Lyžařské běžecké trasy KK](http://gis.kr-karlovarsky.cz/klm/)
-- [HolidayInfo](http://www.holidayinfo.cz/)
+- [HolidayInfo](https://www.holidayinfo.cz/)
 
 Předpovědi počasí
 -----------------
@@ -53,7 +53,7 @@ Obchody
 
 - [LBS sport (Praha)](https://www.lbs-sport.cz/)
 - [Hudy sport, Na Pernštýně (Praha)](https://www.hudy.cz/hudysport-praha-na-perstyne)
-- [Henych sport (Jilemnice)](http://www.sporthenych.cz/)
+- [Henych sport (Jilemnice)](https://www.sporthenych.cz/)
 - [Nyč sport (Liberec)](http://www.nyc-sport.cz/)
 - [Lyže Slonek (Nové Město na Moravě)](http://www.slonek.cz/)
 - [Internetový obchod Sprint](https://www.sprintcz.cz/)

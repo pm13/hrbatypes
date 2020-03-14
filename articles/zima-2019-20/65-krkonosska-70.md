@@ -3,6 +3,12 @@ Date: 2020-03-14 22:05
 Category: Zima 2019/20
 Author: Petr
 
+**Ferda:** 2. flek. Letos to bylo hratelné. Loni 3., předloni 4. takže za rok 1. 😀. Blbé je, že musím ještě rok vydržet lyžovat.
+
+**Petr:** Ve středu mě přepadl kašlíček. Ve čtvrtek jsem cítil, že jestli se to nezlepší, nemůžu jet. V pátek se naštěstí zlepšilo - ale i tak mi Ferda říkal, že kdyby věděl, v jakém jsem stavu, tak mě vymění.
+
+Takže očekávání byla složitá. Nakonec se celkem jet dalo - ale moc jsem slabším nepomohl, spíše se vozil. Snad jsem však naopak příliš neškodil - s výjimkou dvou pádů na trati (děkuji za pomoc s dotažením skupiny po tom prvním!).
+
 | Pořadí | Jméno              | Čas       | Ztráta  |
 |--------|--------------------|-----------|---------|
 | 1.     | Kasper - Swix Team | 3:57:55.1 | 00:00.0 |

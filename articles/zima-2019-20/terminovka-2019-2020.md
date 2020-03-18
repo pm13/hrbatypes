@@ -83,4 +83,3 @@ Konkurenční listiny nejen dálkových běhů:
 - [bezky.net](https://bezky.net/kalendar)
 - [Ski Classics](https://vismaskiclassics.com/)
 - [Euroloppet](https://www.euroloppet.com/en.html)
-

@@ -16,5 +16,3 @@ Přílohy:
 --------
 
 - [výsledky]({static}/static/zima-2019-20/jizerska-50.pdf)
-
-

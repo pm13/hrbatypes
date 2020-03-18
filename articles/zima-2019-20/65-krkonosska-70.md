@@ -29,5 +29,3 @@ Přílohy:
 --------
 
 - [výsledky]({static}/static/zima-2019-20/20200307-k70-vysl-hlidky-70km.pdf)
-
-

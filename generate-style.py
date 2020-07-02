@@ -18,8 +18,8 @@ def generate_style():
         bootstrap_link_path.unlink()
     bootstrap_link_path.symlink_to(bootstrap_path)
 
-    subprocess.run(('pysassc', 'style.scss', 'style.css'), cwd=theme_path)
-    subprocess.run(('pysassc', '--style', 'compressed', 'style.scss', 'style.min.css'), cwd=theme_path)
+    subprocess.run(('sassc', 'style.scss', 'style.css'), cwd=theme_path)
+    subprocess.run(('sassc', '--style', 'compressed', 'style.scss', 'style.min.css'), cwd=theme_path)
 
     bootstrap_link_path.unlink()
 

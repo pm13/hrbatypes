@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2020-08-18 22:22
 Category: Archív
 
+Rakovnické cyklování 2020
+-----------------
+
+![Rakovnické cyklování 2020]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2020.jpg){: width="450"}
+
 Žizkovo Voko 2020
 -----------------
 

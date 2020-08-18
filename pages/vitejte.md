@@ -4,7 +4,7 @@ URL:
 
 ![soustredko_tym_stadion]({static}/static/vitejte/soustredko-tym-stadion.jpg){: height="320" .float-md-right .ml-2 .mb-1}
 
-Léto nám pomalu skončilo, malinko jsme se rozrostli, pilně v létě, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. Podzimní příprava vyvrcholí tradičně soustředěním u Hesounů, které je plánováno v termínu 7.-15.12.
+Léto pomalu končí, pilně jsme, nejen na Albeři, potrénovali a zimy se nebojíme a naopak ji netrpělivě vyhlížíme. Podzimní příprava vyvrcholí tradičně soustředěním u Hesounů, které je plánováno tradičně v prosinci.
 
 Jinak tréninky se jako obvykle konají každý čtvrtek proto [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 

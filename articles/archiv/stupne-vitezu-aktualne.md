@@ -5,17 +5,17 @@ Category: Archív
 Kolotoč 2020
 -----------------
 
-![Kolotoč 2020]({static}/static/archiv/stupne-vitezu-aktualne/kolotoc-2020.jpg){: width="450"}
+![Kolotoč 2020]({static}/static/archiv/stupne-vitezu-aktualne/kolotoc-2020.jpg){: width="650"}
 
 Rakovnické cyklování 2020
 -----------------
 
-![Rakovnické cyklování 2020]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2020.jpg){: width="450"}
+![Rakovnické cyklování 2020]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2020.jpg){: width="650"}
 
 Žizkovo Voko 2020
 -----------------
 
-![Žizkovo Voko 2020]({static}/static/archiv/stupne-vitezu-aktualne/zizkovo-voko-2020.jpg){: width="450"}
+![Žizkovo Voko 2020]({static}/static/archiv/stupne-vitezu-aktualne/zizkovo-voko-2020.jpg){: width="650"}
 
 Podkrkonošský Podmírák 2019
 ---------------------------

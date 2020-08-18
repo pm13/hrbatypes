@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2020-08-18 22:22
 Category: Archív
 
+Kolotoč 2020
+-----------------
+
+![Kolotoč 2020]({static}/static/archiv/stupne-vitezu-aktualne/kolotoc-2020.jpg){: width="450"}
+
 Rakovnické cyklování 2020
 -----------------
 

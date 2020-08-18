@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2019-08-13 12:00
+Date: 2020-08-18 22:22
 Category: Archív
+
+Žizkovo Voko 2020
+-----------------
+
+![Žizkovo Voko 2020]({static}/static/archiv/stupne-vitezu-aktualne/zizkovo-voko-2020.jpg){: width="450"}
 
 Podkrkonošský Podmírák 2019
 ---------------------------

@@ -1,6 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2020-08-18 22:22
+Date: 2020-09-08 22:22
 Category: Archív
+
+Baroko(půl)maratón 2020
+-----------------------
+
+![Barokomaratón 2020]({static}/static/archiv/stupne-vitezu-aktualne/barokomaraton-2020.jpg){: width="650"}
+
+Běh Broumovskými stěnami 2020
+-----------------------------
+
+![Běh Broumovskými stěnami 2020]({static}/static/archiv/stupne-vitezu-aktualne/beh-broumovskymi-stenami-2020.jpg){: width="650"}
 
 Kolotoč 2020
 -----------------

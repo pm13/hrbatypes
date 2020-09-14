@@ -12,6 +12,11 @@ Běh Broumovskými stěnami 2020
 
 ![Běh Broumovskými stěnami 2020]({static}/static/archiv/stupne-vitezu-aktualne/beh-broumovskymi-stenami-2020.jpg){: width="650"}
 
+Yesman 2020
+-----------
+
+![Yesman 2020]({static}/static/archiv/stupne-vitezu-aktualne/yesman-2020.jpg){: width="650"}
+
 Kolotoč 2020
 -----------------
 

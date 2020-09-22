@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2020-09-08 22:22
+Date: 2020-09-22 22:22
 Category: Archív
+
+VIPrahlé duše 2020
+-----------
+
+![VIPrahlé duše 2020]({static}/static/archiv/stupne-vitezu-aktualne/viprahle-duse-2020.jpg){: width="650"}
 
 Baroko(půl)maratón 2020
 -----------------------

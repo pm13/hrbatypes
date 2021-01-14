@@ -38,7 +38,7 @@ Něco pro dálkoplazy
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), <s>16. ledna</s> 13. února, Vysočina Arena
-- [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
+- [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice - *virtuálně*
 - [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 20. - 21. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 27. - 28. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn
@@ -49,9 +49,11 @@ Ostatní závody hodné vážného zřetele
 ### 14. ročník [Bedřichovské pětihodinovky](http://www.b5h.cz/), 9. - 17. ledna, Bedřichov
 
 - orientační závod dvojic
-- tentokrát virtuálně
+- *virtuálně*
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko
+
+- *virtuálně*
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko
 

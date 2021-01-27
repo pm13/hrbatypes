@@ -51,13 +51,11 @@ Ostatní závody hodné vážného zřetele
 - orientační závod dvojic
 - *virtuálně*
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko - *virtuálně*
 
-- *virtuálně*
+### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - *zrušeno*
 
-### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko
-
-### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), 30. - 31. ledna, Nové Město v Krušných horách
+### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s> 6. - 7. března, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky

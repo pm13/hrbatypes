@@ -17,7 +17,7 @@ Soustředění, prosinec, bouda Berta (u Hesounů)
 ---------------------------------
 
 - **1. kolo** 9. - 10. ledna, FEL, Benecko/Jilemnice - *zrušeno*
-- **2. kolo** 16. - 17. ledna, Humanita, Jilemnice/Benecko
+- **2. kolo** 16. - 17. ledna, Humanita, Jilemnice/Benecko - *zrušeno*
 - **3. kolo** 25. - 28. ledna, Akademické MČR, Nové Město na Moravě - *zrušeno*
 - **4. kolo** 6. - 7. března, Tygří skiatlon, Břízky - kolečko
 
@@ -26,19 +26,19 @@ Něco pro dálkoplazy
 
 ### Seriál [SKI-TOUR](https://www.ski-tour.cz/)
 
-- [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/bedrichovsky-nlm/r2), <s>8. - 9. ledna</s> 19. - 21. února, Bedřichov
-- [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), <s>16. - 17. ledna</s> 13. - 14. března Churáňov
+- [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/bedrichovsky-nlm/r2), <s>8. - 9. ledna</s>, Bedřichov
+- [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), <s>16. - 17. ledna</s>, Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb Valašská Marcialonga, 29. - 30. ledna, Velké Karlovice - *zrušeno*
-- [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 6. - 7. února, Deštné v Orlických horách
-- [Jizerská 50](https://jiz50.cz), 12. - 14. února, Bedřichov
-- [Jelyman](https://www.ski-tour.cz/jelyman/r6), 27. - 28. února, Paprsek
-- [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), 5. - 7. března, Polana Jakuszycka
+- [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), <s>6. - 7. února</s>, Deštné v Orlických horách
+- [Jizerská 50](https://jiz50.cz), <s>12. - 14. února</s>, Bedřichov
+- [Jelyman](https://www.ski-tour.cz/jelyman/r6), <s>27. - 28. února</s>, Paprsek
+- [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), <s>5. - 7. března</s>, Polana Jakuszycka
 
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
-- [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), <s>16. ledna</s> 13. února, Vysočina Arena
-- [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice - *virtuálně*
+- [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), 16. ledna, Vysočina Arena - *zrušeno*
+- [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
 - [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 20. - 21. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 27. - 28. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn
@@ -49,13 +49,12 @@ Ostatní závody hodné vážného zřetele
 ### 14. ročník [Bedřichovské pětihodinovky](http://www.b5h.cz/), 9. - 17. ledna, Bedřichov
 
 - orientační závod dvojic
-- *virtuálně*
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko - *virtuálně*
+### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - *zrušeno*
 
-### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s> 6. - 7. března, Nové Město v Krušných horách
+### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky

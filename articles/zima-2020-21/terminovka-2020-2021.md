@@ -19,7 +19,7 @@ Soustředění, prosinec, bouda Berta (u Hesounů)
 - **1. kolo** 9. - 10. ledna, FEL, Benecko/Jilemnice - *zrušeno*
 - **2. kolo** 16. - 17. ledna, Humanita, Jilemnice/Benecko - *zrušeno*
 - **3. kolo** 25. - 28. ledna, Akademické MČR, Nové Město na Moravě - *zrušeno*
-- **4. kolo** 6. - 7. března, Tygří skiatlon, Břízky - kolečko
+- **4. kolo** 6. - 7. března, Tygří skiatlon, Břízky - kolečko - *zrušeno*
 
 Něco pro dálkoplazy
 -------------------
@@ -41,7 +41,7 @@ Něco pro dálkoplazy
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
 - [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 20. - 21. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 27. - 28. února, Kvilda
-- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn
+- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn - *zrušeno*
 
 Ostatní závody hodné vážného zřetele
 ------------------------------------

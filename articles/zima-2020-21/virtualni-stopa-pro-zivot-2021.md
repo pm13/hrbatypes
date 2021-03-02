@@ -32,6 +32,8 @@ Celkově rozhodně opravdu moc krásné!
 | 4.     | Tomáš Malík    | 2:35:36.9 | 0:13:14.2  | 1:04:30.8  | 1:57:14.2  |
 | 5.     | Petr Marhoun   | 2:37:04.3 | 0:12:51.2  | 1:04:26.8  | 1:57:17.7  |
 
+![Jilemnická 50]({static}/static/zima-2020-21/jilemnicka-50.jpg){: width="600"}
+
 36. Šumavský Skimaraton - 24 km
 -------------------------------
 
@@ -50,3 +52,5 @@ Včera při prohlídce trati velké spekulace, co namazat. Ideální silné ruce
 | 3.     | Petr Marhoun  | 1:10:54.9 | 0:33:32.1  |
 | 4.     | Robin Teply   | 1:12:34.2 | 0:33:55.2  |
 | 5.     | Oldřich Šoula | 1:14:16.6 | 0:35:03.3  |
+
+![Šumavský Skimaraton]({static}/static/zima-2020-21/sumavsky-skimaraton.jpg){: width="600"}

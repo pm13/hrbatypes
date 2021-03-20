@@ -8,7 +8,7 @@ Tuto zimu bylo celkem snadné postupovat podle známého pravidla, že není dů
 Polevská lyže
 -------------
 
-19\. ledna 2021, 14 km.
+V Lužických horách. 19. ledna 2021. 14 km.
 
 **Ze Stravy:**  Bolavé svaly po náročném víkendu, celkově oslaben po čínské potvoře. Prašan, kolem nuly. Chtěl jsem vybrat stoupací vosk - když to však bez něj sice nebylo dobré, ale ani ne tragické, tak jsem radši nic nevymýšlel.
 
@@ -25,7 +25,7 @@ Sprinterem jsem se stále ještě nestal - ještě jet sám... Především - ka
 Polánka Cup
 -----------
 
-10\. února 2021, 13 km.
+U Hartvíkova (na Táborsku). 10. února 2021. 13 km.
 
 **Ze Stravy:** Prašan, chladněji (-7). Postupně začínalo foukat a lehce sněžit.
 

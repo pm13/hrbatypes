@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2020-09-22 22:22
 Category: Archív
 
+Žizkovo Voko 2021
+-----------------
+
+![Žizkovo Voko 2021]({static}/static/archiv/stupne-vitezu-aktualne/zizkovo-voko-2021.jpg){: width="650"}
+
 VIPrahlé duše 2020
 -----------
 

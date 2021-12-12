@@ -37,7 +37,7 @@ Něco pro dálkoplazy
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
-- [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/ve-stope-zlate-lyze/), 15. ledna, Vysočina Arena
+- [Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/ve-stope-zlate-lyze/), 15. ledna, Vysočina Arena
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 29. - 30. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
 - [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 19. - 20. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/sumavsky-skimaraton/), 26. - 27. února, Kvilda

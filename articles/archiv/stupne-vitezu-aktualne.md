@@ -7,6 +7,16 @@ Podzimní běh lyžařů 2021
 
 ![Podzimní běh lyžařů 2021]({static}/static/archiv/stupne-vitezu-aktualne/podzimni-beh-lyzaru-2021.jpg){: width="650"}
 
+BoBoTriple 2021
+---------------
+
+![BoBoTriple 2021]({static}/static/archiv/stupne-vitezu-aktualne/bobotriple-2021.jpg){: width="650"}
+
+BoBoBěh 2021
+------------
+
+![BoBoBěh 2021]({static}/static/archiv/stupne-vitezu-aktualne/bobobeh-2021.jpg){: width="650"}
+
 Žizkovo Voko 2021
 -----------------
 
@@ -17,7 +27,7 @@ Kvadriatlon dvojic 2021
 
 ![Kvadriatlon dvojic 2021]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2021.jpg){: width="650"}
 
-Boboloppet 2021
+BoBoloppet 2021
 ---------------
 
-![Boboloppet 2021]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2021.jpg){: width="450"}
+![BoBoloppet 2021]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2021.jpg){: width="450"}

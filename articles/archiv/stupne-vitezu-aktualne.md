@@ -17,6 +17,11 @@ BoBoBěh 2021
 
 ![BoBoBěh 2021]({static}/static/archiv/stupne-vitezu-aktualne/bobobeh-2021.jpg){: width="650"}
 
+Rubenczal 2021
+--------------
+
+![Rubenczal 2021]({static}/static/archiv/stupne-vitezu-aktualne/rubenczal-2021.jpg){: width="650"}
+
 Žizkovo Voko 2021
 -----------------
 

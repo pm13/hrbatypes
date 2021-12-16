@@ -8,7 +8,6 @@ Zima je už je nějaký ten pátek za dveřmi, svaly nabušené, lyže nažhaven
 
 Jinak tréninky se jako obvykle konají každý čtvrtek proto [nahlašte svou účast](https://clenove.hrbatypes.cz/ucast/nahlas-svou/).
 
-
 Pokud hledáte informace o oddílu, pak je najdete v částech ["Trénink"](/trenink/) a ["Členové oddílu"](/clenove-oddilu/) nebo nás můžete [kontaktovat](https://clenove.hrbatypes.cz/komentare/pridat/).
 
 <iframe src="https://clenove.hrbatypes.cz/iframe/komentare/" class="w-100 border-0" height="950"></iframe>

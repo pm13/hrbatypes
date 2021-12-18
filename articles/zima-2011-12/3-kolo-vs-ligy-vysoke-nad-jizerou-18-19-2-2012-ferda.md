@@ -5,7 +5,7 @@ Author: Ferda
 Slug: 3-kolo-vs-ligy-vysoke-nad-jizerou-18-19-2-2012/ferda
 Album: 1
 
-[Album](https://get.google.com/albumarchive/105900061350214611526/album/AF1QipMrpnIypsqkoMYLHHu5VEKdTyPtBuIe65cKL4E_)
+[Album](https://photos.app.goo.gl/M4YNGGonCbksdqBh8)
 
 ![]({static}/static/zima-2011-12/alba/dsc00589.jpg){: width="600"}
 

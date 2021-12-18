@@ -5,7 +5,7 @@ Author: Ferda
 Slug: sumavak-2015/ferda
 Album: 1
 
-[Album](https://get.google.com/albumarchive/105900061350214611526/album/AF1QipO4BpqhwicNkb26eEQBT66QHpRSxnGSQ8gHZgY2)
+[Album](https://photos.app.goo.gl/nUkHUh7kfTEwJoyEA)
 
 ![]({static}/static/zima-2014-15/alba/img-6386.jpg){: width="600"}
 

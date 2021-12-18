@@ -5,7 +5,7 @@ Author: Ferda
 Slug: akado-2010/ferda
 Album: 1
 
-[Album](https://get.google.com/albumarchive/105900061350214611526/album/AF1QipMq1QF5_1wCcmyPQhw48PrcBU9qS3tswRfQ2UTr)
+[Album](https://photos.app.goo.gl/mNwcGns2i94U9nfH9)
 
 ![]({static}/static/zima-2009-10/alba/tonda.jpg){: width="400"}
 

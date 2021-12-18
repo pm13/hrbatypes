@@ -7,7 +7,7 @@ Album: 1
 
 Tonda vyhlíží nadějné závodníky. Jiřík vyjíždí na zlaťák soupaž a malý Péťa dobyl Vrbatku.
 
-[Album](https://get.google.com/albumarchive/105900061350214611526/album/AF1QipOrvmmH5p33t0gppZYTO928ZT7aWF3erMpz0Jpa)
+[Album](https://photos.app.goo.gl/Fp7odEHoGqZkN8Dw6)
 
 ![]({static}/static/zima-2012-13/alba/dsc04603.jpg){: width="600"}
 

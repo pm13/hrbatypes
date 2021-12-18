@@ -5,7 +5,7 @@ Author: Ferda
 Slug: alber-2010/ferda
 Album: 1
 
-[Album](https://get.google.com/albumarchive/105900061350214611526/album/AF1QipO_y5rfWQuENSZySgfu702RMGwxZ_27Gjqe54oa)
+[Album](https://photos.app.goo.gl/EFNTJ65TCzZkUDH68)
 
 ![]({static}/static/zima-2010-11/alba/img-9957.jpg){: width="600"}
 

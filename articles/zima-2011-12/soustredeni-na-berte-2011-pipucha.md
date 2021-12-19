@@ -5,6 +5,6 @@ Author: Pipucha
 Slug: soustredeni-na-berte-2011/pipucha
 Album: 1
 
-[Album](https://get.google.com/albumarchive/115326169151527823040/album/AF1QipMcHuHnhKiqClIWeN1CYKUOThfP8wsp6fqhzM5c)
+[Album](https://photos.app.goo.gl/EUFybv69BzrKqy9n6)
 
 ![]({static}/static/zima-2011-12/alba/img-1053-small.jpg){: width="600"}

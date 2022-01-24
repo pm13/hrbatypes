@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2021-11-29 12:00
 Category: Archív
 
+Humanita 2022
+-------------
+
+![humanita 2022]({static}/static/archiv/stupne-vitezu-aktualne/humanita-2022.jpg){: width="650"}
+
 Podzimní běh lyžařů 2021
 ------------------------
 
@@ -26,6 +31,11 @@ Rubenczal 2021
 -----------------
 
 ![Žizkovo Voko 2021]({static}/static/archiv/stupne-vitezu-aktualne/zizkovo-voko-2021.jpg){: width="650"}
+
+Poněšický Survival 2021
+-----------------------
+
+![Poněšický Survival 2021]({static}/static/archiv/stupne-vitezu-aktualne/ponesicky-survival-2021.jpg){: width="650"}
 
 Kvadriatlon dvojic 2021
 -----------------------

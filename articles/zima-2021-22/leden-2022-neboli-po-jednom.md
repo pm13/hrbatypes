@@ -22,6 +22,11 @@ Ve stopě Zlaté lyže - 15. ledna - 10 km klasika
 |--------|-----------------------|---------|---------|-----------|-----------|---------|---------|---------|---------|
 | 3.     | Jan Ferdinand Polášek | 28:41.7 | 01:04.8 | 00:00.0   | 28:41.7   | 05:33.1 | 11:16.1 | 17:03.1 | 22:55.8 |
 
-1. klasik 🤪
+1\. klasik 🤪
 Ale bohužel, zase namazané lyže prohrály s pádlováním.
 Dobrý to bylo, ale v 5. kole už jsem moc nestoupal. V soupažích jsem slabý ¯\_(ツ)_/¯
+
+Krušnohorská 30 - 23. ledna - 30 km klasika
+-------------------------------------------
+
+První lauf sezóny, tak nějak otestovat formu 😀 Máza zvolena po konzultaci s Ferdou byla úplně na *** 🤷‍♂️😅, jakože z kopce to brzdilo a absolutně nestoupalo 😅, přišlo mi to divné už před startem ale jakože věřil jsem že to bude fungovat a skaty nechal v aréně 😀 a ještě aby to nebylo tak easy tak i sníh byl takovej lepivej což soupaži moc nepomáhá 😀 balík mi tak odjel v první sjezdu tak to bylo víc individuální, ale jako příprava skvělá a poctivě odbojováno 😀 na konci jsem to ještě hecnul a předjel nějaký dva týpky aby byl komentátor impressed a na dojezdu mě pěkně vyhlásil 😂😂

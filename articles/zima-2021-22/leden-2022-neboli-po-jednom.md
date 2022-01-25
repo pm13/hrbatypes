@@ -10,7 +10,7 @@ VŠ liga - 8. ledna - 10 km skate
 
 | Pořadí | Jméno        | Čas     | Ztráta  |
 |--------|--------------|---------|---------|
-| 5.     | Marhoun Petr | 30:45.3 | 00:58.6 |
+| 5.     | Petr Marhoun | 30:45.3 | 00:58.6 |
 
 Prašan, servis dost super - technika však byla hrozná úplně všude, jak to jelo rychle.
 
@@ -19,9 +19,20 @@ VŠ liga - 9. ledna - 13.2 km klasika
 
 | Pořadí | Jméno        | Čas     | Ztráta  |
 |--------|--------------|---------|---------|
-| 8.     | Marhoun Petr | 45:09.0 | 02:03.3 |
+| 8.     | Petr Marhoun | 45:09.0 | 02:03.3 |
 
 Skákání a soupaže - běh střídavý u mně nejspíše netvořil ani 200 metrů z kola...
+
+VŠ liga - 15. ledna - 20 km klasika s hromadným startem
+-------------------------------------------------------
+
+| Pořadí | Jméno        | Čas       | Ztráta  |
+|--------|--------------|-----------|---------|
+| 3.     | Petr Marhoun | 1:08:40.2 | 02:45.5 |
+
+Nezměřil jsem celé - je to jen do pádu v posledním (6.!!!) kole v největších 🌲🌲🌲. Což byl možná zbytečný pád, neboť jsem druhého (který dost umíral) sjížděl a chybělo mi jen pár metrů.
+
+Mnohem méně klasiky než před týdnem - jen kousek na sprinterském kolečku. Ale tolik to nevadilo - sníh byl totiž výrazně rychlejší, dalo se dost vysoupažit.
 
 Ve stopě Zlaté lyže - 15. ledna - 15 km skate
 ---------------------------------------------

@@ -5,6 +5,24 @@ Author: Petr
 
 V lednu jsme se konečně směli účastnit skutečných závodů - dost dobrá změna oproti minulé zimě! Často úspěšně - jen tedy na každém z nich byl vždy jen jeden z nás...
 
+VŠ liga - 8. ledna - 10 km skate
+--------------------------------
+
+| Pořadí | Jméno        | Čas     | Ztráta  |
+|--------|--------------|---------|---------|
+| 5.     | Marhoun Petr | 30:45.3 | 00:58.6 |
+
+Prašan, servis dost super - technika však byla hrozná úplně všude, jak to jelo rychle.
+
+VŠ liga - 9. ledna - 13.5 km klasika
+------------------------------------
+
+| Pořadí | Jméno        | Čas     | Ztráta  |
+|--------|--------------|---------|---------|
+| 8.     | Marhoun Petr | 45:09.0 | 02:03.3 |
+
+Skákání a soupaže - běh střídavý u mně nejspíše netvořil ani 200 metrů z kola...
+
 Ve stopě Zlaté lyže - 15. ledna - 15 km skate
 ---------------------------------------------
 

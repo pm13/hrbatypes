@@ -34,3 +34,15 @@ Krušnohorská 30 - 23. ledna - 30 km klasika
 | 16.    | Tomáš Rusý | 1:55:37.0 | 15:25.0 |
 
 První lauf sezóny, tak nějak otestovat formu 😀 Máza zvolena po konzultaci s Ferdou byla úplně na *** 🤷‍♂️😅, jakože z kopce to brzdilo a absolutně nestoupalo 😅, přišlo mi to divné už před startem ale jakože věřil jsem že to bude fungovat a skaty nechal v aréně 😀 a ještě aby to nebylo tak easy tak i sníh byl takovej lepivej což soupaži moc nepomáhá 😀 balík mi tak odjel v první sjezdu tak to bylo víc individuální, ale jako příprava skvělá a poctivě odbojováno 😀 na konci jsem to ještě hecnul a předjel nějaký dva týpky aby byl komentátor impressed a na dojezdu mě pěkně vyhlásil 😂😂
+
+Přílohy:
+--------
+
+- [VŠ liga skate]({static}/static/zima-2021-22/misecky-vysledky-sobota-2022.pdf)
+- [VŠ liga klasika]({static}/static/zima-2021-22/misecky-vysledky-nedele-2022.pdf)
+- [VŠ liga klasika s hromadným startem]({static}/static/zima-2021-22/humanita-2022.pdf)
+- [Ve stopě Zlaté lyže skate]({static}/static/zima-2021-22/20220115-vysl-spz-nmnm-15km-FT-abs.pdf)
+- [Ve stopě Zlaté lyže klasika]({static}/static/zima-2021-22/20220115-spz-nmnm-10km-ct.pdf)
+- [Akademické mistrovství skate]({static}/static/zima-2021-22/20220118-AMCR-vysledky.pdf)
+- [Akademické mistrovství štafety]({static}/static/zima-2021-22/20220119AMCR-stafety-vysledky.pdf)
+- [Akademické mistrovství klasika s hromadným startem]({static}/static/zima-2021-22/20220120AMCR-vysledky.pdf)

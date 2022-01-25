@@ -44,6 +44,33 @@ Ve stopě Zlaté lyže - 15. ledna - 10 km klasika
 Ale bohužel, zase namazané lyže prohrály s pádlováním.
 Dobrý to bylo, ale v 5. kole už jsem moc nestoupal. V soupažích jsem slabý ¯\_(ツ)_/¯
 
+Akademické mistrovství - 18. ledna - 10 km skate
+------------------------------------------------
+
+| Pořadí | Jméno        | Čas     | Ztráta |
+|--------|--------------|---------|--------|
+| 15.    | Petr Marhoun | 23:12.6 | 3:31.5 |
+
+Dost rychlé a "rovinaté" - velký rozdíl oproti prašanu na Mísečkách minulou sobotu. Rozhodně prospěšný trénink - vůbec totiž není dobré padat na svážnici.
+
+Šumaváka jsem tedy nepoužil - stejně se mi však nezdálo, když mě v tom jediném prudším kopci někdo předjel rozdílem třídy. Nahoře stál Tonda, díval se na nás a řekl mi hned, že je to reprezentant...
+
+Akademické mistrovství - 19. ledna - štafeta 6 + 3 + 6 km skate
+---------------------------------------------------------------
+
+Vyrazil jsem do posledního úseku s hodně velkým rozdílem oproti nejbližšímu soupeři - 2:20. Nicméně ten zvolil lehce odlišné tempo a na začátku druhého kola jsme se překvapivě minuli. Druhé překvapení bylo v cíli, že jsem tam dával rozhovor - z předposledního místa (8. z 9) se mi to ještě nestalo :)
+
+Akademické mistrovství - 20. ledna - 20 km klasika s hromadným startem
+----------------------------------------------------------------------
+
+| Pořadí | Jméno        | Čas     | Ztráta |
+|--------|--------------|---------|--------|
+| 7.     | Petr Marhoun | 59:18.5 | 5:18.9 |
+
+Přes noc napadlo trochu suchého prašanu, který zasypal stopy. Během závodu se to někde uhladilo, někde sjelo na včerejší led. Vánice s celkem vlhkým sněhem přišla naštěstí až chvilku po závodě :)
+
+Třetí klasický závod tuto zimu - opět téměř bez klasiky. Ale prý byl i tak můj styl nadprůměrný...
+
 Krušnohorská 30 - 23. ledna - 30 km klasika
 -------------------------------------------
 

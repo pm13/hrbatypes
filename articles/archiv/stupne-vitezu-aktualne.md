@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2022-01-17 12:00
 Category: Archív
 
+Ve stopě Zlaté lyže 2022
+------------------------
+
+![Ve stopě Zlaté lyže 2022]({static}/static/archiv/stupne-vitezu-aktualne/ve-stope-zlate-lyze-2022.jpg){: width="650"}
+
 Humanita 2022
 -------------
 

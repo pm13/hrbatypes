@@ -139,3 +139,4 @@ Přílohy:
 - [Akademické mistrovství skate]({static}/static/zima-2021-22/20220118-AMCR-vysledky.pdf)
 - [Akademické mistrovství štafety]({static}/static/zima-2021-22/20220119AMCR-stafety-vysledky.pdf)
 - [Akademické mistrovství klasika s hromadným startem]({static}/static/zima-2021-22/20220120AMCR-vysledky.pdf)
+- [Jilemnická 50]({static}/static/zima-2021-22/20220130-spz-jil50-vysl-30km-ct-a.pdf)

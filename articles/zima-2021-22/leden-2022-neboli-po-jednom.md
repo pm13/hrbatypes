@@ -1,5 +1,5 @@
 Title: Leden 2022 neboli po jednom
-Date: 2022-01-24 21:22
+Date: 2022-02-03 21:22
 Category: Zima 2021/22
 Author: Petr
 
@@ -90,6 +90,34 @@ Krušnohorská 30 - 23. ledna - 30 km klasika
 | 16.    | Tomáš Rusý | 1:55:37.0 | 15:25.0 |
 
 První lauf sezóny, tak nějak otestovat formu 😀 Máza zvolena po konzultaci s Ferdou byla úplně na *** 🤷‍♂️😅, jakože z kopce to brzdilo a absolutně nestoupalo 😅, přišlo mi to divné už před startem ale jakože věřil jsem že to bude fungovat a skaty nechal v aréně 😀 a ještě aby to nebylo tak easy tak i sníh byl takovej lepivej což soupaži moc nepomáhá 😀 balík mi tak odjel v první sjezdu tak to bylo víc individuální, ale jako příprava skvělá a poctivě odbojováno 😀 na konci jsem to ještě hecnul a předjel nějaký dva týpky aby byl komentátor impressed a na dojezdu mě pěkně vyhlásil 😂😂
+
+Jilemnická 50 - 30. ledna - 30 km klasika
+-----------------------------------------
+
+| Pořadí | Jméno        | Čas       | Ztráta  | 1. kolo |
+|--------|--------------|-----------|---------|---------|
+| 9.     | Petr Marhoun | 1:55:31.9 | 07:55.6 | 55:46.0 |
+
+Zkráceno ze tří kol na dvě - že prý fouká, sněží, padají stromy a tak. V prvním kole jsem si říkal, že je to dost škoda - na tratích jsem totiž byl na konci skupinky o (asi) čtvrté místo, na DP úsecích jsem sice neměl nárok a všichni mi ujeli, ale přišlo mi, že kopec zpátky by mnozí z nich potřetí nemuseli vydržet.
+
+Ale v druhém kole už to bylo uhlazené, sotva jsem vyjel nahoru a jim to naopak šlo snáze. Když nakonec od čtvrtého do šestého byli členové veslařského klubu Silvini. Taky jsem měl pocit, že bylo znát, že jsem po nemoci, že jsem byl dost slabý. Vlastně ještě před měsícem by ani právně nešlo, abych si Covid vyřídil během devíti volných dnů mezi Akádou a dneškem...
+
+Bedřichovská pětihodinovka - dvakrát 3 hodiny virtuálně
+-------------------------------------------------------
+
+| Pořadí | Jméno                         | Body |
+|--------|-------------------------------|------|
+| ?.     | Petr Marhoun / Simona Macková | 1622 |
+
+### MD - etapa ze Souše - 845 bodů, 2:57:55
+
+Maratón pod tři hodiny :)
+
+### B5H MD - etapa z Bedřichova - 777 bodů (797 - 20), 3:03:44
+
+Velice přísná podmínka, sněžilo od pondělního poledne skoro neustále - v první etapě jsme tři kontroly přidali, teď tři ubrali. Hodně běhání a ještě více hlubočáku - dvakrát jsme rolbu potkali když jela jinam. Potřetí už jsme nevydrželi a jeli z Věčného mlčení nahoru za ní, i když jsme nechtěli a profilově to moc smysl nedávalo. I za ní tedy dost měkké.
+
+Ale co - důležitý jsou body, pochopitelně. Jenže ještě mnohem důležitější je, aby bylo na jaře na čem lyžovat. Tak ať sněží co nejvíce!
 
 Přílohy:
 --------

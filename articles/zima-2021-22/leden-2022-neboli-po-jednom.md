@@ -91,6 +91,15 @@ Krušnohorská 30 - 23. ledna - 30 km klasika
 
 První lauf sezóny, tak nějak otestovat formu 😀 Máza zvolena po konzultaci s Ferdou byla úplně na *** 🤷‍♂️😅, jakože z kopce to brzdilo a absolutně nestoupalo 😅, přišlo mi to divné už před startem ale jakože věřil jsem že to bude fungovat a skaty nechal v aréně 😀 a ještě aby to nebylo tak easy tak i sníh byl takovej lepivej což soupaži moc nepomáhá 😀 balík mi tak odjel v první sjezdu tak to bylo víc individuální, ale jako příprava skvělá a poctivě odbojováno 😀 na konci jsem to ještě hecnul a předjel nějaký dva týpky aby byl komentátor impressed a na dojezdu mě pěkně vyhlásil 😂😂
 
+Marcialonga - 30. ledna - 70 km klasika
+---------------------------------------
+
+| Pořadí | Jméno                 | Čas       | Ztráta  |
+|--------|-----------------------|-----------|---------|
+| 308.   | Jan Ferdinand Polášek | 3:49:33.0 | 57:35.3 |
+
+Počasí parádní, 🌞 azuro, trošku vic 💨💨 a teplo. Sníh takovej zvláštní, lyže nejely a normálně zamrzlo klasické peklo. Já taky nejel 🙈. Stoupací máza parádní, ta fungovala až pod Cascatu. Co nevyšlo bylo zlomená hůl v Soraze, šikovně jsem si ji překopl. Pak 4 km s jednou než jsem sehnal zachránce co dal světový rekord v běhu pro hůlky do hotelu a zpět k trati. Díky Adame. A díky profíkům, že nemůžou půjčit hůl 🙈. No tak příště snad na rychlejších ski a v lepší soupažové formě. Jen nevím zda zas budu chtít jet z dobytčáku...
+
 Jilemnická 50 - 30. ledna - 30 km klasika
 -----------------------------------------
 

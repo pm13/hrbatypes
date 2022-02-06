@@ -122,11 +122,15 @@ Bedřichovská pětihodinovka - dvakrát 3 hodiny virtuálně
 
 Maratón pod tři hodiny :)
 
+![B5H - Souš]({static}/static/zima-2021-22/b5h-sous.png){: width="600"}
+
 ### B5H MD - etapa z Bedřichova - 777 bodů (797 - 20), 3:03:44
 
 Velice přísná podmínka, sněžilo od pondělního poledne skoro neustále - v první etapě jsme tři kontroly přidali, teď tři ubrali. Hodně běhání a ještě více hlubočáku - dvakrát jsme rolbu potkali když jela jinam. Potřetí už jsme nevydrželi a jeli z Věčného mlčení nahoru za ní, i když jsme nechtěli a profilově to moc smysl nedávalo. I za ní tedy dost měkké.
 
 Ale co - důležitý jsou body, pochopitelně. Jenže ještě mnohem důležitější je, aby bylo na jaře na čem lyžovat. Tak ať sněží co nejvíce!
+
+![B5H - Bedřichov]({static}/static/zima-2021-22/b5h-bedrichov.png){: width="450"}
 
 Přílohy:
 --------

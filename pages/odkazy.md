@@ -11,6 +11,7 @@ Nejrůznější důležité stránky
 - [Jizerská o.p.s.](https://www.jizerskaops.cz/)
 - [Bílá stopa Šumava](http://bilastopa.cz/)
 - [Lyžařské běžecké trasy KK](http://gis.kr-karlovarsky.cz/klm/)
+- [Deštné v Orlických horách](https://www.destne.info/#/bezky)
 - [HolidayInfo](https://www.holidayinfo.cz/)
 
 Předpovědi počasí

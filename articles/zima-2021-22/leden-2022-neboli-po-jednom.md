@@ -116,7 +116,7 @@ Bedřichovská pětihodinovka - dvakrát 3 hodiny virtuálně
 
 | Pořadí | Jméno                         | Body |
 |--------|-------------------------------|------|
-| ?.     | Petr Marhoun / Simona Macková | 1622 |
+| 1.     | Petr Marhoun / Simona Macková | 1622 |
 
 ### MD - etapa ze Souše - 845 bodů, 2:57:55
 
@@ -144,3 +144,4 @@ Přílohy:
 - [Akademické mistrovství štafety]({static}/static/zima-2021-22/20220119AMCR-stafety-vysledky.pdf)
 - [Akademické mistrovství klasika s hromadným startem]({static}/static/zima-2021-22/20220120AMCR-vysledky.pdf)
 - [Jilemnická 50]({static}/static/zima-2021-22/20220130-spz-jil50-vysl-30km-ct-a.pdf)
+- [Bedřichovská pětihodinovka]({static}/static/zima-2021-22/vysledky-B5h-2022.pdf)

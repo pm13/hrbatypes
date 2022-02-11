@@ -3,14 +3,14 @@ Title: Odkazy
 Nejrůznější důležité stránky
 ----------------------------
 
-- [VSK MFF UK](http://vssk.mff.cuni.cz/)
+- [VSK MFF UK](http://vsk.mff.cuni.cz/)
 - [Svaz lyžařů ČR](https://www.czech-ski.com/)
 - [Kam za sněhem](https://www.kamzasnehem.cz/)
 - [Bílé stopy](https://bilestopy.cz/)
 - [Skimapa](http://skimapa.cz/)
 - [Jizerská o.p.s.](https://www.jizerskaops.cz/)
 - [Bílá stopa Šumava](http://bilastopa.cz/)
-- [Lyžařské běžecké trasy KK](http://gis.kr-karlovarsky.cz/klm/)
+- [Lyžařské běžecké trasy KK](https://gis.kr-karlovarsky.cz/klm/)
 - [Deštné v Orlických horách](https://www.destne.info/#/bezky)
 
 Předpovědi počasí

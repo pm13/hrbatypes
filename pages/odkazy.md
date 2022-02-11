@@ -53,9 +53,8 @@ Obchody
 -------
 
 - [LBS sport (Praha)](https://www.lbs-sport.cz/)
-- [Hudy sport, Na Pernštýně (Praha)](https://www.hudy.cz/hudysport-praha-na-perstyne)
 - [Henych sport (Jilemnice)](https://www.sporthenych.cz/)
-- [Nyč sport (Liberec)](http://www.nyc-sport.cz/)
+- [Nyč sport (Liberec)](https://www.nyc-sport.cz/)
 - [Lyže Slonek (Nové Město na Moravě)](http://www.slonek.cz/)
 - [Internetový obchod Sprint](https://www.sprintcz.cz/)
 

@@ -63,8 +63,8 @@ Další stránky
 
 - [Rozhovor se Standou Řezáčem](https://www.youtube.com/watch?v=WIlpHDywtTI)
 - [Nová pravidla biatlonu](https://www.youtube.com/watch?v=t2AEYkRlVYU)
-- [Majetkové přiznání Trautenberka](http://data.idnes.cz/soubory/ekonomika/A061223_VEN_MAP5.HTM)
-- [Komiks ze života MFF](http://www-ucjf.troja.mff.cuni.cz/scheirich/?page_id=67)
+- [Majetkové přiznání Trautenberka](https://data.idnes.cz/soubory/ekonomika/A061223_VEN_MAP5.HTM)
+- [Komiks ze života MFF](https://www-ucjf.troja.mff.cuni.cz/scheirich/?page_id=67)
 
 RSS
 ---

@@ -16,7 +16,7 @@ Nejrůznější důležité stránky
 Předpovědi počasí
 -----------------
 
-- [Předpovědi modelu Aladin](http://portal.chmi.cz/files/portal/docs/meteo/ov/aladin/results/ala.html)
+- [Předpovědi modelu Aladin](https://www.chmi.cz/files/portal/docs/meteo/ov/aladin/results/ala.html)
 - [Projekt MEDARD](http://www.medard-online.cz/)
 - [yr.no](https://www.yr.no/)
 - [wetterzentrale.de](https://www.wetterzentrale.de/de/show_diagrams.php?geoid=29048&model=gfs&var=201&lid=ENS)

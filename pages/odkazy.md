@@ -46,8 +46,8 @@ Stránky dalších oddílů
 - [ČKS SKI Jilemnice](https://www.skijilemnice.cz/)
 - [Lyžařský klub Slovan Karlovy Vary](https://www.lkslovan.cz/)
 - [Sokol Senohraby, lyžařská sekce](http://sokolsenohraby.sweb.cz/lyzovani.html)
-- [Ski klub Šumava](http://www.skisumava.cz/)
-- [Sportovní klub Nové Město na Moravě](http://www.vysocina-arena.cz/cz/sk-nmnm.html)
+- [Ski klub Šumava](http://skisumava.cz/)
+- [Sportovní klub Nové Město na Moravě](https://www.vysocina-arena.cz/sportovni-klub-nove-mesto-na-morave/)
 
 Obchody
 -------

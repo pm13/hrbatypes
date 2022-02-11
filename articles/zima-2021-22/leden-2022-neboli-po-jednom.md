@@ -3,7 +3,7 @@ Date: 2022-02-03 21:22
 Category: Zima 2021/22
 Author: Petr
 
-V lednu jsme se konečně směli účastnit skutečných závodů - dost dobrá změna oproti minulé zimě! Často úspěšně - jen tedy na každém z nich byl vždy jen jeden z nás...
+V lednu jsme se konečně směli účastnit skutečných závodů - dost dobrá změna oproti minulé zimě! Často úspěšně - jen tedy na každém z nich byl vždy jen jeden z nás.
 
 VŠ liga - 8. ledna - 10 km skate
 --------------------------------

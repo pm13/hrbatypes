@@ -27,6 +27,7 @@ Lyžařské (a jiné) výsledky
 - [SportSoft](https://sportsoft.cz/)
 - [sport-časomíra.cz](http://sport-casomira.cz/)
 - [Sportis](http://sportis.cz/)
+- [Sportchallenge](https://www.sportchallenge.cz/)
 - [Sportave](https://sportave.com/racer)
 - [běhej.com](https://www.behej.com/bezecke-tabulky/zavodnici)
 

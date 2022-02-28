@@ -22,3 +22,5 @@ Premiéra, lyže perfektní podmínka skvělá 😀 Byl to hukot, s výkonem spo
 | 103.   | Petr Marhoun          | 2:27:42.0 | 31:22.0 | 00:00.0   | 38:11.0    | 1:10:58.0  | 1:43:26.0  |
 | 112.   | Jan Ferdinand Polášek | 2:29:43.0 | 33:23.0 | 02:01.0   | 38:12.0    | 1:11:21.0  | 1:44:17.0  |
 | 164.   | Tomáš Rusý            | 2:42:11.0 | 45:51.0 | 14:29.0   | 42:16.0    | 1:17:58.0  | 1:53:29.0  |
+
+![Billboard z J50]({static}/static/zima-2021-22/j50-billboard.jpg){: width="650"}

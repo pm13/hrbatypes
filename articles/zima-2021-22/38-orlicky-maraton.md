@@ -23,6 +23,7 @@ Ale dobře to dopadlo! Hodně jsem trpěl v kopci z luk nahoru - střídal skák
 |--------|--------------|
 | DNF    | Petr Marhoun |
 
+![Zlomená hůlka z Orličáku]({static}/static/zima-2021-22/orlicak-zlomena-hulka.jpg){: width="400"}
 
 ### Výsledky 40 km klasicky
 

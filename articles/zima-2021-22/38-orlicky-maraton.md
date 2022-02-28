@@ -3,11 +3,13 @@ Date: 2022-02-28 17:40
 Category: Zima 2021/22
 Author: Petr
 
-**Petr k sobotě:** Odstoupit z jasného 4. místa: Snad jsem se poučil a takhle hloupě už padat nebudu - není to dobré ani pro hůlky, ani pro výsledek. Pro obličej vlastně taky moc ne 🤔
+**Petr k sobotě:** Odstoupit z jasného 4. místa
+
+Snad jsem se poučil a takhle hloupě už padat nebudu - není to dobré ani pro hůlky, ani pro výsledek. Pro obličej vlastně taky moc ne 🤔
 
 **Petr k neděli:** I druhý den příkoří :)
 
-Vyzkoušel jsem několik vosků - rozhodl se pro VR55. Což doporučoval i Swix, takže rozhodnutí bylo jasné. Ale omylem jsem namazal VR50 - čehož jsem si všiml až když jsem ho půjčoval 🫣
+Vyzkoušel jsem několik vosků - rozhodl se pro VR55. Což doporučoval i Swix, takže rozhodnutí bylo jasné. Ale omylem jsem namazal VR50 - čehož jsem si všiml až když jsem ho půjčoval 🙄
 
 Na startu v 1. vlně - což nezní špatně, jenže když jsem viděl, kolik je lidi v elitní, včetně těch které jsem minulou neděli jasně porazil... Když jsem se vymotal z davu, tak rychlejší už byli ujetí a vosk fakt nestoupal 🙃
 

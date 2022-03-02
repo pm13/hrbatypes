@@ -54,3 +54,10 @@ Navíc dnes naprosto nejlepší fanynka!
 | 23.    | Jan Ferdinand Polášek | 2:33:02.9 | 22:46.6   | 07:56.4   | 09:22.4 | 43:57.2 | 1:03:07.8 | 2:27:11.6 |
 | 31.    | Petr Polášek          | 2:40:09.9 | 29:53.6   | 15:03.4   | 10:01.2 | 45:36.7 | 1:05:31.3 | 2:33:43.8 |
 | 174.   | Karel Žídek           | 3:39:06.6 | 1:28:50.3 | 1:14:00.1 | 13:35.7 | 58:20.5 | 1:27:50.4 | 3:31:32.0 |
+
+Přílohy:
+--------
+
+- [46 km FT]({static}/static/zima-2021-22/20220226-spz-sm-46-km-ft-abs.pdf)
+- [45 km CT]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-abs.pdf)
+- [45 km CT týmy]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-tymy.pdf)

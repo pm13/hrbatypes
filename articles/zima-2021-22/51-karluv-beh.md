@@ -25,8 +25,15 @@ Lyže dneska průměrné a finiš jsem opět projel 🤣. Ale v kategorii zas be
 |--------|--------------|---------|---------|
 | 3.     | Petr Polášek | 31:42.8 | 01:59.0 |
 
-### 45 km klasicky
+### 39 km klasicky
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | 7 km    | 19 km   | 25 km     | 37 km     |
 |--------|-----------------------|-----------|---------|---------|---------|-----------|-----------|
 | 12.    | Jan Ferdinand Polášek | 2:01:42.1 | 10:21.2 | 19:47.9 | 57:20.6 | 1:15:58.3 | 1:56:14.9 |
+
+Přílohy:
+--------
+
+- [22 km FT]({static}/static/zima-2021-22/20220219-spz-kb-22-ft-abs.pdf)
+- [12 km FT]({static}/static/zima-2021-22/20220219-spz-kb-12-ft-abs.pdf)
+- [39 km CT]({static}/static/zima-2021-22/20220220-spz-kb-39-ct-abs.pdf)

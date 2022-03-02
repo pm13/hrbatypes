@@ -1,9 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-02-06 19:30
+Date: 2022-03-02 22:14
 Category: Archív
 
+Šumavský Skimaraton 2022 - skate
+--------------------------------
+
+![Šumavák 2022 skate Ferda]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-skate-ferda.jpg){: width="450"}
+
+![Šumavák 2022 skate Petr]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-skate-petr.jpg){: width="450"}
+
 BoBoloppet 2022
---------------------
+---------------
 
 ![BoBoloppet 2022]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2022.jpg){: width="650"}
 

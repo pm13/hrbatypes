@@ -61,3 +61,7 @@ Přílohy:
 - [46 km FT]({static}/static/zima-2021-22/20220226-spz-sm-46-km-ft-abs.pdf)
 - [45 km CT]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-abs.pdf)
 - [45 km CT týmy]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-tymy.pdf)
+
+![Poháry ze skatu]({static}/static/zima-2021-22/sumavak-pohary.jpg){: width="400" .float-md-left .mr-3}
+
+![Soudek z týmů]({static}/static/zima-2021-22/sumavak-soudek.jpg){: width="400" .float-md-left}

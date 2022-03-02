@@ -9,6 +9,13 @@ Category: Archív
 
 ![Šumavák 2022 skate Petr]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-skate-petr.jpg){: width="450"}
 
+Karlův běh 2022 - skate
+-----------------------
+
+![Karlův běh 2022 skate Ferda]({static}/static/archiv/stupne-vitezu-aktualne/karluv-beh-2022-skate-ferda.jpg){: width="450"}
+
+![Karlův běh 2022 skate Petr]({static}/static/archiv/stupne-vitezu-aktualne/karluv-beh-2022-skate-petr.jpg){: width="450"}
+
 BoBoloppet 2022
 ---------------
 

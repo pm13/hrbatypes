@@ -37,3 +37,5 @@ Přílohy:
 - [22 km FT]({static}/static/zima-2021-22/20220219-spz-kb-22-ft-abs.pdf)
 - [12 km FT]({static}/static/zima-2021-22/20220219-spz-kb-12-ft-abs.pdf)
 - [39 km CT]({static}/static/zima-2021-22/20220220-spz-kb-39-ct-abs.pdf)
+
+![Medaile]({static}/static/zima-2021-22/karluv-beh-medaile.jpg){: width="400"}

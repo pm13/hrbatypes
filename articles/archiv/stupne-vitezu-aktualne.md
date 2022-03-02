@@ -2,10 +2,15 @@ Title: Stupně vítězů aktuálně
 Date: 2022-02-06 19:30
 Category: Archív
 
-Orlický maraton 2022
-------------------------
+BoBoloppet 2022
+--------------------
 
-![Orlický maraton 2022]({static}/static/archiv/stupne-vitezu-aktualne/orlicky-maraton-2022.jpeg){: width="650"}
+![BoBoloppet 2022]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2022.jpg){: width="650"}
+
+Orlický maraton 2022
+--------------------
+
+![Orlický maraton 2022]({static}/static/archiv/stupne-vitezu-aktualne/orlicky-maraton-2022.jpg){: width="650"}
 
 Ve stopě Zlaté lyže 2022
 ------------------------

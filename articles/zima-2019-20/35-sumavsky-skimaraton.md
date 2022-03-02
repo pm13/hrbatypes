@@ -11,7 +11,6 @@ Author: Petr
 
 **Ferda k neděli:** Krásná klistrová podmínka. Do kopce mi to celkem šlo, z kopce a po rovině nic moc. A na ty 3 soupažáky jsem neměl, ale to bylo určitě jenom klistrem a ne mou výkonností 😀.
 
-
 Skate, 24 km
 -------------
 
@@ -27,7 +26,6 @@ Klasika, 24 km
 |--------|-----------------------|-----------|---------|-----------|------------------|------------------|------------|
 | 3.     | Jan Ferdinand Polášek | 1:25:18.4 | 02:50.5 | 00:00.0   | 05:33.7          | 30:21.8          | 1:03:46.8  |
 | 5.     | Petr Marhoun          | 1:25:55.5 | 03:27.5 | 00:37.0   | 05:41.9          | 30:49.3          | 1:05:03.6  |
-
 
 Přílohy:
 --------

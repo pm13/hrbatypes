@@ -5,7 +5,7 @@ Author: Petr
 
 **Ferda k sobotě:** Skate. V téhle rychlosti už neumím na těch lyžích stát. No a spurt mám silný, co si budem 🙈, takže ze skupinky jsem bral poslední místo.
 
-**Petr k sobotě:** nebylo to příliš krátké?
+**Petr k sobotě:** Nebylo to příliš krátké?
 
 **Ferda k neděli:** Organizátoři nezklamali a opět zrušili dlouhou trať.
 
@@ -13,19 +13,19 @@ Já ani nejel klasicky, ale klesnul jsem k pádlování, hanba 😞
 
 Lyže dneska průměrné a finiš jsem opět projel 🤣. Ale v kategorii zas bedna, to jsou věci 🙈
 
-### Výsledky 22 km volně
+### 22 km volně
 
 | Pořadí | Jméno                 | Čas     | Ztráta  | 7 km    |
 |--------|-----------------------|---------|---------|---------|
 | 5.     | Jan Ferdinand Polášek | 51:21.7 | 00:22.1 | 17:27.2 |
 
-### Výsledky 12 km volně
+### 12 km volně
 
 | Pořadí | Jméno        | Čas     | Ztráta  |
 |--------|--------------|---------|---------|
 | 3.     | Petr Polášek | 31:42.8 | 01:59.0 |
 
-### Výsledky 45 km klasicky
+### 45 km klasicky
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | 7 km    | 19 km   | 25 km     | 37 km     |
 |--------|-----------------------|-----------|---------|---------|---------|-----------|-----------|

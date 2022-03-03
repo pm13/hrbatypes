@@ -2,6 +2,14 @@ Title: Stupně vítězů aktuálně
 Date: 2022-03-02 22:14
 Category: Archív
 
+Šumavský Skimaraton 2022 - klasika
+--------------------------------
+
+![Šumavák 2022 klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-klasika.jpg){: width="450"}
+
+![Šumavák 2022 týmy]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-tymy.jpg){: width="650"}
+
+
 Šumavský Skimaraton 2022 - skate
 --------------------------------
 

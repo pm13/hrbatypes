@@ -3,7 +3,7 @@ Date: 2022-03-02 22:14
 Category: Archív
 
 Šumavský Skimaraton 2022 - klasika
---------------------------------
+----------------------------------
 
 ![Šumavák 2022 klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-klasika.jpg){: width="450"}
 
@@ -18,7 +18,7 @@ Category: Archív
 ![Šumavák 2022 skate Petr]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2022-skate-petr.jpg){: width="450"}
 
 Karlův běh 2022 - klasika
------------------------
+-------------------------
 
 ![Karlův běh 2022 klasika]({static}/static/archiv/stupne-vitezu-aktualne/karluv-beh-2022-klasika.jpg){: width="450"}
 

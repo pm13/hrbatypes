@@ -32,6 +32,8 @@ Hlavní bod programu - převzít si večer pohár za celkové vítězství ve V�
 |--------|--------------|------|
 | 1.     | Petr Marhoun | 263  |
 
+![Putovní pohár za VŠ ligu]({static}/static/zima-2021-22/vs-liga-pohar.jpg){: width="450"}
+
 Přílohy:
 --------
 

@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-03-02 22:14
+Date: 2022-03-15 22:20
 Category: Archív
+
+Krkonošská 70 2022
+------------------
+
+![Krkonošská 70 2022]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2022.jpg){: width="650"}
 
 Šumavský Skimaraton 2022 - klasika
 ----------------------------------

@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2022-03-16 8:27
 Category: Archív
 
+Stopa pro život 2022
+--------------------
+
+![Stopa pro život 2022]({static}/static/archiv/stupne-vitezu-aktualne/stopa-pro-zivot-2022.jpg){: width="650"}
+
 Krkonošská 70 2022
 ------------------
 

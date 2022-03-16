@@ -20,3 +20,9 @@ A co bylo skvělý jak všude mega fandili, zejména když jsem byl úplně kož
 | Pořadí | Jméno      | Čas     | Ztráta  |
 |--------|------------|---------|---------|
 | 1257.  | Tomáš Rusý | 5:04:39 | 1:32:21 |
+
+![start]({static}/static/zima-2021-22/vasaloppet-1.jpg){: width="450"}
+
+![Tomáš na startu]({static}/static/zima-2021-22/vasaloppet-2.jpg){: width="450"}
+
+![cíl]({static}/static/zima-2021-22/vasaloppet-3.jpg){: width="450"}

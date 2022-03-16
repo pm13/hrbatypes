@@ -32,6 +32,10 @@ Celkové výsledky Stopy pro život
 | 2.     | Jan Ferdinand Polášek | 925  |
 | 3.     | Petr Marhoun          | 810  |
 
+![v cíli]({static}/static/zima-2021-22/k70-v-cili.jpg){: width="650"}
+
+![pohár]({static}/static/zima-2021-22/k70-pohar.jpg){: width="450"}
+
 Přílohy:
 --------
 

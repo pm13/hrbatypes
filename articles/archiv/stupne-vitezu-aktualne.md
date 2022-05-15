@@ -1,6 +1,12 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-03-16 8:27
+Date: 2022-05-15 23:04
 Category: Archív
+
+Kvadriatlon dvojic 2022
+-----------------------
+
+![Kvadriatlon dvojic 2022]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2022.jpg){: width="650"}
+
 
 Stopa pro život 2022
 --------------------

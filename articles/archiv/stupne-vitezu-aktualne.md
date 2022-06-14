@@ -1,12 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-05-15 23:04
+Date: 2022-06-14 23:05
 Category: Archív
+
+EPO Survival 2022
+-----------------
+
+![EPO Survival 2022]({static}/static/archiv/stupne-vitezu-aktualne/epo-survival-2022.jpg){: width="650"}
 
 Kvadriatlon dvojic 2022
 -----------------------
 
 ![Kvadriatlon dvojic 2022]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2022.jpg){: width="650"}
-
 
 Stopa pro život 2022
 --------------------

@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-06-14 23:05
+Date: 2022-07-24 22:50
 Category: Archív
+
+Kazín - Cukrák 2022
+-------------------
+
+![Kazín - Cukrák 2022]({static}/static/archiv/stupne-vitezu-aktualne/kazin-cukrak-2022.jpg){: width="650"}
 
 EPO Survival 2022
 -----------------

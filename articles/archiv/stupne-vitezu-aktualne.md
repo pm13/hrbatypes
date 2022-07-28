@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-07-24 22:50
+Date: 2022-07-28 10:40
 Category: Archív
+
+Běh za Slivenskou saní 2022
+-------------------
+
+![Běh za Slivenskou saní 2022]({static}/static/archiv/stupne-vitezu-aktualne/beh-za-slivenskou-sani-2022.jpg){: width="450"}
 
 Kazín - Cukrák 2022
 -------------------

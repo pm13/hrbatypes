@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2022-07-28 10:40
 Category: Archív
 
+BoBoTriple 2022
+---------------
+
+![BoBoTriple 2022]({static}/static/archiv/stupne-vitezu-aktualne/bobotriple-2022.jpg){: width="650"}
+
 Běh za Slivenskou saní 2022
 -------------------
 

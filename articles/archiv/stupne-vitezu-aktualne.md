@@ -1,11 +1,21 @@
 Title: Stupně vítězů aktuálně
-Date: 2022-11-09 9:16
+Date: 2022-11-14 18:57
 Category: Archív
+
+Velká Kunratická 2022
+---------------
+
+![Velká Kunratická 2022]({static}/static/archiv/stupne-vitezu-aktualne/velka-kunraticka-2022.jpg){: width="650"}
 
 BoBoTriple 2022
 ---------------
 
 ![BoBoTriple 2022]({static}/static/archiv/stupne-vitezu-aktualne/bobotriple-2022.jpg){: width="650"}
+
+Slapy Trail Maniacs 2022
+------------------------
+
+![Slapy Trail Maniacs 2022]({static}/static/archiv/stupne-vitezu-aktualne/slapy-trail-maniacs-2022.jpg){: width="650"}
 
 Běh za Slivenskou saní 2022
 -------------------

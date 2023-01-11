@@ -18,7 +18,7 @@ Soustředění, prosinec, bouda Berta (u Hesounů)
 
 - **1. kolo** 8. - 9. ledna, FEL, Jilemnice/Benecko
 - **2. kolo** 15. - 16. ledna, Humanita, Jilemnice/Benecko
-- **3. kolo** 17. - 20. února, Akademické MČR, Nové Město na Moravě
+- **3. kolo** 17. - 20. ledna, Akademické MČR, Nové Město na Moravě
 - **4. kolo** 5. - 6. března, Tygří skiatlon, Břízky-kolečko
 
 Něco pro dálkoplazy

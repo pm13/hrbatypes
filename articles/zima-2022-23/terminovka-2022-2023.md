@@ -28,7 +28,7 @@ Něco pro dálkoplazy
 
 - [Horní Mísečky](https://www.ski-tour.cz/horni-misecky/r23), 7. - 8. ledna, Horní Mísečky - *přeloženo na 18. - 19. února*
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), 14. - 15. ledna, Churáňov - *zrušeno*
-- [Krušnohorská 30](https://www.ski-tour.cz/krusnohorska-30/r8), 21. - 22. ledna, Nové Město v Krušných horách - *přeloženo na 4. - 5. března*
+- [Krušnohorská 30](https://www.ski-tour.cz/krusnohorska-30/r8), 21. - 22. ledna, Cínovec - *přeloženo na 4. - 5. března*
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 4. - 5. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz), 9. - 12. února, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), 25. - 26. února, Paprsek
@@ -38,8 +38,8 @@ Něco pro dálkoplazy
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/zavody/balikovna-ve-stope-zlate-lyze/trasy), 14. ledna, Vysočina Arena - *přeloženo*
-- [Jilemnická 50](https://www.stopaprozivot.cz/zavody/jilemnicka-50-s-211/trasy), 28. - 29. ledna, Roudnice/Horní Mísečky
-- [Karlův běh](https://www.stopaprozivot.cz/zavody/cardion-karluv-beh/trasy), 18. - 19. února, Boží dar
+- [Jilemnická 50](https://www.stopaprozivot.cz/zavody/jilemnicka-50-s-211/trasy), 28. - 29. ledna, Roudnice v Krkonoších/Horní Mísečky
+- [Karlův běh](https://www.stopaprozivot.cz/zavody/cardion-karluv-beh/trasy), 18. - 19. února, Boží Dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/trasy), 25. - 26. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/zavody/krkonosska-70-monzas/trasy), 4. března, Špindlerův Mlýn
 

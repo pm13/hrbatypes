@@ -37,7 +37,7 @@ Něco pro dálkoplazy
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
-- [Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/zavody/balikovna-ve-stope-zlate-lyze/trasy), 14. ledna, Vysočina Arena - *přeloženo*
+- [Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/zavody/balikovna-ve-stope-zlate-lyze/trasy), 14. ledna, Vysočina Arena - *přeloženo na 11. března*
 - [Jilemnická 50](https://www.stopaprozivot.cz/zavody/jilemnicka-50-s-211/trasy), 28. - 29. ledna, Roudnice v Krkonoších/Horní Mísečky
 - [Karlův běh](https://www.stopaprozivot.cz/zavody/cardion-karluv-beh/trasy), 18. - 19. února, Boží Dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/trasy), 25. - 26. února, Kvilda

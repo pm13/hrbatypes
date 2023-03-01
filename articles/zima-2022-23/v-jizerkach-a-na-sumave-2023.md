@@ -1,4 +1,4 @@
-Title: V Jizerkách a/nebo na Šumavě, 2023
+Title: V Jizerkách a na Šumavě, 2023
 Date: 2023-03-01 18:53
 Category: Zima 2022/23
 Author: Petr

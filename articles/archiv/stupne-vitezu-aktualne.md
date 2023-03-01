@@ -1,11 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-02-04 21:28
+Date: 2023-03-01 21:28
 Category: Archív
 
 Šumavský Skimaraton 2023
 ------------------------
 
 ![Šumavák 2023]({static}/static/archiv/stupne-vitezu-aktualne/sumavak-2023.jpg){: width="450"}
+
+Šumavský brouk 2023
+-------------------
+
+![Šumavský brouk 023]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-brouk-2023.jpg){: width="450"}
 
 Orlický maraton 2023
 --------------------

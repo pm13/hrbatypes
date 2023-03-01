@@ -54,6 +54,12 @@ Celkově 18. místo, co víc si přát.
 | 18.    | Petr Polášek          | 1:24:01.7 | 12:36.1 | 00:50.3   | 06:31.3          | 17:45.8           | 33:31.9          | 43:55.9           |
 | 180.   | Jana Preclíková       | 2:09:03.9 | 57:38.4 | 45:52.6   | 11:34.0          | 29:47.4           | 52:55.6          | 1:10:21.7         |
 
+![Petr]({static}/static/zima-2022-23/boboloppet-petr.jpg){: width="650"}
+
+![Honza]({static}/static/zima-2022-23/boboloppet-honza.jpg){: width="650"}
+
+![Šumavák]({static}/static/zima-2022-23/sumavak.jpg){: width="650"}
+
 Přílohy:
 --------
 

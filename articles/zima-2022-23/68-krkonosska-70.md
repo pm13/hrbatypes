@@ -21,7 +21,7 @@ Všem jsme ukázali sílu muflona 💪 byla to těžký ale bylo to boží! Dík
 
 **Martin Pávek:** Krkonošská 70 🏆🥇
 
-Konečně to tam padlo … hlavní je ze to bylo perfektní lyžování, manzestr, sluníčko … prostě to bylo parádní svezení …
+Konečně to tam padlo … hlavní je že to bylo perfektní lyžování, manzestr, sluníčko … prostě to bylo parádní svezení …
 
 **Tomáš:** K70 (50) 🧡🖤 / 5. (3. v mladších veteranech 😅🤷‍♂️)
 

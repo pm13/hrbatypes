@@ -23,7 +23,7 @@ Všem jsme ukázali sílu muflona 💪 byla to těžký ale bylo to boží! Dík
 
 Konečně to tam padlo … hlavní je že to bylo perfektní lyžování, manzestr, sluníčko … prostě to bylo parádní svezení …
 
-**Tomáš:** K70 (50) 🧡🖤 / 5. (3. v mladších veteranech 😅🤷‍♂️)
+**Tomáš:** K70 (50) 🧡🖤 / 5. (3. v mladších veteránech 😅🤷‍♂️)
 
 Podpořit kluky na nyní už konečném tažení za vítězstvím 🥳🥳, sám si přitom hrábnout na dno 😀 na konci už jsem byl teda v libovým uhlí, možná to nějak gelík na cestu chtělo 🤷‍♂️ a v závěrečným sjezdíku se ani lyže moc nepředvedly a dva kluci mě předjeli, tak trochu škoda, placka nebyla daleko 😀
 

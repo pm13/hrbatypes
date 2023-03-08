@@ -1,6 +1,21 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-03-01 21:28
+Date: 2023-03-08 16:37
 Category: Archív
+
+Krkonošská 70 2023
+------------------
+
+![Krkonošská 70 2023]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2023.jpg){: width="650"}
+
+Krkonošská 70 2023 - 50 km
+--------------------------
+
+![Krkonošská 70 2023 - 50 km]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2023-50-km.jpg){: width="650"}
+
+Krkonošská 70 2023 - jednotlivci
+--------------------------------
+
+![Krkonošská 70 2023 - jednotlivci]({static}/static/archiv/stupne-vitezu-aktualne/krkonosska-70-2023-jednotlivci.jpg){: width="650"}
 
 Šumavský Skimaraton 2023
 ------------------------

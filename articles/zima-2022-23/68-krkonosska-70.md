@@ -46,7 +46,7 @@ Jednotlivci 50 km
 
 ![v cíli]({static}/static/zima-2022-23/k70-v-cili.jpg){: width="650"}
 
-![pohár]({static}/static/zima-2022-23/k70-medaile.jpg){: width="650"}
+![pohár]({static}/static/zima-2022-23/k70-pohar.jpg){: width="450"}
 
 Přílohy:
 --------

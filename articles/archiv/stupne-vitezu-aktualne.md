@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2023-03-08 16:37
 Category: Archív
 
+SkiTour Harrachov 2023
+----------------------
+
+![SkiTour Harrachov 2023]({static}/static/archiv/stupne-vitezu-aktualne/ski-tour-harrachov-2023.jpg){: width="650"}
+
 Krkonošská 70 2023
 ------------------
 

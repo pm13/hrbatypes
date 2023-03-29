@@ -1,8 +1,9 @@
 import os
+import pathlib
 from functools import partial
 
 PATH = '.'
-OUTPUT_PATH = os.path.expanduser('~/hrbatypes')
+OUTPUT_PATH = pathlib.Path('~/hrbatypes').expanduser()
 
 SITENAME = 'VSK MFF UK BL'
 SITEURL = os.environ.get('URL', '')

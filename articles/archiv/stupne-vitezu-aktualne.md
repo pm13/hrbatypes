@@ -2,6 +2,10 @@ Title: Stupně vítězů aktuálně
 Date: 2023-03-08 16:37
 Category: Archív
 
+Horský maraton 2023 - 11,6 km canicross
+---------------------------------------
+![Horský maraton 2023]({static}/static/archiv/stupne-vitezu-aktualne/horsky-maraton-2023.jpg){: width="650"}
+
 SkiTour Harrachov 2023
 ----------------------
 

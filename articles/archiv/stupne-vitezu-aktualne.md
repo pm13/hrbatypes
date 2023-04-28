@@ -7,8 +7,9 @@ VIPrahlý BAJKonur 2023
 
 ![VIPrahlý BAJKonur 2023]({static}/static/archiv/stupne-vitezu-aktualne/viprahly-bajkonur-2023.jpg){: width="650"}
 
-Horský maraton 2023 - 11,6 km canicross
----------------------------------------
+Horský maraton 2023 - canicross
+-------------------------------
+
 ![Horský maraton 2023]({static}/static/archiv/stupne-vitezu-aktualne/horsky-maraton-2023.jpg){: width="650"}
 
 SkiTour Harrachov 2023

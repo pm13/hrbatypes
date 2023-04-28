@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-03-08 16:37
+Date: 2023-04-28 14:01
 Category: Archív
+
+VIPrahlý BAJKonur 2023
+----------------------
+
+![VIPrahlý BAJKonur 2023]({static}/static/archiv/stupne-vitezu-aktualne/viprahly-bajkonur-2023.jpg){: width="650"}
 
 Horský maraton 2023 - 11,6 km canicross
 ---------------------------------------

@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-04-28 14:01
+Date: 2023-05-10 20:43
 Category: Archív
+
+Kvadriatlon dvojic 2023
+-----------------------
+
+![Kvadriatlon dvojic 2023]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2023.jpg){: width="650"}
 
 VIPrahlý BAJKonur 2023
 ----------------------

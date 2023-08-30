@@ -1,6 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-05-29 15:34
+Date: 2023-08-30 12:15
 Category: Archív
+
+MINI Adventure Race 2023
+-----------------
+
+![MINI Adventure Race 2023]({static}/static/archiv/stupne-vitezu-aktualne/mini-adventure-race-2023.jpg){: width="650"}
+
+MTBO Kolotoč 2023
+-----------------
+
+![MTBO Kolotoč 2023]({static}/static/archiv/stupne-vitezu-aktualne/mtbo-kolotoc-2023.jpg){: width="650"}
 
 EPO Survival 2023
 -----------------

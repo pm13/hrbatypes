@@ -1,9 +1,14 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-08-30 12:15
+Date: 2023-09-13 22:49
 Category: Archív
 
+Běh Broumovskými stěnami 2023
+-----------------------------
+
+![Běh Broumovskými stěnami 2023]({static}/static/archiv/stupne-vitezu-aktualne/beh-broumovskymi-stenami-2023.jpg){: width="650"}
+
 MINI Adventure Race 2023
------------------
+------------------------
 
 ![MINI Adventure Race 2023]({static}/static/archiv/stupne-vitezu-aktualne/mini-adventure-race-2023.jpg){: width="650"}
 

@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-09-13 22:49
+Date: 2023-10-29 10:04
 Category: Archív
+
+Slapy Trail Maniacs 2023
+------------------------
+
+![Slapy Trail Maniacs 2023]({static}/static/archiv/stupne-vitezu-aktualne/slapy-trail-maniacs-2023.jpg){: width="650"}
 
 Běh Broumovskými stěnami 2023
 -----------------------------

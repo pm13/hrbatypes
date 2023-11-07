@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-10-29 10:04
+Date: 2023-11-07 12:16
 Category: Archív
+
+BoBoTriple 2023
+---------------
+
+![BoBoTriple 2023]({static}/static/archiv/stupne-vitezu-aktualne/bobotriple-2023.jpg){: width="650"}
 
 Slapy Trail Maniacs 2023
 ------------------------

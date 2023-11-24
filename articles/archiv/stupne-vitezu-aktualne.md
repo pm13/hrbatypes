@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-11-07 12:16
+Date: 2023-11-24 8:34
 Category: Archív
+
+Velká Kunratická 2023
+---------------------
+
+![Velká Kunratická 2023]({static}/static/archiv/stupne-vitezu-aktualne/velka-kunraticka-2023.jpg){: width="650"}
 
 BoBoTriple 2023
 ---------------

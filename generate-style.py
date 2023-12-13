@@ -8,7 +8,7 @@ import click
 
 @click.command()
 def generate_style():
-    'Generate style for web VSK MFF UK BL'
+    "Generate style for web VSK MFF UK BL"
 
     bootstrap_path = pathlib.Path('~/.local/lib/node_modules/bootstrap').expanduser()
     theme_path = pathlib.Path('~/src/hrbatypes/theme/static').expanduser()

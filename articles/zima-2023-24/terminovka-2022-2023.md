@@ -17,7 +17,7 @@ Soustředění, prosinec, Boží Dar
 ---------------------------------
 
 - **1. kolo** 16. prosince, Velká cena Jilemnice, Horní Mísečky
-- **2. kolo** 17. prosince, Horní Mísečky
+- **2. kolo** 17. prosince, Horní Mísečky - *zrušeno*
 - **3. kolo** 6. - 7. ledna, FEL, Horní Mísečky
 - **4. kolo** 3. - 2. února, Humanita, Benecko
 - **3. kolo** 4. - 3. března, Akademické MČR, Nové Město na Moravě

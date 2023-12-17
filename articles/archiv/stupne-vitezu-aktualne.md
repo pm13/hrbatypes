@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-11-24 8:34
+Date: 2023-12-17 20:05
 Category: Archív
+
+Velká cena Jilemnice 2023
+-------------------------
+
+![Velká cena Jilemnice 2023]({static}/static/archiv/stupne-vitezu-aktualne/velka-cena-jilemnice-2023.jpg){: width="550"}
 
 Velká Kunratická 2023
 ---------------------

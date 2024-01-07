@@ -5,11 +5,17 @@ Author: Petr
 
 ### Velká cena Jilemnice
 
+**Petr**: VŠ liga - 10 km skate s překážkami - 9. místo, ve VŠ lize vítězství 💪
+
+Také Velká cena Jilemnice a ještě něco pražského (což jsem taky vyhrál). Otočka (pouze první kolo), slalom (každé kolo dvakrát), soupaž, stříšky, jízda pozadu (pouze poslední kolo).
+
 | Pořadí | Jméno        | Čas     | Ztráta |
 |--------|--------------|---------|--------|
 | 9.     | Petr Marhoun | 32:38.6 | 3:32.7 |
 
 ### Pražský pohár - skate
+
+**Ferda**: Lyže dobrý, ale lyžař špatný
 
 | Pořadí | Jméno         | Čas     | Ztráta | Relativně |
 |--------|---------------|---------|--------|-----------|
@@ -17,6 +23,10 @@ Author: Petr
 | 7.     | Petr Marhoun  | 30:38.4 | 2:03.1 | 1:20.5    |
 
 ### Pražský pohár - klasika
+
+**Ferda**: Porazil jsem Kyborga 💪💪💪, jen ten rolnický čajíček mi vrátil včerejší porážku. Jinak klasiku bych se měl zase naučit, nejde mi tak jak bych chtěl. Ale pozitivní bylo, že Martin mi moc neujel 💪💪. Sajdlík je dobrej ¯\_(ツ)_/¯
+
+**Petr**: Sběr vysokoškolských brambor pokračuje - tentokrát o sekundu za JFP.
 
 | Pořadí | Jméno        | Čas      | Ztráta | Relativně |
 |--------|--------------|----------|--------|-----------|

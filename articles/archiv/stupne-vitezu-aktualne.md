@@ -1,6 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2023-12-17 20:05
+Date: 2024-01-07 22:30
 Category: Archív
+
+Pražský pohár 2024 - klasika
+----------------------------
+
+![Pražský pohár 2024 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/prazsky-pohar-2024-klasika.jpg){: width="650"}
+
+Pražský pohár 2024 - skate
+--------------------------
+
+![Pražský pohár 2024 - skate]({static}/static/archiv/stupne-vitezu-aktualne/prazsky-pohar-2024-skate.jpg){: width="650"}
 
 Velká cena Jilemnice 2023
 -------------------------

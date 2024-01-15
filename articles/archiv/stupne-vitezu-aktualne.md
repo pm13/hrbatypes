@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2024-01-07 22:30
+Date: 2024-01-15 23:40
 Category: Archív
+
+SkiTour Horní Mísečky 2024
+--------------------------
+
+![SkiTour Horní Mísečky 2024]({static}/static/archiv/stupne-vitezu-aktualne/ski-tour-horni-misecky-2024.jpg){: width="650"}
 
 Pražský pohár 2024 - klasika
 ----------------------------

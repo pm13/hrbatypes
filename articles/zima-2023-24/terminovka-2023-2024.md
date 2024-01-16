@@ -47,7 +47,7 @@ Něco pro dálkoplazy
 Ostatní závody hodné vážného zřetele
 ------------------------------------
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 13. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 13. ledna, Polevsko - *zrušeno*
 
 ### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 27. ledna, Polevsko
 

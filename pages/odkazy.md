@@ -9,8 +9,8 @@ Nejrůznější důležité stránky
 - [Bílé stopy](https://bilestopy.cz/)
 - [Skimapa](http://skimapa.cz/)
 - [Jizerská o.p.s.](https://www.jizerskaops.cz/)
-- [Bílá stopa Šumava](http://bilastopa.cz/)
-- [Lyžařské běžecké trasy KK](https://gis.kr-karlovarsky.cz/klm/)
+- [Bílá stopa Šumava](https://bilastopa.cz/)
+- [Lyžařské běžecké trasy KK](https://kakraj.maps.arcgis.com/apps/webappviewer/index.html?id=5b365e1b12104e8c9b80967cf8dc7de7)
 - [Deštné v Orlických horách](https://www.destne.info/#/bezky)
 
 Předpovědi počasí
@@ -28,7 +28,7 @@ Lyžařské (a jiné) výsledky
 - [sport-časomíra.cz](http://sport-casomira.cz/)
 - [Sportis](http://sportis.cz/)
 - [Sportchallenge](https://www.sportchallenge.cz/)
-- [Sportave](https://sportave.com/racer)
+- [jkTiming](https://jktiming.cz/race)
 - [běhej.com](https://www.behej.com/bezecke-tabulky/zavodnici)
 
 Stránky dalších akademických oddílů

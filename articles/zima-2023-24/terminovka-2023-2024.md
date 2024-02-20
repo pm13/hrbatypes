@@ -32,16 +32,16 @@ Něco pro dálkoplazy
 - [Krušnohorská 30](https://www.ski-tour.cz/propozice/krusnohorska30), 20. - 21. ledna, Cínovec - *zrušeno*
 - [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/propozice/bedrichovsky-night-light-marathon), 26. - 27. ledna, Bedřichov
 - [Orlický maraton](https://www.ski-tour.cz/propozice/orlicky-maraton), 3. - 4. února, Deštné v Orlických horách
-- [Jizerská 50](https://jiz50.cz), 8. - 11. února, Bedřichov
+- [Jizerská 50](https://jiz50.cz), 8. - 11. února, Bedřichov - *zrušeno*
 - [Jelyman](https://www.ski-tour.cz/propozice/jelyman), 24. - 25. února, Paprsek
-- [Bieg Piastow](https://www.ski-tour.cz/propozice/bieg-piastow), 1. - 3. března, Polana Jakuszycka
+- [Bieg Piastow](https://www.ski-tour.cz/propozice/bieg-piastow), 1. - 3. března, Polana Jakuszycka - *zrušeno*
 - [Harrachov](https://www.ski-tour.cz/propozice/harrachov), 8. - 9. března, Harrachov
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [Jilemnická 50](https://www.stopaprozivot.cz/zavody/cus-jilemnicka-50/trasy), 27. - 28. ledna, Horní Mísečky
 - [Karlův běh](https://www.stopaprozivot.cz/zavody/cardion-karluv-beh/trasy), 17. - 18. února, Boží Dar
-- [Šumavský skimaraton](https://www.stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/trasy), 24. - 25. února, Kvilda
+- [Šumavský skimaraton](https://www.stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/trasy), 24. - 25. února, Kvilda - *zrušeno*
 - [Krkonošská 70](https://www.stopaprozivot.cz/zavody/krkonosska-70-monzas/trasy), 9. března, Špindlerův Mlýn
 
 Ostatní závody hodné vážného zřetele
@@ -49,11 +49,11 @@ Ostatní závody hodné vážného zřetele
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 13. ledna, Polevsko - *zrušeno*
 
-### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 27. ledna, Polevsko
+### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 27. ledna, Polevsko - *zrušeno*
 
 ### [Hojnovodská Zlatá lyže](https://www.hojna-voda.eu/index.php/akce/hojna-voda-2/hojnovodska-zlata-lyze-2024), 4. února, Hojná Voda
 
-### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 17. února, Bedřichov
+### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 17. února, Bedřichov - *zrušeno*
 
 - 90 km všude v Jizerských horách
 - libovolný styl

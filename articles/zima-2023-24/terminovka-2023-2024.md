@@ -33,7 +33,7 @@ Něco pro dálkoplazy
 - [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/propozice/bedrichovsky-night-light-marathon), 26. - 27. ledna, Bedřichov
 - [Orlický maraton](https://www.ski-tour.cz/propozice/orlicky-maraton), 3. - 4. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz), 8. - 11. února, Bedřichov - *zrušeno*
-- [Jelyman](https://www.ski-tour.cz/propozice/jelyman), 24. - 25. února, Paprsek
+- [Jelyman](https://www.ski-tour.cz/propozice/jelyman), 24. - 25. února, Paprsek - *zrušeno*
 - [Bieg Piastow](https://www.ski-tour.cz/propozice/bieg-piastow), 1. - 3. března, Polana Jakuszycka - *zrušeno*
 - [Harrachov](https://www.ski-tour.cz/propozice/harrachov), 8. - 9. března, Harrachov - *zrušeno*
 

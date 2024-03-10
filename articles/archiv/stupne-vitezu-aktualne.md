@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2024-01-15 23:40
+Date: 2024-03-10 21:38
 Category: Archív
+
+Bedřichovský Night Light Marathon 2024
+--------------------------------------
+
+![Bedřichovský Night Light Marathon 2024]({static}/static/archiv/stupne-vitezu-aktualne/bedrichovsky-nlm-2024.jpg){: width="650"}
 
 SkiTour Horní Mísečky 2024
 --------------------------

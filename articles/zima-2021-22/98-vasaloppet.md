@@ -1,4 +1,4 @@
-Title: 100. Vasaloppet
+Title: 98. Vasaloppet
 Date: 2022-03-15 21:54
 Category: Zima 2021/22
 Author: Tomáš

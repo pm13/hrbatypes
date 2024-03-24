@@ -63,7 +63,7 @@ Ostatní závody hodné vážného zřetele
 
 - nejtěžší závod v běhu na lyžích na území ČR
 
-### [Skadi Loppet](https://www.skadi-loppet.de/), 16. - 17. března, Velký Javor
+### [Skadi Loppet](https://www.skadi-loppet.de/), 16. - 17. března, Velký Javor - *zrušeno*
 
 ### [SKI Senohraby](https://www.senohraby.cz/info-o-obci-1/ski-senohraby-1/)
 

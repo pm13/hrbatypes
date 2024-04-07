@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2024-03-10 21:38
+Date: 2024-04-07 22:58
 Category: Archív
+
+Horský běh v Novohradských horách 2024
+--------------------------------------
+
+![Horský běh v Novohradských horách 2024]({static}/static/archiv/stupne-vitezu-aktualne/horsky-beh-2024.jpg){: width="650"}
 
 Bedřichovský Night Light Marathon 2024
 --------------------------------------

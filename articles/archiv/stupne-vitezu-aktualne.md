@@ -1,6 +1,16 @@
 Title: Stupně vítězů aktuálně
-Date: 2024-04-07 22:58
+Date: 2024-05-08 21:38
 Category: Archív
+
+Kvadriatlon dvojic 2024
+-----------------------
+
+![Kvadriatlon dvojic 2024]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2024.jpg){: width="650"}
+
+Inov-8 Brdský kros 2024
+-----------------------
+
+![Inov-8 Brdský kros 2024]({static}/static/archiv/stupne-vitezu-aktualne/brdsky-kros-2024.jpg){: width="450"}
 
 Horský běh v Novohradských horách 2024
 --------------------------------------

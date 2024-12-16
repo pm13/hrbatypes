@@ -2,6 +2,17 @@ Title: Stupně vítězů aktuálně
 Date: 2024-05-08 21:38
 Category: Archív
 
+Podzimní běh lyžařů 2024
+------------------------
+
+![Podzimní běh lyžařů 2024]({static}/static/archiv/stupne-vitezu-aktualne/podzimni-beh-lyzaru-2024.jpg){: width="450"}
+
+Běh Broumovskými stěnami 2024
+-----------------------------
+
+![Běh Broumovskými stěnami 2024]({static}/static/archiv/stupne-vitezu-aktualne/beh-broumovskymi-stenami-2024.jpg){: width="450"}
+
+
 Kvadriatlon dvojic 2024
 -----------------------
 

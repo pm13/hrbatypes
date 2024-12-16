@@ -21,7 +21,7 @@ Soustředění, prosinec, Boží Dar
 - **3. kolo** 6. - 7. ledna, FEL, Horní Mísečky
 - **4. kolo** 3. - 4. února, Humanita, Benecko
 - **5. kolo** 4. - 3. března, Akademické MČR, Nové Město na Moravě - *zrušeno*
-- **6. kolo** 16. - 17. března, Tygří skiatlon, Břízky-kolečko
+- **6. kolo** 16. - 17. března, Tygří skiatlon, Břízky-kolečko - *zrušeno*
 
 Něco pro dálkoplazy
 -------------------

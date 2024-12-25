@@ -51,7 +51,7 @@ Ostatní závody hodné vážného zřetele
 
 ### Krušnohorská 30, 15. - 16. února, Cínovec
 
-### [Orlický maraton](https://ski-skuhrov.cz/zavody/orlicky-maraton/), 1. - 2. února, Šerlich
+### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
 ### Jelyman, 22. - 23. února, Paprsek
 

@@ -1,6 +1,11 @@
 Title: Stupně vítězů aktuálně
-Date: 2024-12-16 22:31
+Date: 2024-12-25 16:11
 Category: Archív
+
+Velká cena Jilemnice 2024 - Pražský pohár
+-----------------------------------------
+
+![Velká cena Jilemnice 2024 - Pražský pohár]({static}/static/archiv/stupne-vitezu-aktualne/velka-cena-jilemnice-2024.jpg){: width="450"}
 
 Podzimní běh lyžařů 2024
 ------------------------

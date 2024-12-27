@@ -16,7 +16,7 @@ Soustředění, prosinec, Horní Mísečky
 [VŠ Liga](https://www.vs-liga.cz/)
 ---------------------------------
 
-- **1. kolo** 4. - 5. ledna, FEL, Horní Mísečky
+- **1. kolo** 5. ledna, FEL, Horní Mísečky
 - **2. kolo** 1. - 2. února, Humanita, Benecko
 - **3. kolo** 17. - 19. února, Akademické MČR, Nové Město na Moravě
 - **4. kolo** 1. - 2. března, Tygří skiatlon, Břízky-kolečko

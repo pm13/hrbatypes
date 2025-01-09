@@ -35,9 +35,9 @@ Něco pro dálkoplazy
 Ostatní závody hodné vážného zřetele
 ------------------------------------
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), ?. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - *zrušeno*
 
-### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), ?. ledna, Polevsko
+### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko
 
 ### [Skadi Loppet](https://www.skadi-loppet.de/), 25. - 26. ledna, Velký Javor
 

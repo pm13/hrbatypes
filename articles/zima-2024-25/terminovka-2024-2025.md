@@ -41,7 +41,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
-### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko
 
 ### [Jizerská 50](https://jiz50.cz), 6. - 9. února, Bedřichov
 

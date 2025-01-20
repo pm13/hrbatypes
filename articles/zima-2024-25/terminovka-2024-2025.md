@@ -49,11 +49,11 @@ Ostatní závody hodné vážného zřetele
 - libovolný styl
 - součást série závodů Bobotripple, který Petr vyhrál v roce 2015
 
-### Krušnohorská 30, 15. - 16. února, Cínovec
+### [Krušnohorská 30](https://www.k30.cz/), 15. - 16. února, Nové Město v Krušných horách
 
 ### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
-### Jelyman, 22. - 23. února, Paprsek
+### [Jelyman](https://jelyman.ssu.cz/), 22. - 23. února, Paprsek
 
 ### [Bieg Piastow](https://bieg-piastow.pl), 7. - 9. března, Polana Jakuszycka
 

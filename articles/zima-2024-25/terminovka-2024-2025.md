@@ -37,9 +37,11 @@ Ostatní závody hodné vážného zřetele
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - *zrušeno*
 
-### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko
-
 ### [Skadi Loppet](https://www.skadi-loppet.de/), 25. - 26. ledna, Velký Javor
+
+### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
+
+### [Lužická třicítka](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko
 
 ### [Jizerská 50](https://jiz50.cz), 6. - 9. února, Bedřichov
 
@@ -50,8 +52,6 @@ Ostatní závody hodné vážného zřetele
 - součást série závodů Bobotripple, který Petr vyhrál v roce 2015
 
 ### [Krušnohorská 30](https://www.k30.cz/), 15. - 16. února, Nové Město v Krušných horách
-
-### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
 ### [Jelyman](https://jelyman.ssu.cz/), 22. - 23. února, Paprsek
 

@@ -1,6 +1,23 @@
 Title: Stupně vítězů aktuálně
-Date: 2025-02-01 22:26
+Date: 2025-03-02 21:07
 Category: Archív
+
+Šumavský skimaraton 2025 - klasika
+----------------------------------
+
+![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-1.jpg){: width="550"}
+
+![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-2.jpg){: width="550"}
+
+Šumavský skimaraton 2025 - skate
+----------------------------------
+
+![Šumavský skimaraton 2025 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-skate.jpg){: width="550"}
+
+BoBoloppet 2025
+---------------
+
+![BoBoloppet 2025]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2025.jpg){: width="550"}
 
 VŠ liga Benecko 2025
 --------------------

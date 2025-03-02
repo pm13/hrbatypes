@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2025-03-02 21:07
 Category: Archív
 
+Tygří skiatlon 2025
+-------------------
+
+![Tygří skiatlon 2025]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2025.jpg){: width="550"}
+
 Šumavský skimaraton 2025 - klasika
 ----------------------------------
 
@@ -10,7 +15,7 @@ Category: Archív
 ![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-2.jpg){: width="550"}
 
 Šumavský skimaraton 2025 - skate
-----------------------------------
+--------------------------------
 
 ![Šumavský skimaraton 2025 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-skate.jpg){: width="550"}
 

@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2025-03-02 21:07
 Category: Archív
 
+VIPrahlý bajkonur 2025
+-------------------
+
+![Tygří skiatlon 2025]({static}/static/archiv/stupne-vitezu-aktualne/VIPbajkonur-2025.jpg){: width="550"}
+
 Tygří skiatlon 2025
 -------------------
 

@@ -38,9 +38,24 @@ Nejdříve jsme jeli čtyři, čekal jsem tudíž brambory. V druhém kole jeden
 |--------|--------------|-----------|
 | 1.     | Petr Marhoun | 1:20:31.0 |
 
+### Tygří skiatlon
+
+**Ferda**: Klasika na skinech - no nejelo to dolů, ale aspoň to stoupalo. A na trati byl vcelku kopec takže ve 3. kolečku jsem si skoro všechny dojel. Michal a mlaďák, ale byli moc daleko a jeli lépe. Přezutí za 1, ale na skatu jsem sotva stál a nějaký Dušan Kožíšek mě v posledním sjezdu dojel rozdílem třídy a pak mi i ujel do kopce. Asi dobrej oddíl. Dobré to bylo. Teď už jen odpočinout a za týden K70 💪💪 Jo a byl jsem po předchozích 2 fázích vyčichlej, ale s tím se počítalo
+
+**Petr**: 4. nebo 7. místo (Podle toho, zda se počítají dorostenci z Jablonce 2007, technicky jiná kategorie.)
+
+| Pořadí | Jméno                 | Čas     | Ztráta  |
+|--------|-----------------------|---------|---------|
+| 1.     | Michal Francke        | 33:22.7 |         |
+| 2.     | Dušan Kožíšek         | 33:49.1 | 26.4    |
+| 3.     | Jan Ferdinand Polášek | 34:01.4 | 38.7    |
+| 4.     | Petr Marhoun          | 34:32.7 | 1:10.0  |
+| 28.    | David Surma           | 51:35.7 | 18:13.0 |
+
 Přílohy:
 --------
 
 - [Velká cena Jilemnice]({static}/static/zima-2024-25/velka-cena-jilemnice.pdf)
 - [Přebor Prahy]({static}/static/zima-2024-25/prebor-prahy.pdf)
 - [Humanita]({static}/static/zima-2024-25/humanita.pdf)
+- [Tygří skiatlon]({static}/static/zima-2024-25/tygri-skiatlon.pdf)

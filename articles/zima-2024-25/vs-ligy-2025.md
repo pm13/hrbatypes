@@ -25,11 +25,22 @@ Po soustředění (a čtvrtečních dvou fázích) dost únava - ale s tím jsem
 
 | Pořadí | Jméno                 | Čas     | Ztráta |
 |--------|-----------------------|---------|--------|
-| 1.     | Jan Ferdinand Polášek | 27:41.2 | 0.0    |
+| 1.     | Jan Ferdinand Polášek | 27:41.2 |        |
 | 8.     | Petr Marhoun          | 29:15.6 | 1:34.4 |
+
+### Humanita
+
+**Petr**: Celkem složité podmínky na stoupání - led a na něm trochu novějšího sněhu. Mazal jsem pevný vosk. Rozhodně styl vůbec hezký nebyl - všechno co bylo prudší jsem vyskakoval. A jako cokoliv nepříjemného - výhoda pro mě 😅
+
+Nejdříve jsme jeli čtyři, čekal jsem tudíž brambory. V druhém kole jeden (Adam K.) odpadl - později i soupažista (Honza V.). Takže jsem čekal porážku ve finiši a 2. místo. V posledním kole jel za mnou - a najednou tam nebyl. Pak jsem se dozvěděl, že zlomil hůlku 🤷‍♂️
+
+| Pořadí | Jméno        | Čas       |
+|--------|--------------|-----------|
+| 1.     | Petr Marhoun | 1:20:31.0 |
 
 Přílohy:
 --------
 
 - [Velká cena Jilemnice]({static}/static/zima-2024-25/velka-cena-jilemnice.pdf)
 - [Přebor Prahy]({static}/static/zima-2024-25/prebor-prahy.pdf)
+- [Humanita]({static}/static/zima-2024-25/humanita.pdf)

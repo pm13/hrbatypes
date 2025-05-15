@@ -9,10 +9,10 @@ Author: Petr
 
 **Honza**: Bylo to těžké. Lyže zejména v prvním kole nejely a neumím (pořádně) lyžovat. Ale snad se ctí.
 
-| Pořadí | Jméno                 | Čas       | Klub       | Ztráta  |
-|--------|-----------------------|-----------|------------|---------|
-| 1.     | Jan Ferdinand Polášek | 1:26:49.6 | VSK MFF UK |         |
-| 77.    | Jan Pipek             | 2:02:59.3 | VSK MFF UK | 36:09.7 |
+| Pořadí | Jméno                 | Čas       | Ztráta  |
+|--------|-----------------------|-----------|---------|
+| 1.     | Jan Ferdinand Polášek | 1:26:49.6 |         |
+| 77.    | Jan Pipek             | 2:02:59.3 | 36:09.7 |
 
 ### Klasika
 

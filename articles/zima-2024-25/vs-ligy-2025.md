@@ -61,3 +61,4 @@ Přílohy:
 - [Přebor Prahy]({static}/static/zima-2024-25/prebor-prahy.pdf)
 - [Humanita]({static}/static/zima-2024-25/humanita.pdf)
 - [Tygří skiatlon]({static}/static/zima-2024-25/tygri-skiatlon.pdf)
+- [VŠ liga]({static}/static/zima-2024-25/vs-liga.pdf)

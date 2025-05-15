@@ -34,9 +34,11 @@ Po soustředění (a čtvrtečních dvou fázích) dost únava - ale s tím jsem
 
 Nejdříve jsme jeli čtyři, čekal jsem tudíž brambory. V druhém kole jeden (Adam K.) odpadl - později i soupažista (Honza V.). Takže jsem čekal porážku ve finiši a 2. místo. V posledním kole jel za mnou - a najednou tam nebyl. Pak jsem se dozvěděl, že zlomil hůlku 🤷‍♂️
 
-| Pořadí | Jméno        | Čas       |
-|--------|--------------|-----------|
-| 1.     | Petr Marhoun | 1:20:31.0 |
+| Pořadí | Jméno        | Čas       | Ztráta |
+|--------|--------------|-----------|--------|
+| 1.     | Petr Marhoun | 1:20:31.0 |        |
+| 2.     | Jan Vacek    | 1:21:16.1 | 45.1   |
+| 3.     | Adam Kaňka   | 1:22:13.1 | 1:42.1 |
 
 ### Tygří skiatlon
 
@@ -44,13 +46,13 @@ Nejdříve jsme jeli čtyři, čekal jsem tudíž brambory. V druhém kole jeden
 
 **Petr**: 4. nebo 7. místo (Podle toho, zda se počítají dorostenci z Jablonce 2007, technicky jiná kategorie.)
 
-| Pořadí | Jméno                 | Čas     | Ztráta  |
-|--------|-----------------------|---------|---------|
-| 1.     | Michal Francke        | 33:22.7 |         |
-| 2.     | Dušan Kožíšek         | 33:49.1 | 26.4    |
-| 3.     | Jan Ferdinand Polášek | 34:01.4 | 38.7    |
-| 4.     | Petr Marhoun          | 34:32.7 | 1:10.0  |
-| 28.    | David Surma           | 51:35.7 | 18:13.0 |
+| Pořadí | Jméno                 | Čas     | Ztráta  | Relativně |
+|--------|-----------------------|---------|---------|-----------|
+| 1.     | Michal Francke        | 33:22.7 | 0.0     |           |
+| 2.     | Dušan Kožíšek         | 33:49.1 | 26.4    |           |
+| 3.     | Jan Ferdinand Polášek | 34:01.4 | 38.7    | 0.0       |
+| 4.     | Petr Marhoun          | 34:32.7 | 1:10.0  | 31.3      |
+| 28.    | David Surma           | 51:35.7 | 18:13.0 | 17:34.3   |
 
 Přílohy:
 --------

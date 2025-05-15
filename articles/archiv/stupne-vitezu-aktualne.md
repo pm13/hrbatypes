@@ -5,7 +5,7 @@ Category: Archív
 VIPrahlý bajkonur 2025
 -------------------
 
-![VIPrahlý bajkonur 2025]({static}/static/archiv/stupne-vitezu-aktualne/VIPbajkonur-2025.jpg){: width="550"}
+![VIPrahlý bajkonur 2025]({static}/static/archiv/stupne-vitezu-aktualne/VIPbajkonur-2025.jpg){: width="450"}
 
 Tygří skiatlon 2025
 -------------------

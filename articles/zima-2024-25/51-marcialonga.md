@@ -14,7 +14,7 @@ Nahoru ještě led - to mi dost pomohlo, soupaž kopce neumím. Dalších 15 km 
 | Pořadí | Jméno           | Čas       | Ztráta    | Relativně |
 |--------|-----------------|-----------|-----------|-----------|
 | 1.     | Andreas Nygaard | 2:39:35.0 | 0.0       |           |
-| 40.    | Fabian Stocek   | 2:52:34.0 | 12:59.0   |           |
+| 40.    | Fabián Štoček   | 2:52:34.0 | 12:59.0   |           |
 | 195.   | Petr Marhoun    | 3:24:42.0 | 45:07.0   | 0.0       |
 | 3157.  | David Surma     | 6:16:49.0 | 3:37:14.0 | 2:52:07.0 |
-| 3468.  | Vladimir Fuka   | 6:38:09.0 | 3:58:34.0 | 3:13:27.0 |
+| 3468.  | Vladimír Fuka   | 6:38:09.0 | 3:58:34.0 | 3:13:27.0 |

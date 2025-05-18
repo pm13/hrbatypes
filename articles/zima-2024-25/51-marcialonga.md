@@ -9,9 +9,7 @@ Nahoru ještě led - to mi dost pomohlo, soupaž kopce neumím. Dalších 15 km 
 
 **David**: Že pojedu Birken jsem se dozvěděl pár dní předem, že pojedu Marcialongu jsem sice věděl dlouho ale včera jsem se dozvěděl že pojedu na hladkých 🙏 tak jsem poprvé usoupažil 1, 2, 3, 4, 5 a 6 hodin 😁 čas sice nic moc, ale celou dobu jsem někoho předjížděl, takže pocitově výborné, na ty podmínky 😅
 
-**Vláďa**: čvachtačka, 6:38:09
-
-Graf HR mluví za vše, nedávám soupaž. Alespoň jsem rychle vyběhl na Cascatu.
+**Vláďa**: Čvachtačka. Graf HR mluví za vše, nedávám soupaž. Alespoň jsem rychle vyběhl na Cascatu.
 
 | Pořadí | Jméno           | Čas       | Ztráta    | Relativně |
 |--------|-----------------|-----------|-----------|-----------|

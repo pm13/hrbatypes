@@ -128,7 +128,7 @@ Krkonošská 70 2023 - jednotlivci
 
 ![Krkonošská 70 2023 - jednotlivci]({static}/static/archiv/stupne-vitezu-2023-2024/krkonosska-70-2023-jednotlivci.jpg){: width="650"}
 
-Šumavský Skimaraton 2023
+Šumavský skimaraton 2023
 ------------------------
 
 ![Šumavák 2023]({static}/static/archiv/stupne-vitezu-2023-2024/sumavak-2023.jpg){: width="450"}

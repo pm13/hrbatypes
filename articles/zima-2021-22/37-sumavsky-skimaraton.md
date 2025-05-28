@@ -1,4 +1,4 @@
-Title:  37. Šumavský Skimaraton
+Title:  37. Šumavský skimaraton
 Date: 2022-03-02 17:24
 Category: Zima 2021/22
 Author: Petr

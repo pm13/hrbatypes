@@ -1,5 +1,5 @@
 Title: VŠ liga Benecko + B5h 2020
-Date: 2020-01-05 22:48:00
+Date: 2020-01-05 22:48
 Category: Zima 2019/20
 Author: Petr
 

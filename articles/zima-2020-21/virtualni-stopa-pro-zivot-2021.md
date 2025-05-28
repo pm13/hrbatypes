@@ -34,7 +34,7 @@ Celkově rozhodně opravdu moc krásné!
 
 ![Jilemnická 50]({static}/static/zima-2020-21/jilemnicka-50.jpg){: width="600"}
 
-36. Šumavský Skimaraton - 24 km
+36. Šumavský skimaraton - 24 km
 -------------------------------
 
 **Petr:** Počtrnácté v řadě. Zima bez sněhu? Epidemie? Stejně se jede!
@@ -53,4 +53,4 @@ Včera při prohlídce trati velké spekulace, co namazat. Ideální silné ruce
 | 4.     | Robin Teply   | 1:12:34.2 | 0:33:55.2  |
 | 5.     | Oldřich Šoula | 1:14:16.6 | 0:35:03.3  |
 
-![Šumavský Skimaraton]({static}/static/zima-2020-21/sumavsky-skimaraton.jpg){: width="600"}
+![Šumavský skimaraton]({static}/static/zima-2020-21/sumavsky-skimaraton.jpg){: width="600"}

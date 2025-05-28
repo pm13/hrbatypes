@@ -1,4 +1,4 @@
-Title: 32. Šumavský Skimaraton
+Title: 32. Šumavský skimaraton
 Date: 2017-02-26 16:48
 Category: Zima 2016/17
 Author: Kajis

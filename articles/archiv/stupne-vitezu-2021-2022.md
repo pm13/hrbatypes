@@ -47,7 +47,7 @@ Krkonošská 70 2022
 
 ![Krkonošská 70 2022]({static}/static/archiv/stupne-vitezu-2021-2022/krkonosska-70-2022.jpg){: width="650"}
 
-Šumavský Skimaraton 2022 - klasika
+Šumavský skimaraton 2022 - klasika
 ----------------------------------
 
 ![Šumavák 2022 klasika]({static}/static/archiv/stupne-vitezu-2021-2022/sumavak-2022-klasika.jpg){: width="450"}
@@ -55,7 +55,7 @@ Krkonošská 70 2022
 ![Šumavák 2022 týmy]({static}/static/archiv/stupne-vitezu-2021-2022/sumavak-2022-tymy.jpg){: width="650"}
 
 
-Šumavský Skimaraton 2022 - skate
+Šumavský skimaraton 2022 - skate
 --------------------------------
 
 ![Šumavák 2022 skate Ferda]({static}/static/archiv/stupne-vitezu-2021-2022/sumavak-2022-skate-ferda.jpg){: width="450"}

@@ -1,4 +1,4 @@
-Title:  35. Šumavský Skimaraton
+Title:  35. Šumavský skimaraton
 Date: 2020-02-28 22:17
 Category: Zima 2019/20
 Author: Petr

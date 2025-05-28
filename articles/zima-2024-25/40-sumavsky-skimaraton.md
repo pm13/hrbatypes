@@ -11,7 +11,7 @@ Lyže dobrý, stopa od Jan Jedlicka v topu. Lyžař slabý, ale ještě ve čtvr
 
 | Pořadí | Jméno                 | Čas     | Ztráta |
 |--------|-----------------------|---------|--------|
-| 1.     | Martin Jakš           | 38:17.2 | 0.0    |
+| 1.     | Martin Jakš           | 38:17.2 |        |
 | 5.     | Jan Ferdinand Polášek | 40:58.6 | 2:41.4 |
 
 ### Klasika

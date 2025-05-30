@@ -19,9 +19,9 @@ Podmínka dneska hodně těžká, taková pěkná hančovina.
 
 **Honza:** Bobo - megapřísnej
 
-**Vláďa** Zimní pohádka, mráz, ale hluboký pomalý sníh.
-
 Série (drobných) příkoří vypíšu později.
+
+**Vláďa** Zimní pohádka, mráz, ale hluboký pomalý sníh.
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Relativně |
 |--------|-----------------------|-----------|-----------|-----------|

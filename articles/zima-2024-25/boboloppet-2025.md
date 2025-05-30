@@ -19,6 +19,8 @@ Podmínka dneska hodně těžká, taková pěkná hančovina.
 
 **Honza:** Bobo - megapřísnej
 
+**Vláďa** Zimní pohádka, mráz, ale hluboký pomalý sníh.
+
 Série (drobných) příkoří vypíšu později.
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Relativně |
@@ -27,6 +29,7 @@ Série (drobných) příkoří vypíšu později.
 | 2.     | Petr Marhoun          | 5:28:07.9 | 1:20.4    | 0.0       |
 | 3.     | Jan Ferdinand Polášek | 5:30:23.4 | 3:35.9    | 2:15.5    |
 | 96.    | Jan Pipek             | 7:41:27.6 | 2:14:40.1 | 2:13:19.7 |
+| 146.   | Vladimír Fuka         | 9:13:26.4 | 3:46:38.9 | 3:45:18.5 |
 
 Přílohy:
 --------

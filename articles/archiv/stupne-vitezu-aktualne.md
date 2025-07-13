@@ -1,11 +1,21 @@
 Title: Stupně vítězů aktuálně
-Date: 2025-03-02 21:07
+Date: 2025-07-13 16:00
 Category: Archív
 
-VIPrahlý bajkonur 2025
+Napříč Českou Kanadou 2025
+--------------------------
+
+![Napříč Českou Kanadou 2025]({static}/static/archiv/stupne-vitezu-aktualne/napric-ceskou-kanadou-2025.jpg){: width="550"}
+
+Veteraniáda ČR 2025
 -------------------
 
-![VIPrahlý bajkonur 2025]({static}/static/archiv/stupne-vitezu-aktualne/VIPbajkonur-2025.jpg){: width="450"}
+![Veteraniáda ČR 2025]({static}/static/archiv/stupne-vitezu-aktualne/veteraniada-cr-2025.jpg){: width="550"}
+
+VIPrahlý bajkonur 2025
+----------------------
+
+![VIPrahlý bajkonur 2025]({static}/static/archiv/stupne-vitezu-aktualne/viprahly-bajkonur-2025.jpg){: width="450"}
 
 Tygří skiatlon 2025
 -------------------

@@ -2,6 +2,11 @@ Title: Stupně vítězů aktuálně
 Date: 2025-07-13 16:00
 Category: Archív
 
+Rakovnické cyklování 2025
+--------------------------
+
+![Rakovnické cyklování 2025]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2025.jpg){: width="550"}
+
 Napříč Českou Kanadou 2025
 --------------------------
 

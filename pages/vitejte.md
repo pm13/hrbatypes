@@ -9,4 +9,3 @@ Léto zpívá svou labutí píseň a lyže se nervózně chvějí v garáži, sk
 Hledáš-li informace o oddílu, najdeš je v částech ["Trénink"](/trenink/) a ["Členové oddílu"](/clenove-oddilu/) nebo nám můžeš napsat na [info@hrbatypes.cz](info@hrbatypes.cz).
 
 ![Mísečky 2021]({static}/static/zima-2021-22/misecky.jpg){: height="640"}
-

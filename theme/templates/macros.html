@@ -3,9 +3,7 @@
         {% if header %}
             <h2 class="card-header h4">{{ header }}</h2>
         {% endif %}
-        <div class="list-group">
-            {{ caller() }}
-        </div>
+        <div class="list-group">{{ caller() }}</div>
     </nav>
 {% endmacro %}
 

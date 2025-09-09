@@ -37,7 +37,8 @@ body {
     color: $black;
     font-weight: bold;
 
-    &:hover, &:focus {
+    &:hover,
+    &:focus {
         color: $black;
     }
 }

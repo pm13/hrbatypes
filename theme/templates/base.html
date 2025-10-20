@@ -31,7 +31,6 @@
                         {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
                         {{ local_link('Odkazy', '/odkazy/') }}
                         {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
-                        {{ local_link('<em>Přidat komentář</em>'|safe, 'https://clenove.hrbatypes.cz/komentare/pridat/') }}
                     {% endcall %}
                     {% call local_nav_unit('Aktuality') %}
                         {% for article in (all_articles or articles)[:5] %}

@@ -49,7 +49,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Krušnohorská 30](https://k30.online/), 14. - 15. února, Nové Město v Krušných horách
 
-### [Jelyman](https://jelyman.ssu.cz/), 21. - 22. února, Paprsek
+### [JeLyMan](https://jelyman.ssu.cz/), 21. - 22. února, Paprsek
 
 ### [SKI Senohraby](https://www.sose.cz/), podle aktuální sněhové situace, Senohraby
 

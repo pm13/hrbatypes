@@ -51,9 +51,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Jelyman](https://jelyman.ssu.cz/), 21. - 22. února, Paprsek
 
-### [SKI Senohraby](https://www.sose.cz/)
-
-- závody v Senohrabech podle aktuální sněhové situace.
+### [SKI Senohraby](https://www.sose.cz/), podle aktuální sněhové situace, Senohraby
 
 Konkurenční listiny nejen dálkových běhů:
 -----------------------------------------

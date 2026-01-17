@@ -41,7 +41,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
 
-### [Orlický maraton](https://www.orlickymaraton.cz/), 7. - 8. února, Šerlich
+### [Orlický maraton](https://www.orlickymaraton.cz/), 7. - 8. února, Deštné v Orlických horách
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 7. února, Polevsko
 

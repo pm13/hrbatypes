@@ -4,7 +4,7 @@ Category: Zima 2025/26
 Author: Petr
 Sticky: 1
 
-Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
+Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 
 A teď již raději necháme mluvit data.
 
@@ -13,12 +13,12 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 Soustředění, prosinec, Horní Mísečky
 ------------------------------------
 
-[VŠ Liga](https://www.vs-liga.cz/)
+[VŠ liga](https://www.vs-liga.cz/)
 ---------------------------------
 
 - **1. kolo** 11. ledna, Horní Mísečky
-- **2. kolo** 16. - 18. února, Akademické MČR, Nové Město na Moravě
-- **3. kolo** 7. - 8. března, Tygří skiatlon, Jablonec nad Nisou - Břízky
+- **2. kolo** 16. - 18. února, Akademické mistrovství ČR, Nové Město na Moravě
+- **3. kolo** 7. - 8. března, Jablonec nad Nisou - Břízky
 
 Něco pro dálkoplazy
 -------------------

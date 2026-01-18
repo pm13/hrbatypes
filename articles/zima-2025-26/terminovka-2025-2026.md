@@ -37,7 +37,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 17. ledna, Polevsko
 
-### [Jizerská 50](https://jiz50.cz), 29. ledna. - 1. února, Bedřichov
+### [Jizerská 50](https://jiz50.cz), 29. ledna - 1. února, Bedřichov
 
 ### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
 

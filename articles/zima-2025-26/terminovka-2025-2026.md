@@ -43,7 +43,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Orlický maraton](https://www.orlickymaraton.cz/), 7. - 8. února, Deštné v Orlických horách
 
-### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 7. února, Polevsko
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 7. února, Polevsko - *zrušeno*
 
 ### [Hojnovodská Zlatá lyže](https://www.hojna-voda.eu/index.php/akce/hojna-voda-2/hojnovodska-zlata-lyze-2026), 8. února, Hojná Voda
 

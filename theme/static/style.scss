@@ -24,34 +24,34 @@ $blockquote-font-size: 1.075rem;
 
 // Layout: make place for fixed navbar.
 body {
-    padding-top: 4rem;
+  padding-top: 4rem;
 }
 
 // Navbar: set background color.
 .navbar {
-    background: $navbar;
+  background: $navbar;
 }
 
 // Brand: set font properties.
 .navbar-brand {
-    color: $black;
-    font-weight: bold;
+  color: $black;
+  font-weight: bold;
 
-    &:hover,
-    &:focus {
-        color: $black;
-    }
+  &:hover,
+  &:focus {
+    color: $black;
+  }
 }
 
 // Logo: set image position and size.
 .navbar-brand img {
-    position: relative;
-    bottom: 0.1rem;
-    height: 2rem;
+  position: relative;
+  bottom: 0.1rem;
+  height: 2rem;
 }
 
 // Sticky article: set border color and background.
 .sticky {
-    border-color: $gray-400 !important;
-    background: $gray-100;
+  border-color: $gray-400 !important;
+  background: $gray-100;
 }

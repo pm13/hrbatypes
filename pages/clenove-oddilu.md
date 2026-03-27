@@ -1,5 +1,5 @@
 ---
-Title: Tonda Klazar uvádí:
+Title: Tonda Klazar uvádí
 Aside: Členové oddílu
 Slug: clenove-oddilu
 ---

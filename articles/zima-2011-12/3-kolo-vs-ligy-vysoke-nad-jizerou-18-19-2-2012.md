@@ -1,7 +1,9 @@
+---
 Title: 3. kolo VŠ Ligy, Vysoké nad Jizerou, 18.-19.2.2012
 Date: 2012-02-20 20:27
 Category: Zima 2011/12
 Author: Ferda
+---
 
 Skiatlon, sobota 18. 2. 2012
 ----------------------------

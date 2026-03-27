@@ -1,7 +1,9 @@
+---
 Title: Chuchelská derniéra
 Date: 2013-03-14 20:08
 Category: Zima 2012/13
 Author: Ferda
+---
 
 Ve středu 13. 3. se v Chuchli konal závod Chuchelská derniéra na 3,5 km. Vypsané prize money vysoké. Neváhal jsem a jel vyjet únavu po Jesenické 70. Únavu jsem nevyhnal, ale povedlo se mi zvítězit. Opět se ukázalo, že je potřeba zvolit správný závod :).
 

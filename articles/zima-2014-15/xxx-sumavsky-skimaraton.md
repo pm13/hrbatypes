@@ -1,7 +1,9 @@
+---
 Title: XXX. Šumavský skimaraton
 Date: 2015-02-26 16:10
 Category: Zima 2014/15
 Author: Pipucha
+---
 
 V sobotu se za azurových podmínek bruslilo. Zásluhou zvláštní kombinace povětrnostních podmínek, nadmořských výšek a hustot lesního porostu bylo na trati postupně tolik druhů sněhu, že by i eskymák-lingvista měl problém je všechny pojmenovat. Obvykle se u skejtu dá říci "lyže mi jely" / "ty za...ný lyže mi vůbec nejely". Netoliko tady - deset metrů ledu, pak pár metrů tupého "prašanu", mokrý sníh, sypký sníh, pak zmrzlý sníh... při sjezdu z Černé hory jsem tak vykouzlil pěknou holubičku, která se jen tak tak nezměnila v hub(ičk)u.
 

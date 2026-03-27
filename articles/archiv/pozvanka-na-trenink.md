@@ -1,6 +1,8 @@
+---
 Title: Pozvánka na trénink
 Date: 2011-02-01 00:00
 Category: Archív
+---
 
 *Na trénink vás zvou:*
 

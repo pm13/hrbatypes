@@ -1,7 +1,9 @@
+---
 Title: 17. Rallye Sudety, 10.9.2011
 Date: 2011-09-14 20:56
 Category: Zima 2011/12
 Author: Ferda
+---
 
 Zatím tu budou jen výsledky, pár obrázků a odkazy na zajímavá videa. Časem třeba napíšu nějaký ten zážitek, protože těch jsem pln. Byly silné :-).
 

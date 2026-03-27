@@ -1,7 +1,9 @@
+---
 Title: VŠ Liga Benecko, 3.-4.1.2015
 Date: 2015-01-05 22:43
 Category: Zima 2014/15
 Author: Ferda
+---
 
 Rok se s rokem sešel a opět přišel čas závodů. Všichni doufali, že sněhu budou mraky. A konečně se na Benecku pojede zase celá pětka. Ale sněhu nebylo moc, bylo ho totiž málo. A tak aby ti, co loni taškařici na Václaváku nezažili, o nic nepřišli, hobloval se zas Václavák sem a tam.
 

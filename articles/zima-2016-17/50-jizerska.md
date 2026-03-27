@@ -1,7 +1,9 @@
+---
 Title: 50. Jizerská 50
 Date: 2017-02-20 22:04
 Category: Zima 2016/17
 Author: Petr
+---
 
 K letošní Jizerské 50 radši bodově:
 

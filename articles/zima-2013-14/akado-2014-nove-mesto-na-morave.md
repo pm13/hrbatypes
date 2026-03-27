@@ -1,7 +1,9 @@
+---
 Title:  AKADO 2014, Nové Město na Moravě
 Date: 2014-02-14 17:46
 Category: Zima 2013/14
 Author: Petr
+---
 
 I letos se v únoru mnozí lyžaři sešli na Vysočině, aby si užili na tuto zimu velmi nadstandardní podmínky - úžasných 2.5 km sněhu. I my jsme si ho velice vážili - jedna z nás přiletěla až z dalekého Marseille - a proto jsme na něm jeli dohromady celých 57 soutěžních kol.
 

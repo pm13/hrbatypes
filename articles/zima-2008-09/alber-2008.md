@@ -1,8 +1,10 @@
+---
 Title: Albeř 2008
 Date: 2008-08-17 00:00
 Category: Zima 2008/09
 Author: Kajis
 Album: 1
+---
 
 Pravidelná roční dávka sadomasochismu.
 

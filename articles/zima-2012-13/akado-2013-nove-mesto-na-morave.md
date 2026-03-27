@@ -1,7 +1,9 @@
+---
 Title: AKADO 2013, Nové Město na Moravě
 Date: 2013-09-20 11:41
 Category: Zima 2012/13
 Author: Ferda
+---
 
 S větším zpožděním přinášíme jen krátký výsledkový servis z tradičního akademického mistrovství v netradičním zkráceném formátu. A s naší slabou účastí.
 

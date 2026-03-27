@@ -1,7 +1,9 @@
+---
 Title: Výsledky přeboru MFF, 18.12.2010
 Date: 2010-12-20 00:00
 Category: Zima 2010/11
 Author: Ferda
+---
 
 Kdybych byl skutečný Ferda, napsal bych zde něco vtipného a zajímavého o letošním prvním zimním závodě. Ale protože se za něj pouze podepisuji, bude se čtenář muset spokojit pouze s výsledky.
 

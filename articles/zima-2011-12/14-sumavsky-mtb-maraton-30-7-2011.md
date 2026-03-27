@@ -1,7 +1,9 @@
+---
 Title: 14. Šumavský MTB maraton, 30.7.2011
 Date: 2011-07-30 20:35
 Category: Zima 2011/12
 Author: Ferda
+---
 
 14\. ročník Šumavského maratonu byl pro nás velmi úspěšný. Lucka ovládla Šumavačku 2011. Šumavák 2011 byl kompletně v naší režii, na prvních třech místech se umístili Petr, Jirka a Ferda. Výsledky Šumaváka najdete na stránkách [Ski klubu Šumava](http://www.mtb.skisumava.cz/sumavak2011/default.aspx).
 

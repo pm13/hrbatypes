@@ -1,7 +1,9 @@
+---
 Title: 53. Jizerská 50
 Date: 2020-02-12 18:37
 Category: Zima 2019/20
 Author: Petr
+---
 
 **Ferda:** Parádní počasí, parádní stopy. Vosk fungoval celou dobu. Jen tedy Sajdlík mi ujel z kopce na Smědavu a už jsem ho nedojel. Nechápu 😂
 

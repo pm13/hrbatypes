@@ -1,7 +1,9 @@
+---
 Title: BoBoloppet 2025
 Date: 2025-05-18 22:05
 Category: Zima 2024/25
 Author: Petr
+---
 
 **Petr:** Extra náročný BoBoloppet - 2. místo o 1:20 - s čtyřminutovým hledáním kontroly
 

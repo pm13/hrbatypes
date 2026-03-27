@@ -1,7 +1,9 @@
+---
 Title: 67. Krkonošská 70
 Date: 2022-03-16 08:26
 Category: Zima 2021/22
 Author: Petr
+---
 
 **Ferda:** Vicemistři vesmíru.
 

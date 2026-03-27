@@ -1,7 +1,9 @@
+---
 Title: 31. Orlický maraton
 Date: 2015-02-02 13:17
 Category: Zima 2014/15
 Author: Ferda
+---
 
 O posledním lednovém (prvním únorovém) víkendu se jel Orličák. Jistá osoba, která tvrdí, že neujede ani 10 km, nás přesvědčila, že je dobrý nápad jet v sobotu 26 km volně a v neděli 40 km klasicky. Této taškařice se nás zúčastnilo 7, jen Kuba byl moudřejší a jel jen nedělní klasiku.
 

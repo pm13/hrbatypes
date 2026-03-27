@@ -1,7 +1,9 @@
+---
 Title: 28. Orlický maraton, 5.2.2012
 Date: 2012-02-07 22:36
 Category: Zima 2011/12
 Author: Jano
+---
 
 **40 km klasicky, -14 °C, polární zima**
 

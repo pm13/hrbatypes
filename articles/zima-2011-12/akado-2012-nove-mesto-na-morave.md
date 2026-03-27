@@ -1,7 +1,9 @@
+---
 Title: AKADO 2012 Nové Město na Moravě
 Date: 2012-01-28 20:39
 Category: Zima 2011/12
 Author: Ferda
+---
 
 Letošní AMČR se konalo tradičně v Novém Městě, ale netradičně na úplně nových tratích pro MS v biatlonu. Tratě jsou pěkné ale příliš kopcovaté. Na klasiku nic moc, na bruslení to nebylo lepší :-).
 

@@ -1,7 +1,9 @@
+---
 Title: 37. Bieg Piastow, 2.3.2013, 50 km CT
 Date: 2013-03-03 17:40
 Category: Zima 2012/13
 Author: Ferda
+---
 
 Rok se s rokem sešel a opět jsme se vydali k našim severním sousedům na Bieg Piastow. Počasí bylo, po měsících s nejmenší dobou slunečního svita za posledních 90 let (Praha - Karlov)), opravdu krásné. Modrá obloha skoro bez mráčku, sluníčko a krásné výhledy na Krkonoše a Jizerské hory což lákalo pojmout závod výletně a kochat se výhledy.
 

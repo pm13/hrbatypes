@@ -1,7 +1,9 @@
+---
 Title: 70. Krkonošská 70
 Date: 2025-05-28 09:03
 Category: Zima 2024/25
 Author: Petr
+---
 
 **Ferda:** Krkonošská 70 🥇
 

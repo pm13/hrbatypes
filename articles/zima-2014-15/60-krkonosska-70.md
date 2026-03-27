@@ -1,7 +1,9 @@
+---
 Title: 60. Krkonošská 70
 Date: 2015-03-03 08:58
 Category: Zima 2014/15
 Author: Petr
+---
 
 "Ta co nejezdí přes deset kilometrů" přišla opět s dalším závodem, kterého bychom se mohli zúčastnit. Tentokrát se jednalo o Krkonošskou 70 - konkrétně o vzdálenost pouhých 50 km. Ani na třetí pokus se mi však nepodařilo jet plnou trasu - po zrušení z důvodu vichřice ráno před startem (2008), zkrácení z důvodu nedostatku sněhu (2011) letos chyběl tým. Ostatní se totiž chystali na Vasův běh a projížďka v Krkonoších týden předem se jim nezdála úplně ideálním způsobem přípravy. A jako jednotlivce mě na 70 km pustit nechtěli, i když bych si to přitom přál.
 

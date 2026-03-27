@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2010/11
 Date: 2010-12-01 00:00
 Category: Zima 2010/11
 Author: Ferda
 Sticky: 1
+---
 
 V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) (Jizerská 50, Jilemnická 50, Karlovická 50, Kašperská 30, Orlický maraton) dále pak závody, které jsou součástí nově vzniklé [Stopy pro život](http://stopaprozivot.cz) (Karlův běh a Šumavský skimaraton) a mnoho dalších :-)
 

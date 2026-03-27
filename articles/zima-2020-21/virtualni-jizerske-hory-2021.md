@@ -1,7 +1,9 @@
+---
 Title: Virtuální Jizerské hory 2021
 Date: 2021-02-25 22:12
 Category: Zima 2020/21
 Author: Petr
+---
 
 Všechny závody této zimy byly postupně v lepším případě změněny na virtuální, v horším případě zrušeny. Jen Boboloppet se jel téměř v originální podobě - předběhl dobu a na epidemii byl připraven již od svého počátku před deseti lety.
 

@@ -1,7 +1,9 @@
+---
 Title: SkiTour Horní Mísečky 2024
 Date: 2024-01-15 23:15
 Category: Zima 2023/24
 Author: Petr
+---
 
 **Petr**: SkiTour Horní Mísečky - 3. místo
 

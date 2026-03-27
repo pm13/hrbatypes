@@ -1,7 +1,9 @@
+---
 Title: Přebor MFF UK v běhu na lyžích 2021
 Date: 2021-12-18 21:22
 Category: Zima 2021/22
 Author: Jirka
+---
 
 Proběhl v sobotu 18. prosince 2021 na Horních Mísečkách volnou technikou.
 

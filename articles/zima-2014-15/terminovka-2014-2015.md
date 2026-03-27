@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2014/2015
 Date: 2014-10-15 21:41
 Category: Zima 2014/15
 Author: Ferda
 Sticky: 1
+---
 
 Zima a s ní všelijaké závody a nesmyslné honění se po tratích se blíží. Abyste náhodou něco neprošvihli, zveřejňujeme seznam závodů, o kterých jistě víte mnohem více než my, takže je to vlastně všechno zbytečné, ale je to potřeba udělat. Ale víc je potřeba pak na ty závody přijet a zúčastnit se!!
 

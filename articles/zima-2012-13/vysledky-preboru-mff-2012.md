@@ -1,7 +1,9 @@
+---
 Title: Výsledky přeboru MFF 2012
 Date: 2012-12-22 00:14
 Category: Zima 2012/13
 Author: Ferda
+---
 
 Pro budoucí generace a soupeře přinášíme výsledky z nejdůležitějšího a nejprestižnějšího závodu celé sezony. Jel se velmi volně, za krásného slunečného počasí při -8 °C, na zkráceném 5 km okruhu (bez pytle). Tentokráte výsledky nebyly prodané ani koupené, ale někteří (magistři) závodníci nedokázali najít start :-).
 

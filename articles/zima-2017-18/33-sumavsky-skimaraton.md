@@ -1,7 +1,9 @@
+---
 Title: 33. Šumavský skimaraton
 Date: 2018-02-26 20:37
 Category: Zima 2017/18
 Author: Petr
+---
 
 Skate, 46 škm
 -------------

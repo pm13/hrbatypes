@@ -1,7 +1,9 @@
+---
 Title: 27. Orlický maraton, 6.2.2011
 Date: 2011-02-07 00:18
 Category: Zima 2010/11
 Author: Ferda
+---
 
 Orlický maraton je již minulostí. Letošní ročník se opět uskutečnil na pěkných, ale těžkých tratích v okolí Deštného v Orlických horách. Podmínky byly vhodné na vodní lyžování, místy i na travní lyžování čímž se letošní ročník stal ještě náročnějším než obvykle. Když k sněhovým podmínkám připočtem to, že jsem si neuměl namazat, stal se z krásného lehkého závodu závod obtížnosti havajského Ironmana.
 

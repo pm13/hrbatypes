@@ -1,7 +1,9 @@
+---
 Title: 32. Krušnohorská 30, 29.1.2012
 Date: 2012-01-29 21:15
 Category: Zima 2011/12
 Author: Ferda
+---
 
 **31,6 km klasicky, prašan, -5°C**
 

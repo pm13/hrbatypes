@@ -1,7 +1,9 @@
+---
 Title: 27. Šumavský skimaraton aneb mistrovství MFF na dlouhé trati, 25.-26.2.2012
 Date: 2012-02-27 20:43
 Category: Zima 2011/12
 Author: Pipucha
+---
 
 Předpověď hlásí, že v deset má začít sněžit, ale nezačne. Pořadatelé hlásí, že v deset má začít závod, ale nezačne (až o pět minut později). Jirka bojuje o první vlnu. Pipucha bojuje o účast v závodě (omylem se přihlásil na krátkou), Kápoš bojuje o správný čip. Pal! Je odstartováno. Brzy se na zemi válí desítky borců, vzduchem létají debilové, kreténi a rady, kam se ubírat (do pr...). Horská Kvilda, stoupání, klistr v klesání drží, ve stoupání zase tolik ne (ale jde to), v zatáčce nepodrží (au, můj palec). Lovčí skála, Modravský potok, Modrava... a opět po roce tu vidím Jiříka, jak se láduje. Nemám čas se k hostině přidat a do začínajícího chumelení vycházím nejprudší kopec na sněžnicích z fialového klistru přímo. Pak se chvíli drhne, chvíli jede, dá se jet jen v jedné stopě a člověka rázem přejde chuť na jakékoliv předbíhání (podotýkám bohužel, sil mi zbylo dost). Opět Horská Kvilda. A štrúdl. Zprava se šinou dva nepřetržité vláčky účastníků kratšího závodu, kteří s námi sdílejí asi 15 kilometrů trasy (odsud až do cíle). Stoupání na Zhůří tak probíhá ve stylu "naber síly, oběhni to s vypětím sil pomalým prostředkem a zase se zařaď a odpočívej". Za Zhůřím je již závodníků méně, ovšem předbíhat už se nedá skoro vůbec (lehké odpichování v té správné stopě je rychlejší než práce na plný výkon v té sousední). Tak je to vlastně až do cílové rovinky.
 

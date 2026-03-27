@@ -1,7 +1,9 @@
+---
 Title: Akademické mistrovství ČR 2015
 Date: 2015-03-11 17:15
 Category: Zima 2014/15
 Author: Honza Č.
+---
 
 17\. 2. až 19. 2. se v Novém Městě na Moravě konalo Akademické mistrovství ČR v běhu na lyžích, kterého jsme se pod Tondovým dohledem účastnili ve složení Zuzka, Anča, Ferda, Petr a já (Honza Čapek). Jelikož jsem v oddílu prvním rokem a při závodech na Benecku nám trošku chyběl sníh, těšil jsem se na první pořádné závody v matfyzáckých barvách.
 

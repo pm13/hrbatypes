@@ -1,7 +1,9 @@
+---
 Title: Černá hora
 Date: 2015-12-05 17:31
 Category: Zima 2015/16
 Author: Anička
+---
 
 Necelých čtrnáct dní po návratu z Livigna, kde mě při posledním tréninku začala bolet achilovka, jsem se vydala na další soustředění, které nám kvůli sněhu přeložili z Božího Daru na Černou horu. Prvního tréninku jsem se docela bála, kvůli té noze, nicméně při prvním lehkém bruslícím tréninku to bylo dobré. Hlavní trenér nám přijede až v neděli, takže si zatím užíváme volnější start. Odpoledne tedy byla skatová technika. Naštěstí na rozdíl od Livigna z toho bruslení nemám vůbec tak špatný pocit.
 

@@ -1,7 +1,9 @@
+---
 Title:  37. Šumavský skimaraton
 Date: 2022-03-02 17:24
 Category: Zima 2021/22
 Author: Petr
+---
 
 **Ferda k sobotě:** Těžký šumavský arbeit. Jak pojedu zítra moc netuším. Dneska jsem tam nechal všechno a urval 2. místo 💪💪💪
 

@@ -1,8 +1,10 @@
+---
 Title: Zimní soustředko 2004
 Date: 2004-12-20 00:00
 Category: Zima 2004/05
 Author: Kajis
 Album: 1
+---
 
 ...v Grohmanově boudě
 

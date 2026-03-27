@@ -1,9 +1,11 @@
+---
 Title: Soustředění Mísečky 2010
 Date: 2010-12-20 00:00
 Category: Zima 2010/11
 Author: Helena
 Slug: soustredeni-misecky-2010/helena
 Album: 1
+---
 
 ...pár zimních obrázků
 

@@ -1,7 +1,9 @@
+---
 Title: 42. König Ludwig Lauf
 Date: 2014-03-14 13:13
 Category: Zima 2013/14
 Author: Ferda
+---
 
 Sněhové podmínky doma byly špatné a jelikož nám zrušili Orlický maraton, rozhodli jsme se vyrazit zazávodit s nejlepšími dálkovými lyžaři do Bavorského Ettalu, kde se konal König Ludwig Lauf. Ani zde nebylo sněhu moc, ale organizátoři zabojovali a závod uspořádali.
 

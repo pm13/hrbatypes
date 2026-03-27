@@ -1,7 +1,9 @@
+---
 Title: Virtuálně vyhrávat na méně populárních tratích
 Date: 2021-03-20 10:37
 Category: Zima 2020/21
 Author: Petr
+---
 
 Tuto zimu bylo celkem snadné postupovat podle známého pravidla, že není důležité umět lyžovat - podstatné je správně zvolit závod. Tuto zimu byly skoro všechny virtuální s možností zajet si je kdykoliv během delší doby (například dvou týdnů) - tak proč jsem tak postupoval pouze já? Doufám, že jenom nemám dost informací a ještě sem někdo doplní další úspěch :)
 

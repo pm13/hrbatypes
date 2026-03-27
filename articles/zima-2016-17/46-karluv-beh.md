@@ -1,7 +1,9 @@
+---
 Title: 46. Karlův běh
 Date: 2017-02-13 07:16
 Category: Zima 2016/17
 Author: Pipucha
+---
 
 Pipucha o volném závodě: Je zajímavé, jak na Karlově běhu sypou bruslařskou trať pískem. A ještě zajímavější je, že nikdo z ostatních si toho nevšiml. V pátek jsem se rozjezdil na téměř šedivých lyžích po Šumavě, kde jsem si při jedna-jednání na rychlém sněhu připadal jak Martin Fourcade (místo flinty jsem měl na zádech čokoládu a větrovku). Tenhle přístup jsem zkusil i na Božím Daru - už od začátku jsem to mocně posílal, dokonce jsem sestřelil i jeden terč, až ze stojky byla ležka (nebohá dívčina mi nabruslila do stopy a já ji zbavil přebytečného karbonu - to abychom začali srovnávat úhrn **příkoří** hrbatými psy utrpěných a způsobených). Pak to ale začalo jít z kopce (k Abertamům, ale i výsledkovou listinou) a kolem mě se prohánět jeden ve vajíčku shrbený vlčák za druhým, včetně jedné (padesátnice prominou) babičky o holi (resp. dvou). Po občerstvovačce (kde přišlo **příkoří** v podobě ionťáku tak horkého, že se nedal pít) jsem sice některé vlčáky opět stahoval (kdo chce psa bít, ...), ale pak následovalo další **příkoří** - zatáčka doleva (a to nemá být, viz [https://qz.com/895691/ups-drivers-dont-turn-left-and-it-saves-them-10-million-gallons-of-gas-a-year/](https://qz.com/895691/ups-drivers-dont-turn-left-and-it-saves-them-10-million-gallons-of-gas-a-year/)), kde jsem hodil tygra. S modřinkou na stehně jsem sice na úkor slabších kusů získal část toho, co jsem ztratil z toho, co jsem získal, ale na celkové bilanci už to stejně moc nezměnilo. Tyhle krátké skejtové závody, to není nic pro mě. A omlouvám se Petrovi za nadužívání slova **příkoří**.
 

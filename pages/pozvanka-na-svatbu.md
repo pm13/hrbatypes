@@ -1,5 +1,7 @@
+---
 Title: Pozvánka na svatbu
 Author: Zuzka
+---
 
 ![Pozvánka od Zuzky - 1. strana]({static}/static/archiv/chat/pozvanka-od-zuzky-1.jpg){: width="350"}
 

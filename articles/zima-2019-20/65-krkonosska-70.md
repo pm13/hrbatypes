@@ -1,7 +1,9 @@
+---
 Title: 65. Krkonošská 70
 Date: 2020-03-14 22:05
 Category: Zima 2019/20
 Author: Petr
+---
 
 **Ferda:** 2. flek. Letos to bylo hratelné. Loni 3., předloni 4. takže za rok 1. 😀. Blbé je, že musím ještě rok vydržet lyžovat.
 

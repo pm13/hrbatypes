@@ -1,7 +1,9 @@
+---
 Title: BoBoLoppet, 8.2.2014
 Date: 2014-02-13 22:05
 Category: Zima 2013/14
 Author: Pipucha
+---
 
 Předloni chyběla odvaha, loni zdraví, letos sníh. Ukázalo se, že zatímco s prvními dvěma zádrhely organizátoři nic nezmůžou, ke třetímu se dokážou postavit čelem. Závod zkrátili z 90 na 75 (nebo ještě míň) kilometrů a silně doporučili užít "práskaček" (anžto prý může dojít k jejich zničení).
 

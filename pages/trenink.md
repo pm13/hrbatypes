@@ -1,4 +1,6 @@
+---
 Title: Trénink
+---
 
 Trénink se koná už od pradávna **každý čtvrtek od 19:00 v tělocvičně karlínské budovy MFF** (Sokolovská 83, přízemí). Výjimkou je období od června do konce září, kdy je období akademického klidového režimu a každý rozumný člověk utíká před horkem z Prahy. Tyto tréninky se pak bohatě vynahrazují při **letním soustředění na Albeři** (vždy jeden týden v srpnu).
 

@@ -1,7 +1,9 @@
+---
 Title: VŠ liga Vysoké nad Jizerou, 19.-20.2.2011
 Date: 2011-02-28 10:47
 Category: Zima 2010/11
 Author: Pipucha
+---
 
 Sobota, 4 km ženy klasicky
 --------------------------

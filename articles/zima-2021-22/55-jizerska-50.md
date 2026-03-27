@@ -1,7 +1,9 @@
+---
 Title: 55. Jizerská 50
 Date: 2022-02-28 21:49
 Category: Zima 2021/22
 Author: Petr
+---
 
 **Petr**: Poprvé pod dvě a půl hodiny! Stovka to tedy sice nebyla, ale tu už jednu mám :)
 

@@ -1,8 +1,10 @@
+---
 Title: VŠ liga Benecko 2009
 Date: 2009-01-19 00:00
 Category: Zima 2008/09
 Author: Helena
 Album: 1
+---
 
 Z dob, kdy v zimě byly vosy zalezlé.
 

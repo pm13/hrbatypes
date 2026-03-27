@@ -1,7 +1,9 @@
+---
 Title: VŠ liga Benecko, 5.-6.1.2013
 Date: 2013-01-15 22:46
 Category: Zima 2012/13
 Author: Pipucha
+---
 
 I na začátku ledna se na horách dá provozovat vodní (či zemědělské?) lyžování. Co si ze závodu pamatuju? Že jsem před ním měl pocit, jakoby mě někdo mlátil celou noc dřevěnou tyčí (čtvrteční trénink? silvestrovské lyžování?). Že Karel nechtěl závodit s pulkem. Že jsme s Jardou opanovali (rozuměj: on dvakrát 3., já jednou 2.) stupně vítězů kategorie ČVUT. Že v roubence nezměnili od loňska menu. Že nám někdo z Humanity načmáral na skóre mariáše dosti sprosté symboly.
 

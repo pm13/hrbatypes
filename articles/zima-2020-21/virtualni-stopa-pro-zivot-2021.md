@@ -1,7 +1,9 @@
+---
 Title: Virtuální Stopa pro život 2021
 Date: 2021-03-02 21:32
 Category: Zima 2020/21
 Author: Petr
+---
 
 Seriál Stopa pro život byl sice stejně jako ostatní závody jen virtuální - narozdíl od jiných však v rámci jednoho víkendu, s pevně stanovenou tratí a s měřením. Stejně tedy záleželo kdy se kdo vydal na trať či jestli jel náhodou s někým - ale i tak jsem se tam cítil závodněji než jinde!
 

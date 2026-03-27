@@ -1,7 +1,9 @@
+---
 Title: Bedřichovský Night Light Marathon 2016 aneb devatero příkoří
 Date: 2017-01-01 16:26
 Category: Zima 2016/17
 Author: Petr
+---
 
 Předposlední večer v roce jsme se konečně dočkali - poprvé vyrazili na otevřený závod. Hned se jednalo o ten velice unikátní - čelovkový Night Light Marathon. Za vynikajících sněhových podmínek jsme očekávali rychlé kilometry i originální zážitky.  A i když mně se často dějí různé věci, někdy se sejdou a je pak o čem psát - dnes tedy o příkořích.
 

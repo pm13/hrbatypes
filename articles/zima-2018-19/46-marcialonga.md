@@ -1,7 +1,9 @@
+---
 Title: 46. Marcialonga
 Date: 2019-01-31 08:05
 Category: Zima 2018/19
 Author: Petr
+---
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Canazei         | Predazzo        | Cascata         |
 |--------|-----------------------|-----------|-----------|-----------------|-----------------|-----------------|

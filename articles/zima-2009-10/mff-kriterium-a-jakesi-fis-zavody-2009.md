@@ -1,8 +1,10 @@
+---
 Title: MFF kritérium a jakési FIS závody 2009
 Date: 2009-12-20 00:00
 Category: Zima 2009/10
 Author: Kajis
 Album: 1
+---
 
 Nejdůležitější závody roku.
 

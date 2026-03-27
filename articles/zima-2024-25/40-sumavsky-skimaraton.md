@@ -1,7 +1,9 @@
+---
 Title:  40. Šumavský skimaraton
 Date: 2025-05-28 08:27
 Category: Zima 2024/25
 Author: Petr
+---
 
 ### Skate
 

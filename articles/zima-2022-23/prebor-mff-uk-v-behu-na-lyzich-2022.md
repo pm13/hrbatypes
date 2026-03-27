@@ -1,7 +1,9 @@
+---
 Title: Přebor MFF UK v běhu na lyžích 2022
 Date: 2022-12-17 20:35
 Category: Zima 2022/23
 Author: Honza
+---
 
 Proběhl v sobotu 17. prosince 2022 na Horních Mísečkách volnou technikou.
 

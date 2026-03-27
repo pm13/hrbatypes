@@ -1,7 +1,9 @@
+---
 Title: Šumavský miniskimaraton, 23.2.2014
 Date: 2014-03-01 22:19
 Category: Zima 2013/14
 Author: Kajis
+---
 
 Existují určité jistoty v lidském životě, které drží náš svět pohromadě. Jedna z nich je, že se vždy koncem února jede Šumavák a prakticky nic v tom nemůže zabránit. Organizátoři prokázali, že by v podstatě dokázali zorganizovat závod i uprostřed léta... jenže to je mimo sezónu, že ano.
 

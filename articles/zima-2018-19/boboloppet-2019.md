@@ -1,7 +1,9 @@
+---
 Title: BoBoloppet 2019
 Date: 2019-02-09 09:09
 Category: Zima 2018/19
 Author: Petr
+---
 
 Minulou sobotu se konal - nyní už celkem tradiční - závod na 90 km v Jizerských horách. A rozhodně jsme se ukázali - já jsem navíc prokázal, že ve mně opravdu jsou ty vlastnosti, které jsou členům našeho oddílu přisuzovány (myslím těm pravým, co se tak už narodili). Během prvních dvaceti minut závodu jsem stihl:
 

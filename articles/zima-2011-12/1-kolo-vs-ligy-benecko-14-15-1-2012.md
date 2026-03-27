@@ -1,7 +1,9 @@
+---
 Title: 1. kolo VŠ ligy Benecko, 14.-15.1.2012
 Date: 2012-01-21 12:16
 Category: Zima 2011/12
 Author: Ferda
+---
 
 Sobota 14. 1.
 -------------

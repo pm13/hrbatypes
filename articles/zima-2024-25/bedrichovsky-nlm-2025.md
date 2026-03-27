@@ -1,7 +1,9 @@
+---
 Title: Bedřichovský NLM 2025
 Date: 2025-05-15 8:18
 Category: Zima 2024/25
 Author: Petr
+---
 
 ### Skate
 

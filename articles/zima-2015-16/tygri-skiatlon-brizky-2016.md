@@ -1,8 +1,10 @@
+---
 Title: Tygří skiatlon, Břízky, 2016
 Date: 2016-02-15 23:00
 Category: Zima 2015/16
 Author: Helena
 Album: 1
+---
 
 Únorový Tygří skiatlon v Břízkách.
 

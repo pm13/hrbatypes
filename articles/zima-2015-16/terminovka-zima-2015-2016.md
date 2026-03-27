@@ -1,8 +1,10 @@
+---
 Title: Termínovka zima 2015/2016
 Date: 2015-11-09 10:38
 Category: Zima 2015/16
 Author: Ferda
 Sticky: 1
+---
 
 Další zima se blíží. Aby každý věděl, že jsme se již probudili z letního spánku, aktualizujeme loňskou termínovku tak, aby si každý i letos mohl vybrat vhodnou taškařici, kde se může nesmyslně honit za časem. Je potřeba jezdit na závody a nést prapor oddílu vysoko.
 

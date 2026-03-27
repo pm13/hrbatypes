@@ -1,7 +1,9 @@
+---
 Title: 41. Orlický maraton
 Date: 2025-05-18 14:57
 Category: Zima 2024/25
 Author: Petr
+---
 
 **Petr:** 10. místo, 3. v kategorii. Druhý klasický závod během jednoho víkendu jsem ještě nezkoušel - celkem náročné 😅
 

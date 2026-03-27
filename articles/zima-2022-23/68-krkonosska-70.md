@@ -1,7 +1,9 @@
+---
 Title: 68. Krkonošská 70
 Date: 2023-03-08 16:13
 Category: Zima 2022/23
 Author: Petr
+---
 
 **Ferda:** Krkonošská 70 🥇
 

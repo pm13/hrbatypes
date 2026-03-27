@@ -1,7 +1,9 @@
+---
 Title: 8. Jilemnická 50
 Date: 2015-02-08 22:49
 Category: Zima 2014/15
 Author: Anička
+---
 
 Už od rána bylo za oknem sluníčko, nebe bez mráčků a -13°C. Trať byla zkrácená na 20 km, neskutečně placatá a rychlá. A jak se mi minulý víkend jezdilo docela dobře, tak tohle jsem vcelku proplakala. Poprvé v životě se mi stalo, že jedu z kopce a někdo si to frčí mnohem rychleji kolem mě a já s tím nemůžu nic udělat. A navíc je to holka! Za celou dobu se mi nepodařilo pořádně rozjet, takže tentokrát se asi budu muset snažit si to závodění vynahradit na klasice. Představa té placaté 40 mě docela děsí, asi se ode mě bude čekat nějaký soupaž.
 

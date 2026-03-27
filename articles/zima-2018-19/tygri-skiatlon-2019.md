@@ -1,7 +1,9 @@
+---
 Title: Tygří skiatlon 2019
 Date: 2019-04-10 16:47
 Category: Zima 2018/19
 Author: Petr
+---
 
 Poslední VŠ liga zimy je velice originální - nevím, proč nás na ní bylo tak málo. Alespoň pár bodů z ní:
 

@@ -1,8 +1,10 @@
+---
 Title: Humanita 2010
 Date: 2010-03-21 00:00
 Category: Zima 2009/10
 Author: Kajis
 Album: 1
+---
 
 Za mlhou hustou, že by sa dala krájet...
 

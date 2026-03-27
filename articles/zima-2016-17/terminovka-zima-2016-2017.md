@@ -1,8 +1,10 @@
+---
 Title: Termínovka zima 2016/2017
 Date: 2016-10-27 13:31
 Category: Zima 2016/17
 Author: Ferda
 Sticky: 1
+---
 
 Na horách již stačil napadnout a roztát první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 

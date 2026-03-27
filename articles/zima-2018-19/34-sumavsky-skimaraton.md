@@ -1,7 +1,9 @@
+---
 Title:  34. Šumavský skimaraton
 Date: 2019-02-25 22:55
 Category: Zima 2018/19
 Author: Petr
+---
 
 Skate, 46 škm
 -------------

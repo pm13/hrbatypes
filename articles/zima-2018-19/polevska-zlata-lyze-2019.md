@@ -1,7 +1,9 @@
+---
 Title: Polevská zlatá lyže 2019
 Date: 2019-01-15 18:35
 Category: Zima 2018/19
 Author: Ferda
+---
 
 Rok se s rokem dvakrát sešel, než se konal další ročník Polevské Zlaté lyže, legendárního závodu Lužických hor. Jelikož kvůli množství sněhu (**příliš mnoho ho bylo**) v Krušných horách zrušili Krušnohorskou 30, nezbylo než se pokusit obhájit vítězství na tomto malém závodu s velkou historií.
 

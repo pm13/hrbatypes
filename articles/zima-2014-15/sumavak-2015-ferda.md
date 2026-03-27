@@ -1,9 +1,11 @@
+---
 Title: Šumavák 2015
 Date: 2015-02-23 17:23
 Category: Zima 2014/15
 Author: Ferda
 Slug: sumavak-2015/ferda
 Album: 1
+---
 
 [Album](https://photos.app.goo.gl/nUkHUh7kfTEwJoyEA)
 

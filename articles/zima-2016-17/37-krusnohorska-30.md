@@ -1,7 +1,9 @@
+---
 Title: 37. Krušnohorská 30
 Date: 2017-01-18 14:15
 Category: Zima 2016/17
 Author: Ferda
+---
 
 Silný nárazový vítr, závěje a sněhové jazyky, uzavřené silnice, husté sněžení doporučení nevyjíždět, ale závod nezrušili tak jsem musel jet. Dostat se na start bylo sice obtížnější než obvykle, ale s odstavením auta do závěje, prorážením sněhových jazyků pěšky a úpěním na lyžích proti větru se mi to podařilo.
 

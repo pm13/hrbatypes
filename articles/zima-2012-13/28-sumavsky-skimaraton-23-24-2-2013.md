@@ -1,7 +1,9 @@
+---
 Title: 28. Šumavský skimaraton, 23.-24.2.2013
 Date: 2013-03-05 23:34
 Category: Zima 2012/13
 Author: Petr
+---
 
 Opět bylo prověřeno, že samo se to nenapíše. A proto se zpožděním přinášíme výsledky z 28. Šumavského skimaratónu, známého také jako Mistrovství MFF na dlouhé trati.
 

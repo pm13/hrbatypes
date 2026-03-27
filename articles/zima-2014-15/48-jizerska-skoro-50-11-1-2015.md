@@ -1,7 +1,9 @@
+---
 Title: 48. Jizerská skoro-50, 11.1.2015
 Date: 2015-01-12 22:06
 Category: Zima 2014/15
 Author: Anička
+---
 
 [pozn.: původně vložil *Pipucha*, který místo ťapky ťapky dělal šoupy šoupy]
 

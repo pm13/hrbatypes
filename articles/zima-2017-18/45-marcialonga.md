@@ -1,7 +1,9 @@
+---
 Title: 45. Marcialonga
 Date: 2018-02-01 20:55
 Category: Zima 2017/18
 Author: Petr
+---
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | Canazei        | Predazzo       | Cascata        |
 |--------|-----------------------|-----------|---------|----------------|----------------|----------------|

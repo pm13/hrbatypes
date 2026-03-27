@@ -1,6 +1,8 @@
+---
 Title: Výběr dresů
 Date: 2009-02-01 00:00
 Category: Archív
+---
 
 Na přelomu roku 2008 a 2009 jsme dospěli k důležitému rozhodnutí - pořídíme si **oddílové dresy**. To ale vyvolalo zásadní otázku - **jaké budou?** Navrženi byli následující kandidáti:
 

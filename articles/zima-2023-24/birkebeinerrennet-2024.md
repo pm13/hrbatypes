@@ -1,7 +1,9 @@
+---
 Title: Birkebeinerrennet 2024
 Date: 2024-04-25 22:35
 Category: Zima 2023/24
 Author: Petr
+---
 
 **Petr**: Pořadatelé slíbili sobotní závod - odložili ho však o den jen proto, že byl silný vítr a spadlo půl metru sněhu. Takže jsme byli nuceni jet na zmrzlém prašanu (mazal jsem modrý), chránit si oči před sluncem (bez brýlí by to dnes fakt nešlo) - když se přidá místní krajina, tak ve vyhýbání se kýčovitosti naprosto selhali ❄️☀️❄️☀️❄️
 

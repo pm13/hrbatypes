@@ -1,8 +1,10 @@
+---
 Title: Humanita 2009
 Date: 2009-03-22 00:00
 Category: Zima 2008/09
 Author: Helena
 Album: 1
+---
 
 Přišlo jaro, vosy se vyrojily.
 

@@ -1,9 +1,11 @@
+---
 Title: AKÁDo 2010
 Date: 2010-02-05 00:00
 Category: Zima 2009/10
 Author: Kajis
 Slug: akado-2010/kajis
 Album: 1
+---
 
 Kakádo - co dodat.
 

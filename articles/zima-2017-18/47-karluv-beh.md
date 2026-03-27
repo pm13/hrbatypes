@@ -1,7 +1,9 @@
+---
 Title: 47. Karlův běh
 Date: 2018-02-14 09:07
 Category: Zima 2017/18
 Author: Vláďa
+---
 
 Na Karlův běh jsme vyjeli ve čtyřech. Já, Petr a Honza s Aničkou. Já jsem jel místo nemocného Ferdy a byl to můj první závod jako člen Hrbatého psa i první závod sezóny. Až v autě jsme se dohodli, že pojedu i sobotní skejt a Honza s Aničkou pojedou na výlet. Museli jsme rychle vyzvednout čísla a zatímco se Petr už odešel připravovat na start a rozjíždět, já teprv začal strhávat z lyží univerzální LFko a narychlo kartáčovat. Pak jsem běžel na start, ovšem úschovna věcí byla v cíli, takže rychle ještě tam. Tím jsem se před startem taky rozhýbal a na startu jsem měl ještě krásné dvě minuty na upevnění bot.
 

@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2011/12
 Date: 2011-11-29 07:02
 Category: Zima 2011/12
 Author: Ferda
 Sticky: 1
+---
 
 I letos by měla být zima. Předpovědní modely začínají předpovídat sněhovou nadílku na polovinu příštího týdne. Je čas pomalu vytáhnout lyže ze sklepa a naladit formu.
 

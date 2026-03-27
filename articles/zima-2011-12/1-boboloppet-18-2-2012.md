@@ -1,7 +1,9 @@
+---
 Title: 1. Boboloppet, 18.2.2012
 Date: 2012-02-20 17:28
 Category: Zima 2011/12
 Author: Jano
+---
 
 **90 km Jizerkami**
 

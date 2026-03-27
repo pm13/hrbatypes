@@ -1,7 +1,9 @@
+---
 Title: BoBoloppet 2022
 Date: 2022-03-02 15:15
 Category: Zima 2021/22
 Author: Petr
+---
 
 **Petr:** Dost dobrá týmová práce - vyhrát Bedřichovskou pětihodinovku i Boboloppet!
 

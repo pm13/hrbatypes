@@ -1,7 +1,9 @@
+---
 Title: Co běžet na podzim?
 Date: 2012-10-14 22:52
 Category: Zima 2012/13
 Author: Pipucha
+---
 
 20.10. - Maraton ve Stromovce 42,2 - http://www.behej.com/zavod/7630-microsoft-maraton-prazska-stromovka
 21.10. - Malá Kunratická 3,25 (příjemný závod) - http://www.behej.com/zavod/7353-mala-kunraticka

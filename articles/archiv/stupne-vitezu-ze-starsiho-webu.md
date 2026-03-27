@@ -1,6 +1,8 @@
+---
 Title: Stupně vítězů ze staršího webu
 Date: 2019-05-12 12:00
 Category: Archív
+---
 
 Na úvodní stránce se často objevuje, že někdo zvládl vyšplhat na bednu. Postupně takových fotek bylo celkem dost:
 

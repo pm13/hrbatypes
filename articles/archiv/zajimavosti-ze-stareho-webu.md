@@ -1,6 +1,8 @@
+---
 Title: Zajímavosti ze starého webu
 Date: 2011-01-01 00:00
 Category: Archív
+---
 
 Tonda nevyjednává!
 ------------------

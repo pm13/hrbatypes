@@ -1,7 +1,9 @@
+---
 Title:  35. Šumavský skimaraton
 Date: 2020-02-28 22:17
 Category: Zima 2019/20
 Author: Petr
+---
 
 **Ferda k sobotě:** Na to co jsem dal přípravě dobrý (za posledních 20 dní Jizerka a todle), ale lyže zklamaly. Být na Černé hoře na 4-5 místě s minutovým náskokem na pronásledovatele a po sjezdu být někde vzadu není dobrá vizitka. Nechcete někdo lyže?
 

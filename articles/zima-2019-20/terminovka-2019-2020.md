@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2019/2020
 Date: 2019-12-13 19:55
 Category: Zima 2019/20
 Author: Jirka
 Sticky: 1
+---
 
 Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 

@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2013/14
 Date: 2013-11-04 23:03
 Category: Zima 2013/14
 Author: Ferda
 Sticky: 1
+---
 
 Zima již klepe na dveře. Sníh ještě jistě předpovězen není, ale některé termíny se již jistě rýsují. Proto je potřeba se na ně připravit a pak se i zúčastnit.
 

@@ -1,7 +1,9 @@
+---
 Title: 34. Orlický maraton
 Date: 2018-02-10 17:44
 Category: Zima 2017/18
 Author: Ferda
+---
 
 Jelikož jsem nechtěl Petrovi kazit lyžařské **iluze** ještě před závodem, tak jsem se raději letos místo na Boboloppet vydal na Orlický maraton, kde jsem se těšil na kopcovitou trať a pořádnou klasiku. Bohužel přišlo jarní počasí, které odneslo sníh a i krásné klasické tratě Orličáku. Naděje na pořádnou klasiku zůstala, jelikož i na kolečku kolem a přes Velkou Deštnou, které se jelo v sobotu 2x a v neděli 3x, bylo kopců dost.
 

@@ -1,7 +1,9 @@
+---
 Title: 4. Boboloppet a 8. B5h, 7.-8.2.2015
 Date: 2015-02-07 21:11
 Category: Zima 2014/15
 Author: Petr
+---
 
 Úvodní varianta od Honzy (následně se totiž nehodlám odchylovat od pravidla, že přesnost je podstatnější než stručnost nebo pochopitelnost):
 

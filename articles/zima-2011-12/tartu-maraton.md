@@ -1,7 +1,9 @@
+---
 Title: Tartu maraton
 Date: 2013-03-06 23:20
 Category: Zima 2011/12
 Author: Kajis
+---
 
 Závodit natrénovaný, vyspaný a na rychlých lyžích umí každý. Až v opačných podmínkách se ukáže pravý charakter. Ale abych začal z kraje...
 

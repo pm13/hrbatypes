@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2023/2024
 Date: 2023-12-14 20:26
 Category: Zima 2023/24
 Author: Petr
 Sticky: 1
+---
 
 Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 

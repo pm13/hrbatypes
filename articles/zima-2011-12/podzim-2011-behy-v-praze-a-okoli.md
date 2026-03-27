@@ -1,7 +1,9 @@
+---
 Title: Podzim 2011 - běhy v Praze a okolí
 Date: 2011-10-08 20:09
 Category: Zima 2011/12
 Author: Kápoš
+---
 
 12.10. Běh o Unětickou 10 (7 km) http://www.behy.cz/zavod/5886-beh-o-unetickou-10
 16.10. Kross Jesenický Surovec (12 / 6 km, Jesenice u Rakovníka) http://www.jesenickyfestivalek.cz/beh.html

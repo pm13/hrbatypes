@@ -1,6 +1,8 @@
+---
 Title: Stupně vítězů aktuálně
 Date: 2025-07-13 16:00
 Category: Archív
+---
 
 Rakovnické cyklování 2025
 --------------------------

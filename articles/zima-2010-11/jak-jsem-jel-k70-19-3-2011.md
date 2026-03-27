@@ -1,7 +1,9 @@
+---
 Title: Jak jsem jel K70 (19.3.2011)
 Date: 2011-03-23 11:06
 Category: Zima 2010/11
 Author: Martin H.
+---
 
 Týden před 56. ročníkem Krkonošské 70 se objevily první náznaky toho, že bych se tohoto ctihodného podniku mohl zúčastnit. Dětičky byly po nemoci a antibioticích, předpověď na týden, ve kterém měli prázdniny, nevábná, na víkend déšť a navíc MFF týmu chyběl člověk. Prostě ideální kombinace šťastných náhod, které jsem bez zaváhání využil.
 

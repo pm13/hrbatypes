@@ -1,9 +1,11 @@
+---
 Title: Albeř 2010
 Date: 2010-08-15 00:00
 Category: Zima 2010/11
 Author: Helena
 Slug: alber-2010/helena
 Album: 1
+---
 
 ...nejen sluneční běh
 

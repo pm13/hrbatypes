@@ -1,7 +1,9 @@
+---
 Title: Jizersko-Orlický ultra-víkend
 Date: 2017-02-08 09:10
 Category: Zima 2016/17
 Author: Petr
+---
 
 Tentokrát se konaly velice zajímavé závody hned ve dvou českých pohořích - Boboloppet v Jizerkách a zároveň Orlický maraton. A bylo nutné si vybrat, kam zamířit. Nebo se vlastně musím opravit - bylo rozumné si vybrat, kam zamířit.
 

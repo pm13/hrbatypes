@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2024/2025
 Date: 2024-12-16 21:24:27
 Category: Zima 2024/25
 Author: Petr
 Sticky: 1
+---
 
 Na Mísečkách již stačil napadnout první sníh nadcházející sezony, lyže se nervózně vrtí ve sklepě a termíny většiny závodů a dokonce i nejslavnější soutěže, tedy VŠ Ligy, jsou na světě. Pozorně čtěte a ne že nebudete jezdit na Akademické závody!!!! Ne že nás zas Humanita umlátí čepicema...
 

@@ -1,7 +1,9 @@
+---
 Title: XXVII. Jesenická 70 - 8.3.2015
 Date: 2015-03-23 09:33
 Category: Zima 2014/15
 Author: Péťa P.
+---
 
 V neděli 8. 3. 2015 se konal již 27. ročník Jesenické 70. Bohužel, nebo možná bohudík, se v tento termín konalo mnoho jiných, méně významných závodů jako třeba Karlův běh či Vasaloppet, kam měli mnozí nejen z řad oddílu VŠSK MFF UK zamířeno. Petr však nechtěl pokoušet, zda jeho záda vydrží 90 km soupaž, a mně (Péťa P.) se nechtělo cestovat x tisíc km, abych znaven náročnou cestou a nevyspáním "odvesloval" x desítek km na čemsi, co připomínalo spíš vodu než sníh. Nakonec jsme tedy v sobotu odpoledne vyrazili ve složení Petr a Péťa P. směr Šumperk.
 

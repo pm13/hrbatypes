@@ -1,7 +1,9 @@
+---
 Title: Přebor MFF UK v běhu na lyžích 2019
 Date: 2018-12-15 20:22
 Category: Zima 2018/19
 Author: Jirka
+---
 
 Proběhl v sobotu 15. prosince 2018 na Horních Mísečkách volnou technikou.
 

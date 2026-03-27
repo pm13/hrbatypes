@@ -1,7 +1,9 @@
+---
 Title: Expedice Jeseníky 2017 aneb další z devatera příkoří
 Date: 2017-02-01 22:48
 Category: Zima 2016/17
 Author: Simona
+---
 
 Dle každoroční tradice dorazil e-mail se vzpomínkou na Expedici Krkonoše 2013 a prosbou, zda by nebyla vůle podobnou akci zopakovat. Onehdy se jednalo o loučení se zimou s vidinou příznivých nočních teplot. Zima nám však ukázala, že stejně vládne i v jarních dnech, proto jsme neotáleli a vyrazili hned v mrazivém lednu tentokrát do Jeseníků.
 

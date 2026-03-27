@@ -1,7 +1,9 @@
+---
 Title: BoBoloppet 2018
 Date: 2018-02-05 21:05
 Category: Zima 2017/18
 Author: Petr
+---
 
 Ještě před pár dny jsem měl určité **lyžařské iluze**. Třeba že na skate se dá namazat špatně - ale nemůže to být naprosto tragické. Nebo že když nyní už občas prášíme, tak že jsme již celkem pokročilí (na naší úroveň závodů).
 

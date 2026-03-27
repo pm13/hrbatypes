@@ -1,9 +1,11 @@
+---
 Title: Albeř 2010
 Date: 2010-08-15 00:00
 Category: Zima 2010/11
 Author: Kajis
 Slug: alber-2010/kajis
 Album: 1
+---
 
 Pocení krve v přímém přenosu...
 

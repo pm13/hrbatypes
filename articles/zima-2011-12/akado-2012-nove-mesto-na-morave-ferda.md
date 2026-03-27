@@ -1,9 +1,11 @@
+---
 Title: AKADO 2012 Nové Město na Moravě
 Date: 2012-01-28 20:21
 Category: Zima 2011/12
 Author: Ferda
 Slug: akado-2012-nove-mesto-na-morave/ferda
 Album: 1
+---
 
 [Album](https://photos.app.goo.gl/qsH7vxNV17NCmxHw7)
 

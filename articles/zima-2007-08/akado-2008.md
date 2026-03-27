@@ -1,8 +1,10 @@
+---
 Title: AKÁDo 2008
 Date: 2008-02-14 00:00
 Category: Zima 2007/08
 Author: Kajis
 Album: 1
+---
 
 Ročník, kdy už nebylo skoro na čem jezdit.
 

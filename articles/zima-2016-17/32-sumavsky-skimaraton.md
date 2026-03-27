@@ -1,7 +1,9 @@
+---
 Title: 32. Šumavský skimaraton
 Date: 2017-02-26 16:48
 Category: Zima 2016/17
 Author: Kajis
+---
 
 Letošní Šumavák potvrdil pověst závodu, který se koná, i kdyby trakaře padaly. Jen tento rok se situace obrátila - místo zázračné sněhové nadílky, která tradičně na poslední chvíli zachraňovala závod, přišla intenzivní obleva, která spláchla všechno, kromě několika cest, na kterých se letos jelo. Osobně jsme v sobotu otestovali, že kterákoli jiná cesta je buďto bez sněhu nebo pokrytá 20 cm souvislou vrstvou šišek a jehličí, pod kterou asi byl sníh, ale neměli jsme hrábě, abychom to ověřili.
 

@@ -1,8 +1,10 @@
+---
 Title: AKÁDo 2009
 Date: 2009-01-29 00:00
 Category: Zima 2008/09
 Author: Kajis
 Album: 1
+---
 
 Památný ročník, kdy jsme závody oblížděli s novým maskotem - kunou.
 

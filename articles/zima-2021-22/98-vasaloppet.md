@@ -1,7 +1,9 @@
+---
 Title: 98. Vasaloppet
 Date: 2022-03-15 21:54
 Category: Zima 2021/22
 Author: Tomáš
+---
 
 Nasadíš lyže a jedeš, nebo teda moc nejedeš protože se přimotáš do hromadný kolize č. 1 a vzápětí č. 2 😀 Ale hůlky vydržely tak šup vstříc pochodovýmu cvičení na sjezdovku 😀
 

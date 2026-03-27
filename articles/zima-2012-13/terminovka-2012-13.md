@@ -1,8 +1,10 @@
+---
 Title: Termínovka 2012/13
 Date: 2012-10-22 23:14
 Category: Zima 2012/13
 Author: Ferda
 Sticky: 1
+---
 
 Termíny závodů již jsou určené. A to značí jediné, že zima již netrpělivě postává za dveřmi a nesměle klepe na dveře. Co nás čeká a nemine se snad dozvíte zde. Budou to závody většinou tradiční, ať už se jedná o VŠ ligu či dálkové běhy. Objeví se nové destinace např. Břízky, kde se uskuteční Tygří skiatlon, a snad se zrodí nová legenda mezi dálkovými běhy, SENOHRABSKÁ 60. Ale nejdříve ze všeho nejdříve bude tradiční soustředění na Mísečkách v boudě Berta. Tudíž nikdo nemeškej a na tréninky spěchej. SKOL
 

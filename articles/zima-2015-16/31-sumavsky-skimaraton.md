@@ -1,7 +1,9 @@
+---
 Title: 31. Šumavský skimaraton
 Date: 2016-02-29 00:00
 Category: Zima 2015/16
 Author: Petr
+---
 
 37 km FT
 --------

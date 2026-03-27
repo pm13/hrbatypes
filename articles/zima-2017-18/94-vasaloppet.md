@@ -1,7 +1,9 @@
+---
 Title: 94. Vasaloppet
 Date: 2018-03-12 13:57
 Category: Zima 2017/18
 Author: Jirka
+---
 
 | Pořadí          | Jméno            | Čas          | Ztráta        |
 |-----------------|------------------|--------------|---------------|

@@ -1,7 +1,9 @@
+---
 Title: V Jizerkách a na Šumavě, 2023
 Date: 2023-03-01 18:53
 Category: Zima 2022/23
 Author: Petr
+---
 
 **Ferda k sobotě:** 3. místo celkově. Jsem rychlík a prohrál jsem finiš o 2. místo celkově a 1. v kategorii. No nic tak příště.
 

@@ -1,7 +1,9 @@
+---
 Title: Výsledky přeboru MFF 2011
 Date: 2011-12-18 18:32
 Category: Zima 2011/12
 Author: Ferda
+---
 
 Výsledky velmi klasického závodu bez stopy, zato s dárečkama na trati jsou tu. Podmínky byly příjemně zimní. Máza tutově extráčová. Základ k úspěchu či neúspěchu byl položen již den předchozí. Odpoledne připluly kapříci a proběhla Karlovarská losovačka. Večer při partii mariáše byl odrovnán nejmenovaný závodník popíjeje energetický drink z meruněk. A další den se jelo podle zaslaných notiček. Jak to dopadlo vidíte tu:
 

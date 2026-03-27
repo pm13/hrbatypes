@@ -1,7 +1,9 @@
+---
 Title: Vasaloppet 2012
 Date: 2012-03-06 00:51
 Category: Zima 2011/12
 Author: Kajis
+---
 
 Kdyby vám někdo nabídl, že strávíte 10 hodin v autobuse; další den 2 hodiny ve sklepě, kde není vidět na krok kvůli fluoru v ovzduší; pak budete vstávat ve 2:30, abyste mohli 6 hodin soupažit; no a nakonec zase 10 hodin v autobuse... a za to všechno zaplatíte nějakých 4000 SEKů... šli byste do toho? Já jsem to vyzkoušel a můžu vřele doporučit.
 

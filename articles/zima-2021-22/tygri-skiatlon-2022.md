@@ -1,7 +1,9 @@
+---
 Title: Tygří skiatlon 2022
 Date: 2022-03-15 21:21
 Category: Zima 2021/22
 Author: Petr
+---
 
 I na posledním závodě VŠ ligy jsem byl sám (i když v celkových výsledcích seriálu k nám byli započteni také Jakub Škoda a František Kožnar, kteří zvládli být během víkendu dohromady třikrát na stupních vítězů). Ale vzhledem k tomu, že jsem VŠ ligu celkově vyhrál, tak myslím, že stejně stojí za zaznamenání :)
 

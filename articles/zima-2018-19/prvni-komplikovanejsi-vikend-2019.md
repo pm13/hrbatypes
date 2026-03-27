@@ -1,7 +1,9 @@
+---
 Title: První (komplikovanější) víkend 2019
 Date: 2019-01-09 18:54
 Category: Zima 2018/19
 Author: Petr
+---
 
 První víkend roku 2019 se konalo hned několik oblíbených závodů - na Benecku VŠ liga, v Jizerských horách Bedřichovský Night Light Marathon a Bedřichovská pětihodinovka. Bohužel šíře nabídky mnohé tradiční účastníky vystrašila - přesto jsme se v pátek, v sobotu i v neděli jednoho závodu zúčastnili.
 

@@ -1,7 +1,9 @@
+---
 Title: 52. Jizerská 50
 Date: 2019-02-18 19:09
 Category: Zima 2018/19
 Author: Petr
+---
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Knejpa    | Jizerka   | Hřebínek  |
 |--------|-----------------------|-----------|-----------|-----------|-----------|-----------|

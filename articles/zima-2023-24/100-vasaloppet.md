@@ -1,7 +1,9 @@
+---
 Title: 100. Vasaloppet
 Date: 2024-03-10 20:07
 Category: Zima 2023/24
 Author: Petr
+---
 
 **Petr**: Pět minut před startem objevit na nohou návleky a běžet hledat pytel. Tři minuty před startem nevidět náramek, aby mi dávali gely (vlastní jsem neměl, připlatil jsem si radši) a běžet ho hledat. Pak v mrholení vyrazit - sjezdovku vyjet velice dobře a prvních 30 km zvládnout naprosto výborně.
 

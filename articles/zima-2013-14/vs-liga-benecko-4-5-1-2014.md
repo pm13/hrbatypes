@@ -1,7 +1,9 @@
+---
 Title: VŠ liga Benecko, 4.-5.1.2014
 Date: 2014-02-12 16:18
 Category: Zima 2013/14
 Author: Terka
+---
 
 Sněhu bylo fakt málo, ale i ježdění po šedobílé břečce má své vlastní kouzlo. Odpoledne jsme si zpříjemnili sušenkami z lineckého těsta a večer potom pivem s večeří.
 

@@ -1,7 +1,9 @@
+---
 Title: Livigno
 Date: 2015-11-14 12:32
 Category: Zima 2015/16
 Author: Anička
+---
 
 Já jsem se letos vydala na první sníh do Livigna. V pátek 13. ve 4.30 jsme ve Skuhrově nad Bělou naložili do velkého oddílového Forda děvčata ze Skuhrova, které jsem si vezla já, a trenér si do svazového Volkswagenu naložil do 23 let. Cesta byla vcelku dlouhá, ale po druhé jsme dorazili do Livigna, kde už na nás čekaly dva mikrobusy varských a jeden tepličáků.
 

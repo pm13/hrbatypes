@@ -1,8 +1,10 @@
+---
 Title: Senohraby 2009
 Date: 2009-01-15 00:00
 Category: Zima 2008/09
 Author: Kajis
 Album: 1
+---
 
 Tradiční senohrabská kritéria - sprint s nejtěžším profilem v okolí.
 

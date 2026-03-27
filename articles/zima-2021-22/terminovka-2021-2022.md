@@ -12,19 +12,16 @@ A teď již raději necháme mluvit data.
 
 Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
-Soustředění, prosinec, bouda Berta (u Hesounů)
-----------------------------------------------
+## Soustředění, prosinec, bouda Berta (u Hesounů)
 
-[VŠ Liga](https://www.vs-liga.cz/)
----------------------------------
+## [VŠ Liga](https://www.vs-liga.cz/)
 
 - **1. kolo** 8. - 9. ledna, FEL, Jilemnice/Benecko
 - **2. kolo** 15. - 16. ledna, Humanita, Jilemnice/Benecko
 - **3. kolo** 17. - 20. ledna, Akademické MČR, Nové Město na Moravě
 - **4. kolo** 5. - 6. března, Tygří skiatlon, Břízky-kolečko
 
-Něco pro dálkoplazy
--------------------
+## Něco pro dálkoplazy
 
 ### Seriál [SKI-TOUR](https://www.ski-tour.cz/)
 
@@ -45,8 +42,7 @@ Něco pro dálkoplazy
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/sumavsky-skimaraton/), 26. - 27. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 12. března, Špindlerův Mlýn
 
-Ostatní závody hodné vážného zřetele
-------------------------------------
+## Ostatní závody hodné vážného zřetele
 
 ### 15. ročník [Bedřichovské pětihodinovky](http://www.b5h.cz/), ???, Bedřichov
 
@@ -72,8 +68,7 @@ Ostatní závody hodné vážného zřetele
 
 - závody v Senohrabech podle aktuální sněhové situace.
 
-Konkurenční listiny nejen dálkových běhů:
------------------------------------------
+## Konkurenční listiny nejen dálkových běhů:
 
 - [Svaz lyžařů ČR](http://zavody.czech-ski.com/event/list)
 - [bezky.net](https://bezky.net/kalendar)

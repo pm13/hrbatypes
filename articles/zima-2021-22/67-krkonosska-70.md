@@ -20,16 +20,15 @@ Osobně takové napůl - jednak jsem asi vzal jiné lyže než jsem měl, větš
 Mega díky borci! Fakt mega pecka! Závod fakt mega v topu! Druhej platz! 😍 Bejt na stupních vítězů hned pod Ondřejem Moravcem a dalšíma olympionikama mega čest 🥰
 
 | Pořadí | Jméno                | Čas       | Ztráta  |
-|--------|----------------------|-----------|---------|
+| ------ | -------------------- | --------- | ------- |
 | 1.     | Kalokagathia Aliance | 3:42:45.2 | 00:00.0 |
 | 2.     | VSK MFF UK           | 3:45:00.2 | 02:15.0 |
 | 3.     | Kasper Swix Team     | 3:51:44.6 | 08:59.3 |
 
-Celkové výsledky Stopy pro život
---------------------------------
+## Celkové výsledky Stopy pro život
 
 | Pořadí | Jméno                 | Body |
-|--------|-----------------------|------|
+| ------ | --------------------- | ---- |
 | 1.     | Jaroslav Ehl          | 930  |
 | 2.     | Jan Ferdinand Polášek | 925  |
 | 3.     | Petr Marhoun          | 810  |
@@ -42,8 +41,7 @@ Celkové výsledky Stopy pro život
 
 ![pohár]({static}/static/zima-2021-22/k70-pohar.jpg){: width="450"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2021-22/20220312-spz-k70-70km-hlidky.pdf)
 - [výsledky Stopy pro život]({static}/static/zima-2021-22/spt2022.pdf)

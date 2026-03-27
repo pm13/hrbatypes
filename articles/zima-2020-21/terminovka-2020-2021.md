@@ -12,41 +12,36 @@ A teď již raději necháme mluvit data.
 
 Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
-Soustředění, prosinec, bouda Berta (u Hesounů)
-----------------------------------------------
+## Soustředění, prosinec, bouda Berta (u Hesounů)
 
-[VŠ Liga](http://www.vs-liga.cz/)
----------------------------------
+## [VŠ Liga](http://www.vs-liga.cz/)
 
-- **1. kolo** 9. - 10. ledna, FEL, Benecko/Jilemnice - *zrušeno*
-- **2. kolo** 16. - 17. ledna, Humanita, Jilemnice/Benecko - *zrušeno*
-- **3. kolo** 25. - 28. ledna, Akademické MČR, Nové Město na Moravě - *zrušeno*
-- **4. kolo** 6. - 7. března, Tygří skiatlon, Břízky - kolečko - *zrušeno*
+- **1. kolo** 9. - 10. ledna, FEL, Benecko/Jilemnice - _zrušeno_
+- **2. kolo** 16. - 17. ledna, Humanita, Jilemnice/Benecko - _zrušeno_
+- **3. kolo** 25. - 28. ledna, Akademické MČR, Nové Město na Moravě - _zrušeno_
+- **4. kolo** 6. - 7. března, Tygří skiatlon, Břízky - kolečko - _zrušeno_
 
-Něco pro dálkoplazy
--------------------
+## Něco pro dálkoplazy
 
 ### Seriál [SKI-TOUR](https://www.ski-tour.cz/)
 
 - [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/bedrichovsky-nlm/r2), <s>8. - 9. ledna</s>, Bedřichov
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), <s>16. - 17. ledna</s>, Churáňov
-- [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb Valašská Marcialonga, 29. - 30. ledna, Velké Karlovice - *zrušeno*
+- [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb Valašská Marcialonga, 29. - 30. ledna, Velké Karlovice - _zrušeno_
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), <s>6. - 7. února</s>, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz), <s>12. - 14. února</s>, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), <s>27. - 28. února</s>, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), <s>5. - 7. března</s>, Polana Jakuszycka
 
-
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
-- [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), 16. ledna, Vysočina Arena - *zrušeno*
+- [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), 16. ledna, Vysočina Arena - _zrušeno_
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 30. - 31. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
 - [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 20. - 21. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 27. - 28. února, Kvilda
-- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn - *zrušeno*
+- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 13. března, Špindlerův Mlýn - _zrušeno_
 
-Ostatní závody hodné vážného zřetele
-------------------------------------
+## Ostatní závody hodné vážného zřetele
 
 ### 14. ročník [Bedřichovské pětihodinovky](http://www.b5h.cz/), 9. - 17. ledna, Bedřichov
 
@@ -54,7 +49,7 @@ Ostatní závody hodné vážného zřetele
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko
 
-### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - *zrušeno*
+### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - _zrušeno_
 
 ### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
 
@@ -71,14 +66,13 @@ Ostatní závody hodné vážného zřetele
 
 - nejtěžší závod v běhu na lyžích na území ČR
 
-### [Skadi Loppet](https://www.skadi-loppet.de/en.html), 20. - 21. března, Velký Javor - *zrušeno*
+### [Skadi Loppet](https://www.skadi-loppet.de/en.html), 20. - 21. března, Velký Javor - _zrušeno_
 
 ### [SKI Senohraby](https://www.senohraby.cz/info-o-obci-1/ski-senohraby-1/)
 
 - závody v Senohrabech podle aktuální sněhové situace.
 
-Konkurenční listiny nejen dálkových běhů:
------------------------------------------
+## Konkurenční listiny nejen dálkových běhů:
 
 - [Svaz lyžařů ČR](http://zavody.czech-ski.com/event/list)
 - [bezky.net](https://bezky.net/kalendar)

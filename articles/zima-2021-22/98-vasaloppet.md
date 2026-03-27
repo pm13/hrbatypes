@@ -20,7 +20,7 @@ Zbytek už pak je počítání kilometrů do cíle, předjíždí mě cca 200 li
 A co bylo skvělý jak všude mega fandili, zejména když jsem byl úplně koženej 😀 paráda #DCE 💙❤️ #VSKMFFUK 🧡🖤
 
 | Pořadí | Jméno      | Čas     | Ztráta  |
-|--------|------------|---------|---------|
+| ------ | ---------- | ------- | ------- |
 | 1257.  | Tomáš Rusý | 5:04:39 | 1:32:21 |
 
 ![start]({static}/static/zima-2021-22/vasaloppet-1.jpg){: width="450"}

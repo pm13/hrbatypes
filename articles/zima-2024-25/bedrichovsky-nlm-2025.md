@@ -12,7 +12,7 @@ Author: Petr
 **Honza**: Bylo to těžké. Lyže zejména v prvním kole nejely a neumím (pořádně) lyžovat. Ale snad se ctí.
 
 | Pořadí | Jméno                 | Čas       | Ztráta  |
-|--------|-----------------------|-----------|---------|
+| ------ | --------------------- | --------- | ------- |
 | 1.     | Jan Ferdinand Polášek | 1:26:49.6 |         |
 | 77.    | Jan Pipek             | 2:02:59.3 | 36:09.7 |
 
@@ -29,14 +29,13 @@ Zákon tří dvojek celkem dodržen.
 **Vláďa**: Hančovačka, zaváté stopy, vítr do očí na tréninkových skinech
 
 | Pořadí | Jméno           | Čas       | Ztráta  | Relativně |
-|--------|-----------------|-----------|---------|-----------|
+| ------ | --------------- | --------- | ------- | --------- |
 | 1.     | Stanislav Řezáč | 1:33:36.5 | 0.0     |           |
 | 6.     | Petr Marhoun    | 1:38:32.5 | 4:56.0  | 0.0       |
 | 85.    | David Surma     | 2:30:26.4 | 56:49.9 | 51:53.9   |
 | 90.    | Vladimír Fuka   | 2:33:31.4 | 59:54.9 | 54:58.9   |
 
-Přílohy:
---------
+## Přílohy:
 
 - [Bedřichovský NLM - skate]({static}/static/zima-2024-25/bedrichovsky-nlm-skate.pdf)
 - [Bedřichovský NLM - klasika]({static}/static/zima-2024-25/bedrichovsky-nlm-klasika.pdf)

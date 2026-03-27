@@ -10,14 +10,14 @@ Author: Ferda
 V závodě na 84 km jednotlivci zajeli dobře a v soutěži týmů jsme obsadili krásné 2. místo, ale pro špatnou komunikaci jsme byli diskvalifikovaní, protože jsme přihlásili 2 týmy po třech lidech, ale byli jsme jen 4 :-).
 
 | Pořadí | Jméno         | Kubova Huť | Vimperk   | Cíl       | Ztráta    |
-|--------|---------------|------------|-----------|-----------|-----------|
+| ------ | ------------- | ---------- | --------- | --------- | --------- |
 | 30.    | Jirka Fišer   | 1:22:35.3  | 2:30:37.1 | 3:38:01.8 | 0:00      |
 | 34.    | Ferda Polášek | 1:22:35.5  | 2:31:07.8 | 3:39:08.4 | 1:06.6    |
 | 48.    | Petr Marhoun  | 1:22:54.5  | 2:31:52.2 | 3:52:35.3 | 14:33.5   |
 | 112.   | Honza Kapitán | 1:38:31.1  | 3:05:38.1 | 4:40:11.4 | 1:02:09.6 |
 
 | Pořadí | Jméno          | Vimperk   | Cíl       |
-|--------|----------------|-----------|-----------|
+| ------ | -------------- | --------- | --------- |
 | 15.    | Lucka Koubková | 1:22:50.4 | 2:36:22.5 |
 
 Na následujícím obrázku se můžete podívat na převýšení tratě měřící 84 km (přibližně 2100 m).
@@ -28,8 +28,7 @@ Kompletní výsledky najdete v příloze.
 
 ![bedna]({static}/static/zima-2011-12/sumavak-2011-bedna.jpg){: width="600"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky 50 km]({static}/static/zima-2011-12/kpz-zadov-50km.pdf)
 - [výsledky 84 km]({static}/static/zima-2011-12/kpz-zadov-84km.pdf)

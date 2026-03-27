@@ -12,19 +12,16 @@ A teď již raději necháme mluvit data.
 
 Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
-Soustředění, prosinec, Horní Mísečky
-------------------------------------
+## Soustředění, prosinec, Horní Mísečky
 
-[VŠ Liga](https://www.vs-liga.cz/)
----------------------------------
+## [VŠ Liga](https://www.vs-liga.cz/)
 
 - **1. kolo** 5. ledna, FEL, Horní Mísečky
 - **2. kolo** 1. - 2. února, Humanita, Benecko
 - **3. kolo** 17. - 19. února, Akademické MČR, Nové Město na Moravě
 - **4. kolo** 1. - 2. března, Tygří skiatlon, Břízky-kolečko
 
-Něco pro dálkoplazy
--------------------
+## Něco pro dálkoplazy
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
@@ -34,16 +31,15 @@ Něco pro dálkoplazy
 - [Šumavský skimaraton](https://stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/propozice), 22. - 23. února, Kvilda
 - [Krkonošská 70](https://stopaprozivot.cz/zavody/krkonosska-70/propozice), 8. března, Špindlerův Mlýn
 
-Ostatní závody hodné vážného zřetele
-------------------------------------
+## Ostatní závody hodné vážného zřetele
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - *zrušeno*
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - _zrušeno_
 
 ### [Skadi Loppet](https://www.skadi-loppet.de/), 25. - 26. ledna, Velký Javor
 
 ### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
-### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - *zrušeno*
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - _zrušeno_
 
 ### [Jizerská 50](https://jiz50.cz), 6. - 9. února, Bedřichov
 
@@ -63,8 +59,7 @@ Ostatní závody hodné vážného zřetele
 
 - závody v Senohrabech podle aktuální sněhové situace.
 
-Konkurenční listiny nejen dálkových běhů:
------------------------------------------
+## Konkurenční listiny nejen dálkových běhů:
 
 - [Svaz lyžařů ČR](https://evidence.czech-ski.com/kalendar-a-vysledky)
 - [Ski Classics](https://www.skiclassics.com/)

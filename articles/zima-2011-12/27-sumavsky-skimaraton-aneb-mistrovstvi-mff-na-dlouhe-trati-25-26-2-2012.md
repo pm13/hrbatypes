@@ -9,24 +9,22 @@ Předpověď hlásí, že v deset má začít sněžit, ale nezačne. Pořadatel
 
 Inu, dobrého pomálu. Ještěže chlapci vepředu "zaletěli" a vysloužili nám skvělé druhé místo v Šumtýmech!
 
-Sobota 25.2.2012
-----------------
+## Sobota 25.2.2012
 
 ### 21 km volně
 
 | Pořadí | Jméno            | Zhůří   | Výsledný čas |
-|--------|------------------|---------|--------------|
+| ------ | ---------------- | ------- | ------------ |
 | 189.   | Jan Pipek        | 38:07,9 | 1:27:19,3    |
 | 219.   | Jan Kapitán      | 41:34,9 | 1:31:07,7    |
 | 257.   | Helena Valentová | 43:05,2 | 1:41:43,1    |
 
-Neděle 26.2.2012
-----------------
+## Neděle 26.2.2012
 
 ### 43 km klasicky
 
 | Pořadí | Jméno            | Modrava   | Zhůří     | Výsledný čas | Ztráta      |
-|--------|------------------|-----------|-----------|--------------|-------------|
+| ------ | ---------------- | --------- | --------- | ------------ | ----------- |
 | 14.    | J. Ferda Polášek | 1:06:54,3 | 1:54:34,3 | 2:32:23,5    |             |
 | 19.    | Jan Jedlička     | 1:08:31,1 | 1:54:37,3 | 2:33:42,0    | + 01:18,5   |
 | 37.    | Petr Marhoun     | 1:10:28,6 | 1:57:23,9 | 2:36:38,5    | + 04:15,0   |
@@ -37,15 +35,14 @@ Neděle 26.2.2012
 ### 21 km klasicky
 
 | Pořadí | Jméno            | Zhůří   | Výsledný čas |
-|--------|------------------|---------|--------------|
+| ------ | ---------------- | ------- | ------------ |
 | 73.    | Lucka Koubková   | 36:40,0 | 1:18:54,9    |
 | 177.   | Jan Suchý        | 45:12,7 | 1:37:26,3    |
 | 208.   | Helena Valentová | 47:40,6 | 1:42:58,6    |
 
 Kompletní výsledky naleznete v přiložených souborech.
 
-Přílohy:
---------
+## Přílohy:
 
 - [21 km volně]({static}/static/zima-2011-12/20ft-abs.pdf)
 - [21 km klasicky]({static}/static/zima-2011-12/klasika20km-abs.pdf)

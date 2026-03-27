@@ -5,11 +5,9 @@ Web [VSK MFF UK BL](https://www.hrbatypes.cz)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d141e12-e877-4c09-9e80-ba12c255adb2/deploy-status)](https://app.netlify.com/sites/hrbatypes/deploys)
 
-Instalace
----------
+## Instalace
 
 V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz https://blog.getpelican.com/) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech Markdown - například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
-
 
 Alternativně lze nainstalovat potřebné balíčky do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
 
@@ -19,8 +17,7 @@ pip install pelican Markdown
 
 V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte výše uvedený příkaz.
 
-Spuštění
---------
+## Spuštění
 
 Pelican je generátor statických webových stránek, takže ve výchozím adresáři příkaz `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes` (který lze někam nahrát). Následně můžete spustit server:
 
@@ -46,10 +43,9 @@ Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní 
 python -m http.server
 ```
 
-*Pro pokročilé:* Příkaz `pelican` má několik dalších parametrů, například ``--output``, ``--port`` a především ``--help``.
+_Pro pokročilé:_ Příkaz `pelican` má několik dalších parametrů, například `--output`, `--port` a především `--help`.
 
-Změna obsahu
-------------
+## Změna obsahu
 
 Všechny články se píšou v **Markdownu** (vysvětlení syntaxe viz třeba https://commonmark.org/help/ nebo https://help.gamejolt.com/markdown).
 
@@ -76,11 +72,11 @@ a
 
 ### Poznámky
 
-* Začínejte nadpisem druhé úrovně (první úroveň se použije pro titulek).
+- Začínejte nadpisem druhé úrovně (první úroveň se použije pro titulek).
 
-* Fotky ukládejte v přiměřené velikosti. Pojmenujte je tak, aby se dalo vytušit, k čemu se vztahují.
+- Fotky ukládejte v přiměřené velikosti. Pojmenujte je tak, aby se dalo vytušit, k čemu se vztahují.
 
-* Úvodní stránku nenajdete v `articles`, ale v `pages` (`vitejte.md`).
+- Úvodní stránku nenajdete v `articles`, ale v `pages` (`vitejte.md`).
 
 ### Vyšší (formátovací) dívčí
 

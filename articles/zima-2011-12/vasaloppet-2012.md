@@ -29,4 +29,4 @@ A to je vše, přátelé.
 
 Snad jenom dodám, že fotoalba je k nahlénutí tady: [https://picasaweb.google.com/114366954716465137035/Vasaloppet2012](https://picasaweb.google.com/114366954716465137035/Vasaloppet2012)
 
-*Poznámka (Ferda): Karle pěkné. Za Bolta v cíli máš pochvalu :-). Co se mléka týče (samozřejmě minimálně plnotučného) mají Norové pravdu, jezdí se po něm rychle, ale vypadáš pak v cíli jako Mühlegg či Björndalen. Držím palce ať se na Birkenu daří.*
+_Poznámka (Ferda): Karle pěkné. Za Bolta v cíli máš pochvalu :-). Co se mléka týče (samozřejmě minimálně plnotučného) mají Norové pravdu, jezdí se po něm rychle, ale vypadáš pak v cíli jako Mühlegg či Björndalen. Držím palce ať se na Birkenu daří._

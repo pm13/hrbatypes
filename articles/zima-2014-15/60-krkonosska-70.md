@@ -25,9 +25,9 @@ I poslední dva kopce jsem přežil (na profilu byly jen lehké vlnky - proč by
 
 Vlastně ještě takový detail - zase se ukázalo, že příslušná část Krkonoš je strašně pěkná, i počasí bylo velice hezké. A moc rád jsem se zase jednou unavil na místě, které za to stálo.
 
-| Pořadí   | Jméno        | Čas       | Ztráta    |
-|----------|--------------|-----------|-----------|
-| 7.       | Petr Marhoun | 3:03:02.9 | 0:23:15.3 |
+| Pořadí | Jméno        | Čas       | Ztráta    |
+| ------ | ------------ | --------- | --------- |
+| 7.     | Petr Marhoun | 3:03:02.9 | 0:23:15.3 |
 
 Anna Chejnovská vzdala. Petr Polášek jel anonymně v neznámém týmu, co zvolil výletní tempo - ale i výlet v Krkonoších na 70 km je dost výkon.
 
@@ -35,7 +35,6 @@ Anna Chejnovská vzdala. Petr Polášek jel anonymně v neznámém týmu, co zvo
 
 I z třetího závodu Stopy pro život jsme si odvezli pohár - pro mě byl však první v životě, nepřidal jsem ho ke stovkám starších jako jejich hlavní nabyvatelka.
 
-Přílohy:
---------
+## Přílohy:
 
 - [50 km jednotlivci]({static}/static/zima-2014-15/vysl-20150228-k70-50km-jednotlivci.pdf)

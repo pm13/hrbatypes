@@ -5,7 +5,7 @@ Category: Zima 2016/17
 Author: Petr
 ---
 
-Předposlední večer v roce jsme se konečně dočkali - poprvé vyrazili na otevřený závod. Hned se jednalo o ten velice unikátní - čelovkový Night Light Marathon. Za vynikajících sněhových podmínek jsme očekávali rychlé kilometry i originální zážitky.  A i když mně se často dějí různé věci, někdy se sejdou a je pak o čem psát - dnes tedy o příkořích.
+Předposlední večer v roce jsme se konečně dočkali - poprvé vyrazili na otevřený závod. Hned se jednalo o ten velice unikátní - čelovkový Night Light Marathon. Za vynikajících sněhových podmínek jsme očekávali rychlé kilometry i originální zážitky. A i když mně se často dějí různé věci, někdy se sejdou a je pak o čem psát - dnes tedy o příkořích.
 
 Po zpoždění způsobeném pomalou registrací (v předpokládaném čase startu totiž ještě mnozí neměli číslo) jsme promrzlí vyrazili na trať. První příkoří tudíž nemůže znít jinak než **přepálený start**. Taktika byla jasná - začít dostatečně rychle, abych nebyl někde vzadu a v kopci z Kristiánova pod Holubník mě nezpomalovali soupeři, kteří umí rychle po rovině, ale nahoru již tolik ne.
 
@@ -31,18 +31,16 @@ Dobře, možná těch příkoří nebylo úplně přesně devět - ale takhle to
 
 A ještě shrnutí na závěr - závod byl šíleně hezký, sněhu spousta, lyže krásně jely. Doufám, že za rok se zúčastním zase. A ostatní navíc ještě dosáhli slušných výsledků (viz dále) - i když Ferda má důtku, že jel jen jedno kolo. Proto se budeme pro tentokrát hlásit i ke Kubovi (přece jen má více semestrů na MFF než my tři ostatní dohromady), aby bylo hned vidět, o kolik Ferdu porazil.
 
-Bedřichovský NLM 35 km (volně)
-------------------------------
+## Bedřichovský NLM 35 km (volně)
 
 | Pořadí | Jméno        | Čas      | Ztráta | Mezičas |
-|--------|--------------|----------|--------|---------|
+| ------ | ------------ | -------- | ------ | ------- |
 | 16.    | Petr Polášek | 01:41:22 | 11:28  | 49:12   |
 | 31.    | Petr Marhoun | 01:46:28 | 16:34  | 52:32   |
 
-Bedřichovský NLM 17 km (volně)
-------------------------------
+## Bedřichovský NLM 17 km (volně)
 
 | Pořadí | Jméno             | Čas   | Ztráta |
-|--------|-------------------|-------|--------|
+| ------ | ----------------- | ----- | ------ |
 | 2.     | Jakub Škoda       | 44:45 | 0:33   |
 | 6.     | Ferdinand Polášek | 47:08 | 2:56   |

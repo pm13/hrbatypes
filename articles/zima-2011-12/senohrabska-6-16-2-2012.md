@@ -12,12 +12,11 @@ V cíli čekal na závodníky výborný gulášek a buřty opékané na ohni. Kd
 Komentář ředitele závodu najdete [tady](http://www.lbs-sport.cz/clanky/senohrabska-6ka-vzorne-odjeta.html).
 
 | Pořadí | Jméno            | Čas   | Ztráta |
-|--------|------------------|-------|--------|
+| ------ | ---------------- | ----- | ------ |
 | 1.     | J. Ferda Polášek | 27:22 |        |
 
 Kompletní výsledky jsou v přiloženém souboru.
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2011-12/senohrabska-6-16.2.2012-vysledky.pdf)

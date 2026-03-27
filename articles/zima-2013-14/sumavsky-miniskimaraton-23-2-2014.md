@@ -11,26 +11,23 @@ Zástupci VŠSK MFF UK se sešli v sobotu večer ve Vimperku už v téměř trad
 
 Takže v neděli... tradičně hned poté, co doznělo "Minuta do startu!", bylo odstartováno. Závod to byl krásný, rychlý a s ohledem na množství sněhu - na neuvěřitelně kvalitní trati. Takže vlastně není co dodávat, než zrekapitulovat výsledky:
 
-25 km klasicky
---------------
+## 25 km klasicky
 
 | Pořadí | Jméno                           | Celkový čas | Ztráta    |
-|--------|---------------------------------|-------------|-----------|
+| ------ | ------------------------------- | ----------- | --------- |
 | 37.    | Petr Marhoun                    | 1:18.23.8   | 0:12:38.8 |
 | 74.    | Jan Pipek                       | 1:24:47.9   | 0:19:02.9 |
 | 147.   | Karel Žídek                     | 1:37:32.4   | 0:31:47.4 |
 | 299.   | Jan Kapitán                     | 2:03:35.4   | 0:57:50.4 |
 | 371.   | Jana Preclíková + černý pasažér | 2:21:31.8   | 1:15:46.8 |
 
-Ski prestige trophy team:
--------------------------
+## Ski prestige trophy team:
 
 | Pořadí | Jméno       | Celkový čas | Ztráta    |
-|--------|-------------|-------------|-----------|
+| ------ | ----------- | ----------- | --------- |
 | 5.     | VŠSK MFF UK | 4:20:44.1   | 0:51:46.7 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky muži]({static}/static/zima-2013-14/vysl-20140223-sm-m.pdf)
 - [výsledky ženy]({static}/static/zima-2013-14/vysl-20140223-sm-z.pdf)

@@ -9,16 +9,14 @@ Místo visení na gumicuku v Krkonoších jsem si letos opět zajel oblíbený B
 
 [https://www.strava.com/activities/887163183](https://www.strava.com/activities/887163183)
 
-50 km CT
---------
+## 50 km CT
 
 | Pořadí | Jméno             | Čas     | Ztráta |
-|--------|-------------------|---------|--------|
+| ------ | ----------------- | ------- | ------ |
 | 1.     | ONDRÁŠEK Pavel    | 2:27:35 |        |
 | 6.     | KOWALCZYK Justyna | 2:34:08 | +6:38  |
 | 140.   | FIŠER Jiří        | 3:17:20 | +49:44 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2016-17/01-50CT-OPEN.pdf)

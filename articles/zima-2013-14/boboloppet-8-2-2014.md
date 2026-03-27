@@ -22,11 +22,10 @@ P.P.S. Petrovy zážitky na trati nemohu zprostředkovat, protože se kolem mě 
 ![Petr]({static}/static/zima-2013-14/boboloppet-petr.jpg){: width="500"}
 
 | Pořadí | Jméno        | Čas     | Ztráta   |
-|--------|--------------|---------|----------|
+| ------ | ------------ | ------- | -------- |
 | 8.-9.  | Petr Marhoun | 4:22:25 |          |
 | 82.    | Jan Pipek    | 6:11:04 | +1:48:39 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2013-14/boboloppet-2014.pdf)

@@ -14,7 +14,7 @@ Nahoru ještě led - to mi dost pomohlo, soupaž kopce neumím. Dalších 15 km 
 **Vláďa**: Čvachtačka. Graf HR mluví za vše, nedávám soupaž. Alespoň jsem rychle vyběhl na Cascatu.
 
 | Pořadí | Jméno           | Čas       | Ztráta    | Relativně |
-|--------|-----------------|-----------|-----------|-----------|
+| ------ | --------------- | --------- | --------- | --------- |
 | 1.     | Andreas Nygaard | 2:39:35.0 | 0.0       |           |
 | 40.    | Fabián Štoček   | 2:52:34.0 | 12:59.0   |           |
 | 195.   | Petr Marhoun    | 3:24:42.0 | 45:07.0   | 0.0       |

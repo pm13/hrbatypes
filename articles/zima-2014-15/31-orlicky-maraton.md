@@ -18,7 +18,7 @@ Teď už raději výsledky.
 Sobota - 26 km volně, nastoupáno 800 metrů
 
 | Pořadí     | Jméno           | Čas       | Ztráta    |
-|------------|-----------------|-----------|-----------|
+| ---------- | --------------- | --------- | --------- |
 | 6.         | Ferda Polášek   | 1:22:54,2 | + 2:00,4  |
 | 22.        | Petr Polášek    | 1:30:28,8 | + 9:35,0  |
 | 38.        | Petr Marhoun    | 1:35:34,0 | + 14:40,2 |
@@ -30,7 +30,7 @@ Sobota - 26 km volně, nastoupáno 800 metrů
 Neděle - 40 km klasicky, nastoupáno 1250 metrů
 
 | Pořadí    | Jméno           | Čas                | Ztráta      |
-|-----------|-----------------|--------------------|-------------|
+| --------- | --------------- | ------------------ | ----------- |
 | 4.        | Ferda Polášek   | 2:23:30,1          | + 07:00,4   |
 | 12.       | Petr Marhoun    | 2:30:33,2          | + 14:03,5   |
 | 19.       | Petr Polášek    | 2:34:11,2          | + 17:41,5   |
@@ -41,12 +41,11 @@ Neděle - 40 km klasicky, nastoupáno 1250 metrů
 26 km klasicky
 
 | Pořadí    | Jméno          | Čas       | Ztráta |
-|-----------|----------------|-----------|--------|
+| --------- | -------------- | --------- | ------ |
 | 82. (11.) | Zuzka Vlčková  | 2:11:38,0 |        |
 | 117.      | Kuba Jungwirth | 2:24:56,8 |        |
 
-Přílohy:
---------
+## Přílohy:
 
 - [sobota 26 km]({static}/static/zima-2014-15/sobotavys26abs.pdf)
 - [neděle 40 km]({static}/static/zima-2014-15/nedelevys40abs.pdf)

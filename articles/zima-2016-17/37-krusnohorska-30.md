@@ -19,7 +19,6 @@ Tak za rok snad znovu a i se stejným množstvím sněhu a naší větší úča
 
 Výsledky najdete v přiloženém souboru. O závodě si můžete přečíst i v [Teplickém Deníku](http://teplicky.denik.cz/ostatni_region/lyzari-behem-krusnohorske-tricitky-souperili-take-s-pocasim-20170116.html).
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2016-17/K30-2017.pdf)

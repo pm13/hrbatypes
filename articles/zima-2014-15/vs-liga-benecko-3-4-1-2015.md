@@ -9,13 +9,12 @@ Rok se s rokem sešel a opět přišel čas závodů. Všichni doufali, že sně
 
 V sobotu jsme se marně snažili bruslit na ledu. V neděli po nevydatném sněhovém přídělu se trať trochu prodloužila a my předváděli něco vzdáleně připomínající klasiku.
 
-Sobota 3. 1. 2015 - volný styl
-------------------------------
+## Sobota 3. 1. 2015 - volný styl
 
 ### Muži 8,6 km
 
 | Pořadí | Jméno            | Čas     | Ztráta    |
-|--------|------------------|---------|-----------|
+| ------ | ---------------- | ------- | --------- |
 | 15.    | J. Ferda Polášek | 23:31,2 |           |
 | 17.    | Petr Polášek     | 24:24,3 | + 00:53,1 |
 | 21.    | Petr Marhoun     | 24:47,7 | + 01:16,5 |
@@ -26,17 +25,16 @@ Sobota 3. 1. 2015 - volný styl
 ### Ženy 4,3 km
 
 | Pořadí | Jméno             | Čas     | Ztráta    |
-|--------|-------------------|---------|-----------|
+| ------ | ----------------- | ------- | --------- |
 | 10.    | Anička Chejnovská | 14:02,6 |           |
 | 15.    | Zuzka Vlčková     | 14:55,2 | + 00:52,6 |
 
-Neděle 4. 1. 2015 - klasický styl
----------------------------------
+## Neděle 4. 1. 2015 - klasický styl
 
 ### Muži cca 13 km
 
 | Pořadí | Jméno         | Čas     | Ztráta    |
-|--------|---------------|---------|-----------|
+| ------ | ------------- | ------- | --------- |
 | 7.     | Ferda Polášek | 44:11,2 |           |
 | 15.    | Petr Marhoun  | 45:59,4 | + 01:48,2 |
 | 19.    | Petr Polášek  | 46:37,4 | + 02:26,2 |
@@ -47,13 +45,12 @@ Neděle 4. 1. 2015 - klasický styl
 ### Ženy cca 7,8 km
 
 | Pořadí | Jméno             | Čas     | Ztráta |
-|--------|-------------------|---------|--------|
+| ------ | ----------------- | ------- | ------ |
 | 12.    | Zuzka Vlčková     | 35:08,6 |        |
 | 16.    | Helena Valentová  | 38:54,4 |        |
 | DNF    | Anička Chejnovská |         |        |
 
-Přílohy:
---------
+## Přílohy:
 
 - [sobota - muži]({static}/static/zima-2014-15/vs-liga-benecko-2015-01-03-muzi.pdf)
 - [sobota - ženy]({static}/static/zima-2014-15/vs-liga-benecko-2015-01-03-zeny.pdf)

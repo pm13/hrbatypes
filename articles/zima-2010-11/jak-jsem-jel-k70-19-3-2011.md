@@ -25,18 +25,16 @@ Paradoxně v cíli jsem naopak čekal já na zbytek, ale to bude zřejmě tím, 
 
 "... Vzpomínám, že když jsem poprvé jel 70 (a tehdy to byla opravdu 70! ;-), tak jsem v univerzitním autobuse dostal křeč do obou stehen zezadu, tak jsem rychle vstal, abych svaly natáhl a dostal jsem do obou nohou křeč i zepředu, asi jsem byl jediný, komu to nepřišlo legrační, ale jak jsi napsal, zážitek má být hlavně silný. ..."
 
-Další doplnění - výsledky
--------------------------
+## Další doplnění - výsledky
 
 | Pořadí |                              | Výsledný čas |
-|--------|------------------------------|------------- |
+| ------ | ---------------------------- | ------------ |
 | 1.     | XG BAHNHOF APOTHEKE KEMPLEN  | 3:13:09      |
 | ...    |                              |              |
 | 80.    | HRBATÝ PES VŠSK MFF UK PRAHA | 4:53:33      |
 
 Kompletní výsledky jsou v příloze.
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2010-11/k70-oficialni-vysledkova-listina-2011.pdf)

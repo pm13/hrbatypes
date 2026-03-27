@@ -16,11 +16,9 @@ A teď již raději necháme mluvit raději mluvit data.
 
 Změny vyhrazeny, případné další závody budou doplněny v průběhu podzimu a zimy.
 
-Soustředění, prosinec, bouda Berta (u Hesounů)
-----------------------------------------------
+## Soustředění, prosinec, bouda Berta (u Hesounů)
 
-VŠ Liga
--------
+## VŠ Liga
 
 - **1. kolo** 11. - 12. prosince, SK Rover, Jáchymov - Eduard
 - **2. kolo** 7. - 8. ledna, FEL, Jilemnice/Benecko
@@ -28,8 +26,7 @@ VŠ Liga
 - **4. kolo** 14. - 16. února, Akademické MČR, Nové Město na Moravě
 - **5. kolo** 11. - 12. března, Tygří skiatlon. Břízky
 
-Něco pro dálkoplazy
--------------------
+## Něco pro dálkoplazy
 
 ### Seriál [SKI-TOUR](http://www.ski-tour.cz/cs/zavody)
 
@@ -47,8 +44,7 @@ Něco pro dálkoplazy
 - 32\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 25. - 26. února, Kvilda
 - 62\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 4. března, Špindlerův Mlýn
 
-Ostatní závody hodné vážného zřetele
-------------------------------------
+## Ostatní závody hodné vážného zřetele
 
 ### 37. [Krušnohorská 30](http://k30.cz/), 14. - 15. ledna, Nové Město v Krušných horách
 
@@ -75,7 +71,6 @@ Ostatní závody hodné vážného zřetele
 
 ### [Skadi Loppet](http://www.skadi-loppet.de/en/home.html), 18. - 19. března, Velký Javor
 
-A ještě odkaz, na konkurenční listinu dálkových běhů:
------------------------------------------------------
+## A ještě odkaz, na konkurenční listinu dálkových běhů:
 
 [http://skinordic.cz/cz/homepage/default/17/terminovky](http://www.skinordic.cz/cz/homepage/default/64/dalkove-behy)

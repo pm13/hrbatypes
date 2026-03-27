@@ -16,11 +16,10 @@ Na start dlouhé trati Jesenické 70 se nakonec postavilo pouhých 84 závodník
 Dál se během závodu neudálo nic moc zajímavého. Snad mě jen překvapilo, že ve sjezdu na Červenohorské sedlo kolem mě prosvištěli dva závodníci. Čili máza se do kopce chovala, jako kdybych jel na hladkých lyžích a z kopce to rozhodně jak na hladkých lyžích nejelo. Z Červenohorského sedla následovalo několik "krásných" stromečkových i ne-stromečkových, pro mě soupažových stoupání a pak již "jen" sjezd z hřebene Jeseníků na Alfrédku. Sjezd rozhodně nepatřil k těm nejsnazším. Několikrát jsem se viděl na zemi. To když jsem na muldách připomínající skokánky na sjezdovce létal vzduchem a nekontrolovaně se řítil z kopce bez možnosti zastavit jinak než pádem. Vše se mi ale podařilo ustát a nejhorší část sjezdu korytem pod Jelení Studánkou jsem již raději seběhl po svých. Od Alfrédky jsme se ještě všichni museli potrápit nekonečnou soupaží do mírného kopce na nejedoucím sněhu a pak už čekal jen závěrečný sjezd do cíle. V cílové rovince, o které jsem nevěděl, že je cílová, mě ještě předjel Petr Vlček a já dojel na 10. místě v čase 5:03 se ztrátou 32 minut. Petr dojel zanedlouho po mě na 12. místě v čase 5:13.
 
 | Pořadí | Jméno        | Skř-Ovč     | Ovč-Sed     | Sed-Ovč     | Ovč-Skř     | Celkem      | Odstup      |
-|--------|--------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| ------ | ------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 10.    | Polášek Petr | 01:45:32.36 | 00:48:21.30 | 01:01:54.01 | 01:27:16.92 | 05:03:04.59 | 00:32:18.68 |
 | 12.    | Marhoun Petr | 01:53:44.57 | 00:48:59.90 | 01:04:21.03 | 01:26:52.60 | 05:13:58.10 | 00:43:12.19 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2014-15/vysledky-70-celkove.pdf)

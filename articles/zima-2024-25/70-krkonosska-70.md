@@ -20,12 +20,11 @@ Zkrátili nám to - tak jsme jim museli ujet rychleji 😃
 S kucímá jsme to obhájili!
 
 | Pořadí | Jméno             | Čas       | Ztráta |
-|--------|-------------------|-----------|--------|
+| ------ | ----------------- | --------- | ------ |
 | 1.     | VSK MFF UK        | 3:11:20.4 |        |
 | 2.     | Žižkovský tygři B | 3:15:58.6 | 4:38.2 |
 | 3.     | KST Team A        | 3:17:00.1 | 5:39.7 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2024-25/krkonosska-70.pdf)

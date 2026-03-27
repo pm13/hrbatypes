@@ -12,7 +12,7 @@ Author: Petr
 Takže očekávání byla složitá. Nakonec se celkem jet dalo - ale moc jsem slabším nepomohl, spíše se vozil. Snad jsem však naopak příliš neškodil - s výjimkou dvou pádů na trati (děkuji za pomoc s dotažením skupiny po tom prvním!).
 
 | Pořadí | Jméno              | Čas       | Ztráta  |
-|--------|--------------------|-----------|---------|
+| ------ | ------------------ | --------- | ------- |
 | 1.     | Kasper - Swix Team | 3:57:55.1 | 00:00.0 |
 | 2.     | VSK MFF UK         | 4:00:08.3 | 02:13.2 |
 | 3.     | Žižkovský Tygři B  | 4:11:02.4 | 13:07.3 |
@@ -27,7 +27,6 @@ Takže očekávání byla složitá. Nakonec se celkem jet dalo - ale moc jsem s
 
 ![medaile]({static}/static/zima-2019-20/k70-5.jpg){: width="600"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2019-20/20200307-k70-vysl-hlidky-70km.pdf)

@@ -7,7 +7,7 @@ Author: Petr
 
 Úvodní varianta od Honzy (následně se totiž nehodlám odchylovat od pravidla, že přesnost je podstatnější než stručnost nebo pochopitelnost):
 
-*Jen stručně (zatím). Petr vyhrál. Jakože úplně. Dalších komentářů asi není třeba dodávat.*
+_Jen stručně (zatím). Petr vyhrál. Jakože úplně. Dalších komentářů asi není třeba dodávat._
 
 Cesta k prvnímu (a mám obavu, že i poslednímu) vítězství v obsazenějším závodě začala už loni. To mi totiž jeden z účastníků, kterého jsem (dvakrát) předjížděl, v cíli radil: "Nemůžeš se přece takhle zastavovat, když jezdíš celkem hezky - jíst i pít musíš za jízdy! A hlavně je potřeba vyrazit včas, ideálně hned v osm - ráno jedeš rychleji, odpoledne na rozměklém sněhu už tolik ne."
 
@@ -31,35 +31,31 @@ Ale i z náhradního úspěchu jsem měl obrovskou radost. Jen jsem měl trochu 
 
 Druhý den jsme sice nevyhráli - ale následnou pečlivou analýzou kontrol navštívených soupeři jsem si ověřil, že naše trasa byla ze všech nejhezčí. Počasí i příroda tomu hodně napomohli - a ani tolik nevadilo, že jsem během prvního kilometru ztratil bodovací tabulku. Jen ta Zuzka mi trochu pokazila plány - jela tak rychle a dobře, až mi došli kontroly a skončili jsme hodně dlouho před termínem. Ale přesto jsme si i nedělní závod velice užili jak my, tak určitě i další uvedení v následných výsledcích.
 
-Boboloppet
-----------
+## Boboloppet
 
 | Pořadí             | Jméno         | Čas     | Ztráta    |
-|--------------------|---------------|---------|-----------|
+| ------------------ | ------------- | ------- | --------- |
 | 1.                 | Petr Marhoun  | 5:03:30 |           |
 | 13. (3. v klasice) | Ferda Polášek | 5:29:42 | ₊ 26:12   |
 | 53.                | Honza Pipek   | 6:30:43 | + 1:27:13 |
 
-Bedřichovská pětihodinovka - kategorie MM
------------------------------------------
+## Bedřichovská pětihodinovka - kategorie MM
 
-| Pořadí   | Jména                                | Body   | Čas     |
-|----------|--------------------------------------|--------|---------|
-| 6.       | Fišer Jiří / Hanslian David          | 600.   | 4:58:15 |
-| 7.       | Polášek Jan Ferdinand / Polášek Petr | 540.   | 4:52:55 |
+| Pořadí | Jména                                | Body | Čas     |
+| ------ | ------------------------------------ | ---- | ------- |
+| 6.     | Fišer Jiří / Hanslian David          | 600. | 4:58:15 |
+| 7.     | Polášek Jan Ferdinand / Polášek Petr | 540. | 4:52:55 |
 
-Bedřichovská pětihodinovka - kategorie MD
------------------------------------------
+## Bedřichovská pětihodinovka - kategorie MD
 
-| Pořadí   | Jména                         | Body   | Čas     |
-|----------|-------------------------------|--------|---------|
-| 9.       | Marhoun Petr / Vlčková Zuzana | 400.   | 4:22:00 |
-| 14.      | Kudrnová Anna / Pipek Jan     | 320.   | 4:56:55 |
+| Pořadí | Jména                         | Body | Čas     |
+| ------ | ----------------------------- | ---- | ------- |
+| 9.     | Marhoun Petr / Vlčková Zuzana | 400. | 4:22:00 |
+| 14.    | Kudrnová Anna / Pipek Jan     | 320. | 4:56:55 |
 
 ![vyhlášení]({static}/static/zima-2014-15/boboloppet-2015.jpg){: width="600"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [B5h]({static}/static/zima-2014-15/b5h-2015.pdf)
 - [Boboloppet]({static}/static/zima-2014-15/boboloppet-2015.pdf)

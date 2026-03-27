@@ -11,7 +11,7 @@ Sněhu bylo na Polevsku hodně, ale předpověď s teplotami nad nulou nevěšti
 
 ![lyže s kožíškem]({static}/static/zima-2018-19/polevsko-lyze.jpg){: width="550"}
 
-Ty krásně stoupou úplně na všem :-), otázkou jen je zda pojedou i z kopce. Po příjezdu do Lužických hor se ukázalo, že mít skiny byla výhra. Na Jedličné bylo lehce nad nulou, stopa řádně umydlená.  Ti co mazali zoufale koukali na klistry a pevné vosky. Někdo zvolil tuhé vosky, jiný klistry (lepší volba) ale vyhrál Ferda s kožíškem. Nejprudší stoupání jsem vyšel v pohodě rovně a lyže v porovnání s hladkými jely stejně rychle tak nebylo co řešit a první závod na "turistických" lyžích se přiblížil. Byl jsem hodně napjatý, zvlášť když tu byli soupažisti na hladkých lyžích.
+Ty krásně stoupou úplně na všem :-), otázkou jen je zda pojedou i z kopce. Po příjezdu do Lužických hor se ukázalo, že mít skiny byla výhra. Na Jedličné bylo lehce nad nulou, stopa řádně umydlená. Ti co mazali zoufale koukali na klistry a pevné vosky. Někdo zvolil tuhé vosky, jiný klistry (lepší volba) ale vyhrál Ferda s kožíškem. Nejprudší stoupání jsem vyšel v pohodě rovně a lyže v porovnání s hladkými jely stejně rychle tak nebylo co řešit a první závod na "turistických" lyžích se přiblížil. Byl jsem hodně napjatý, zvlášť když tu byli soupažisti na hladkých lyžích.
 
 Na startu se sešla tentokráte menší konkurence než naposledy, ale i tak tu byli dobří lyžaři. Startovní pozici jsem získal skvělou, soupeři mne s úctou pustili do první lajny, tak to má být.
 
@@ -31,7 +31,6 @@ V neděli naštěstí žádný závod nebyl, protože jsem byl opět totálně z
 
 ![stromy]({static}/static/zima-2018-19/polevsko-stromy.jpg){: width="400"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2018-19/vysledky-polevska-lyze-2019.pdf)

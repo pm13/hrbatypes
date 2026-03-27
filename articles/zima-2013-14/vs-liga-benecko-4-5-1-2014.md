@@ -19,13 +19,12 @@ Seznam pro Zuzku: čeho se vyvarovat a co zlepšit při fandění:
 
 Přes veškeré poučky se nejlepší fandící větou závodu stalo: "Jeď, nebo tě píchnu hůlkou do zadku!"
 
-Sobota 4. 1. 2014 - volně
--------------------------
+## Sobota 4. 1. 2014 - volně
 
 ### Muži 10 km
 
 | Pořadí | Jméno        | Čas     | Ztráta   |
-|--------|--------------|---------|----------|
+| ------ | ------------ | ------- | -------- |
 | 32.    | Petr Marhoun | 21:00.9 |          |
 | 33.    | Petr Polášek | 21:05.2 | + 4.3    |
 | 42.    | Jiří Fišer   | 22:09.1 | + 1:08.2 |
@@ -34,18 +33,17 @@ Sobota 4. 1. 2014 - volně
 ### Ženy 5 km
 
 | Pořadí | Jméno               | Čas     | Ztráta   |
-|--------|---------------------|---------|----------|
+| ------ | ------------------- | ------- | -------- |
 | 16.    | Zuzana Vlčková      | 16:32.0 |          |
 | 17.    | Anna Chejnovská     | 16:33.7 | + 1.7    |
 | 26.    | Tereza Steinhartová | 21:15.8 | + 4:43.8 |
 
-Neděle 5. 1. 2014 - klasicky
-----------------------------
+## Neděle 5. 1. 2014 - klasicky
 
 ### Muži 10 km
 
 | Pořadí | Jméno        | Čas     | Ztráta |
-|--------|--------------|---------|--------|
+| ------ | ------------ | ------- | ------ |
 | 16.    | Petr Polášek | 23:03.9 |        |
 | 20.    | Petr Marhoun | 23:14.6 | + 10.7 |
 | 23.    | Jiří Fišer   | 23:35.8 | + 31.9 |
@@ -53,12 +51,11 @@ Neděle 5. 1. 2014 - klasicky
 ### Ženy 5 km
 
 | Pořadí | Jméno           | Čas     | Ztráta |
-|--------|-----------------|---------|--------|
+| ------ | --------------- | ------- | ------ |
 | 13.    | Anna Chejnovská | 20:00.6 |        |
 | 14.    | Zuzana Vlčková  | 20:44.2 | + 43.6 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [sobota muži]({static}/static/zima-2013-14/vs-liga-benecko-2014-01-04-muzi.pdf)
 - [sobota ženy]({static}/static/zima-2013-14/vs-liga-benecko-2014-01-04-zeny.pdf)

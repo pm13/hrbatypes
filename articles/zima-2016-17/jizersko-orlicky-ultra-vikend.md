@@ -21,7 +21,7 @@ Den před závodem jsem si koupil **láhev "finisher" ve zlaté barvě**. Před 
 
 Již o týden dříve jsem si **koupil novou ledvinku** - byl to již třetí pokus, sice nejúspěšnější, ale stejně byla horší než obě, které jsem měl v některých z předchozích ročníků půjčené. Již po sto metrech mi z ní vypadla láhev, čímž jsem ztratil kontakt s Ferdou a následně mnohé síly neúspěšným pokusem o dojetí. Při prvním skutečném napití mi pak vypadla znovu, dokonce v mírném sjezdu (musel jsem se vrátit) - naštěstí jsem pak vyvinul použitelný způsob, totiž ukládat jí hrdlem dolů. Úkol pro další zimu je jasný - **koupit si další ledvinku**.
 
-K první kontrole byl tento pokyn: *"... na Hrabětické louce přímo na křižovatce, závod uhýbá doleva na Jabloneckou chatu, rovně se jede na Kapličku."* Jinými slovy: Jede se tak dlouho rovně směrem na Kapličku, dokud nebude vedle cesty kontrola, pak se zahne vlevo. **Těch hlupáků, kteří se drželi za účastníkem s číslem 3** (které zní zkušeně) a v dresu s textem MFF UK (možná neviděli?) a jeli rovně a rovně daleko za odbočku, ale bylo! (Pět až deset?) Kteří si kvůli husté mlze nevšimli, že kontrola nebyla na odbočce, ale až o několik desítek metrů dále u přejezdu silnice!
+K první kontrole byl tento pokyn: _"... na Hrabětické louce přímo na křižovatce, závod uhýbá doleva na Jabloneckou chatu, rovně se jede na Kapličku."_ Jinými slovy: Jede se tak dlouho rovně směrem na Kapličku, dokud nebude vedle cesty kontrola, pak se zahne vlevo. **Těch hlupáků, kteří se drželi za účastníkem s číslem 3** (které zní zkušeně) a v dresu s textem MFF UK (možná neviděli?) a jeli rovně a rovně daleko za odbočku, ale bylo! (Pět až deset?) Kteří si kvůli husté mlze nevšimli, že kontrola nebyla na odbočce, ale až o několik desítek metrů dále u přejezdu silnice!
 
 Ty silnice byly letos hodně zákeřné, jak jsme na nich tentokrát museli sundavat lyže. Tam jsem vždy ztrácel - nejvíce na Václavíkově studánce (podle dat rovnou minutu proti Ferdovi), kde jsem dokonce musel **odepnout hůlku**, abych botu dostatečně očistil.
 
@@ -41,35 +41,31 @@ Až moc brzy - další drobné příkoří bylo, že jsme **dorazili jen pár mi
 
 Naštěstí to tolik nevadilo - za chvíli jsem totiž zjistil, že **sobota mi nějak sebrala veškerou sílu**. A sice jsem nejdříve předjížděl mnohé soupeře - ale časem jsem dojel takové, kteří mi sice stále připadali pomalí, překonat jsem je však ten den nedokázal. V prvních větších kopcích se to sice ještě trochu přeskupilo (ti na hladkých za mě, pár rychlejších lyžařů s opravdu pomalým startem přede mě) - mezi desátým a patnáctým kilometrem jsem již zcela osaměl, jen turisty jsem vídal.
 
-Po dvacítce se změnil charakter tratě - po dlouhé rovince přichází konečně moc hezké stoupání. A jestli jsem si předtím nebyl jistý - tak v té době jsem opravdu začal být rád, že jsem do Orlických hor přijel, velice krásně tam bylo! Dvě medailistky jsem v kopcích minul, ale jinak jel stále sám. Cíl se rychle blížil -  mohl být tedy o sto metrů dál, ještě jednoho jsem mohutně sjížděl (respektive on sotva dojížděl), ale poslední sekundu si dokázal pohlídat. Za chvíli dorazili i Jirka a pak Tomáš - **moc vydařený víkend to byl!**
+Po dvacítce se změnil charakter tratě - po dlouhé rovince přichází konečně moc hezké stoupání. A jestli jsem si předtím nebyl jistý - tak v té době jsem opravdu začal být rád, že jsem do Orlických hor přijel, velice krásně tam bylo! Dvě medailistky jsem v kopcích minul, ale jinak jel stále sám. Cíl se rychle blížil - mohl být tedy o sto metrů dál, ještě jednoho jsem mohutně sjížděl (respektive on sotva dojížděl), ale poslední sekundu si dokázal pohlídat. Za chvíli dorazili i Jirka a pak Tomáš - **moc vydařený víkend to byl!**
 
 ![Tomáš]({static}/static/zima-2016-17/orlicak-tomas.jpg){: width="400"}
 
-Boboloppet 90 km volně
-----------------------
+## Boboloppet 90 km volně
 
 | Pořadí | Jméno             | Čas      |
-|--------|-------------------|----------|
+| ------ | ----------------- | -------- |
 | 1.     | Ferdinand Polášek | 04:35:30 |
 | 3.     | Petr Marhoun      | 04:54:45 |
 
-Orlický maraton 20 km volně
----------------------------
+## Orlický maraton 20 km volně
 
 | Pořadí | Jméno      | Čas      |
-|--------|------------|----------|
+| ------ | ---------- | -------- |
 | 81.    | Tomáš Rusý | 01:19:25 |
 
-Orlický maraton 40 km klasicky
-------------------------------
+## Orlický maraton 40 km klasicky
 
 | Pořadí | Jméno        | Čas      |
-|--------|--------------|----------|
+| ------ | ------------ | -------- |
 | 38.    | Petr Marhoun | 02:23:22 |
 | 56.    | Jiří Fišer   | 02:30:05 |
 | 99.    | Tomáš Rusý   | 02:42:18 |
 
-Přílohy:
---------
+## Přílohy:
 
 - [BoBoloppet - celkové výsledky]({static}/static/zima-2016-17/BoBoloppet2017-celkem.pdf)

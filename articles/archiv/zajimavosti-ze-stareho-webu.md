@@ -4,36 +4,30 @@ Date: 2011-01-01 00:00
 Category: Archív
 ---
 
-Tonda nevyjednává!
-------------------
+## Tonda nevyjednává!
 
 ![velmi vážný Tonda]({static}/static/archiv/zajimavosti-ze-stareho-webu/tonda-serious.jpg)
 
-Katko, pohlídala sis skutečně všechny soupeřky?
------------------------------------------------
+## Katko, pohlídala sis skutečně všechny soupeřky?
 
 ![vítězící Katka]({static}/static/archiv/zajimavosti-ze-stareho-webu/katerina.jpg)
 
 ...u příležitosti velkého vítězství
 
-Teoretická příprava
--------------------
+## Teoretická příprava
 
 ![teoretická příprava]({static}/static/archiv/zajimavosti-ze-stareho-webu/teorie.jpg)
 
-Obíhačka
---------
+## Obíhačka
 
 ![obíhačka]({static}/static/archiv/zajimavosti-ze-stareho-webu/obihacka.gif)
 
-Protestujeme!
--------------
+## Protestujeme!
 
 ![demonstrace za sníh]({static}/static/archiv/zajimavosti-ze-stareho-webu/protest.jpg)
 
 ...když nechtělo napadnout
 
-Cesta k vítězství
------------------
+## Cesta k vítězství
 
 ![cesta k vítězství]({static}/static/archiv/zajimavosti-ze-stareho-webu/jak-vyhrat.jpg)

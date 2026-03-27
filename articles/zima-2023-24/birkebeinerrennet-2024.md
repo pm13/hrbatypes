@@ -10,6 +10,7 @@ Author: Petr
 Byla to určitá komplikace z hlediska logistiky - v sobotu jsme přejížděli od startu k cíli. Takže jsme to neměli na start pár kilometrů, ale vzbudil jsem se po třetí, abych stihl autobus ve 4:30. V závodě mi šel běh s lyžemi po otevření vlny, první dlouhý kopec a prudké sjezdy za Šúšnem. Všude jinde jsem byl zcela nekonkurenceschopný - vzpomínal jsem na řeči kluků po Vasáku, že i já se za celý závod ani jednou nesvezl ve skupině, s dnešními lyžemi to prostě nešlo. Ale bylo fakt krásně a alespoň jsem se zbytečně neunavil před týdnem v Norsku 😄
 
 Poučení:
+
 - skoro pět hodin mezi snídaní a startem je moc
 - i malý lyžařský batůžek by měl mít bederní pás
 - mít na tuto podmínku lyže náhodně vybrané ve sklepě v Jablonci, staré už v té době a ještě trochu poškozené, možná není ideální 🙃
@@ -23,7 +24,7 @@ Zatímco Norové vozí v batohu své Hackony, my Češi máme jiné národní po
 Po debutu na Orlickém půlmaratonu (20km) jsem letos absolvoval Mísečky (30), teď Birken (54), takže příští rok to vidím na Krkonošskou 70, Vasallopet a můžu spokojeně ukončit svou lyžařskou kariéru 😁
 
 | Pořadí | Jméno           | Čas     | Ztráta   |
-|--------|-----------------|---------|----------|
+| ------ | --------------- | ------- | -------- |
 | 1.     | Torleif Syrstad | 2:23:56 |          |
-| 476.   | Petr Marhoun    | 3:15:10 |   +51:14 |
+| 476.   | Petr Marhoun    | 3:15:10 | +51:14   |
 | 4506+. | David Surma     | 5:58:36 | +3:34:40 |

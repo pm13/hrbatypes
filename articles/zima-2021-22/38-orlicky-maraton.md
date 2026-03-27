@@ -22,7 +22,7 @@ Ale dobře to dopadlo! Hodně jsem trpěl v kopci z luk nahoru - střídal skák
 ### 20 km volně
 
 | Pořadí | Jméno        |
-|--------|--------------|
+| ------ | ------------ |
 | DNF    | Petr Marhoun |
 
 ![Zlomená hůlka z Orličáku]({static}/static/zima-2021-22/orlicak-zlomena-hulka.jpg){: width="400"}
@@ -30,12 +30,12 @@ Ale dobře to dopadlo! Hodně jsem trpěl v kopci z luk nahoru - střídal skák
 ### 40 km klasicky
 
 | Pořadí | Jméno        | Čas       | Ztráta  | Relativně |
-|--------|--------------|-----------|---------|-----------|
+| ------ | ------------ | --------- | ------- | --------- |
 | 5.     | Petr Marhoun | 2:24:06.0 | 12:38.0 | 00:00.0   |
 | 11.    | Tomáš Rusý   | 2:34:55.0 | 23:27.0 | 10:49.0   |
 
 ### 20 km klasicky
 
 | Pořadí | Jméno       | Čas       | Ztráta    |
-|--------|-------------|-----------|-----------|
+| ------ | ----------- | --------- | --------- |
 | 84.    | David Surma | 2:19:40.0 | 1:11:05.0 |

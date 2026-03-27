@@ -30,16 +30,15 @@ Konečně to tam padlo … hlavní je že to bylo perfektní lyžování, manzes
 Podpořit kluky na nyní už konečném tažení za vítězstvím 🥳🥳, sám si přitom hrábnout na dno 😀 na konci už jsem byl teda v libovým uhlí, možná to nějak gelík na cestu chtělo 🤷‍♂️ a v závěrečným sjezdíku se ani lyže moc nepředvedly a dva kluci mě předjeli, tak trochu škoda, placka nebyla daleko 😀
 
 | Pořadí | Jméno             | Čas       | Ztráta  |
-|--------|-------------------|-----------|---------|
+| ------ | ----------------- | --------- | ------- |
 | 1.     | VSK MFF UK        | 3:49:05.3 | 00:00.0 |
 | 2.     | Žižkovští Tygři B | 3:56:41.3 | 07:35.9 |
 | 3.     | Kasper Swix Team  | 4:00:29.5 | 11:24.1 |
 
-Jednotlivci 50 km
------------------
+## Jednotlivci 50 km
 
 | Pořadí | Jméno      | Čas       | Ztráta  |
-|--------|------------|-----------|---------|
+| ------ | ---------- | --------- | ------- |
 | 5.     | Tomáš Rusý | 2:58:59.6 | 07:04.7 |
 
 ![z trasy]({static}/static/zima-2022-23/k70-z-trasy-1.jpg){: width="650"}
@@ -50,8 +49,7 @@ Jednotlivci 50 km
 
 ![pohár]({static}/static/zima-2022-23/k70-pohar.jpg){: width="450"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2022-23/20230304-spz-k70-hlidky.pdf)
 - [výsledky 50 km jednotlivci]({static}/static/zima-2022-23/20230304-spz-k70-jednotlivci-50km.pdf)

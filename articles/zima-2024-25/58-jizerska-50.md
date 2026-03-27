@@ -18,7 +18,7 @@ Jinak, no asi to čekáte, ale lyžemi jsem už zatopil. Takhle tragické lyže 
 **David**: Nejtěžší bylo odolat tomu pivu na Jizerce 🤷‍♂️ zase předjeto přes tisíc lidí... že by naposledy? 🤔😁
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Relativně | Knejpa  | Jizerka   | Smědava   | Hřebínek  |
-|--------|-----------------------|-----------|-----------|-----------|---------|-----------|-----------|-----------|
+| ------ | --------------------- | --------- | --------- | --------- | ------- | --------- | --------- | --------- |
 | 1.     | Ole Joergen Bruvoll   | 1:51:16.0 | 0.0       |           | 30:11.0 | 56:00.0   | 1:19:36.0 | 1:34:11.0 |
 | 34.    | Fabian Stocek         | 1:58:08.0 | 6:52.0    |           | 31:02.0 | 57:35.0   | 1:23:03.0 | 1:39:12.0 |
 | 123.   | Petr Marhoun          | 2:20:13.0 | 28:57.0   | 0.0       | 38:25.0 | 1:09:01.0 | 1:39:38.0 | 1:58:07.0 |

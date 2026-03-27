@@ -10,13 +10,12 @@ Author: Petr
 **Honza:** Pošesté, s novými lyžemi, na rychlém sněhu. Celkem fajn.
 
 | Pořadí | Jméno        | Čas       | Ztráta    |
-|--------|--------------|-----------|-----------|
+| ------ | ------------ | --------- | --------- |
 | 1.     | Petr Marhoun | 4:15:11.1 | 00:00.0   |
 | 100.   | Jan Pipek    | 5:58:49.9 | 1:43:38.8 |
 
 ![Nad Jabloncem]({static}/static/zima-2021-22/boboloppet-nad-jabloncem.jpg){: width="650"}
 
-Přílohy:
---------
+## Přílohy:
 
 - [výsledky]({static}/static/zima-2021-22/BoBoloppet-2022.xls)

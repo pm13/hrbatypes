@@ -11,8 +11,7 @@ Výsledky nejsou tedy úplně srovnatelné, vyjel jsem alespoň prvních pět ne
 
 Z důvodů, které nechápu, nebyla účast vysoká - smutné, že se další nepřidali :(
 
-Jilemnická 50 - 45 km
----------------------
+## Jilemnická 50 - 45 km
 
 **Petr:** Chtěl jsem začít s tygry - ale nepovedlo se mi. Což se ukázalo, že bylo spíše dobře - bezpečnější zatím ještě jezdit pod své (i ty aktuální chabé) možnosti. Na konci jsem byl slabý jak moucha. Celou dobu sám, nikdo mě nepředjel.
 
@@ -27,7 +26,7 @@ Celkově rozhodně opravdu moc krásné!
 **Ferdinand Polášek:** Nazdar Jarda Ehl, to mě ani nepřekvapuje, proste typický Petr 😀, asi dával příležitost soupeřům ho virtuálně porazit 😀
 
 | Pořadí | Jméno          | Čas       | 1. mezičas | 2. mezičas | 3. mezičas |
-|--------|----------------|-----------|------------|------------|------------|
+| ------ | -------------- | --------- | ---------- | ---------- | ---------- |
 | 1.     | Michal Francke | 2:26:36.3 | 0:12:00.2  | 1:00:06.1  | 1:49:42.4  |
 | 2.     | Martin Sajdl   | 2:31:00.8 | 0:12:00.2  | 1:00:43.6  | 1:52:30.5  |
 | 3.     | Jaroslav Ehl   | 2:35:22.4 | 0:12:33.0  | 1:03:28.2  | 1:56:16.8  |
@@ -37,18 +36,19 @@ Celkově rozhodně opravdu moc krásné!
 ![Jilemnická 50]({static}/static/zima-2020-21/jilemnicka-50.jpg){: width="600"}
 
 36. Šumavský skimaraton - 24 km
--------------------------------
+
+---
 
 **Petr:** Počtrnácté v řadě. Zima bez sněhu? Epidemie? Stejně se jede!
 
 Včera při prohlídce trati velké spekulace, co namazat. Ideální silné ruce, ale ty jsem si nevzal. Nakonec jenom klistr, nepřekrýval jsem - v rámci možností šlo. I když druhá Černá hora ideální nebyla, na ledu jsem se moc neodrazil.
 
-*/\* Později v chatu Ferdovi \*/* Velké selhání. Nechal jsem ti Černou horu zpátky o sekundu. Když mně to tam prostě vůbec nestoupalo :(
+_/\* Později v chatu Ferdovi \*/_ Velké selhání. Nechal jsem ti Černou horu zpátky o sekundu. Když mně to tam prostě vůbec nestoupalo :(
 
 **Ferda:** Nejen, že jsi ztratil sekundu na mě, ale co ty sekundy na ty dva kašpárky před tebou?
 
 | Pořadí | Jméno         | Čas       | 1. mezičas |
-|--------|---------------|-----------|------------|
+| ------ | ------------- | --------- | ---------- |
 | 1.     | Štěpán Holý   | 1:10:05.9 | 0:33:26.2  |
 | 2.     | Ondřej Teplý  | 1:10:13.2 | 0:33:46.9  |
 | 3.     | Petr Marhoun  | 1:10:54.9 | 0:33:32.1  |

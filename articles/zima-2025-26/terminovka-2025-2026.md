@@ -25,9 +25,9 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [Bedřichovský Night Light Marathon](https://stopaprozivot.cz/zavody/bnlm/propozice), 9. - 10. ledna, Bedřichov
-- [Karlův běh](https://stopaprozivot.cz/zavody/cardion-karluv-beh/propozice), 14. - 15. února, Boží Dar
+- [Karlův běh](https://stopaprozivot.cz/zavody/cardion-karluv-beh/propozice), 14. - 15. února, Boží Dar - _zrušeno_
 - [Šumavský skimaraton](https://stopaprozivot.cz/zavody/sumavsky-skimaraton-nova-sport/propozice), 21. - 22. února, Kvilda
-- [Krkonošská 70](https://stopaprozivot.cz/zavody/krkonosska-70/propozice), 8. března, Špindlerův Mlýn
+- [Krkonošská 70](https://stopaprozivot.cz/zavody/krkonosska-70/propozice), 8. března, Špindlerův Mlýn - _zrušeno_
 
 ## Ostatní závody hodné vážného zřetele
 
@@ -45,7 +45,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Hojnovodská Zlatá lyže](https://www.hojna-voda.eu/index.php/akce/hojna-voda-2/hojnovodska-zlata-lyze-2026), 8. února, Hojná Voda
 
-### [Krušnohorská 30](https://k30.online/), 14. - 15. února, Nové Město v Krušných horách
+### [Krušnohorská 30](https://k30.online/), 14. - 15. února, Nové Město v Krušných horách - _zrušeno_
 
 ### [JeLyMan](https://jelyman.ssu.cz/), 21. - 22. února, Paprsek
 

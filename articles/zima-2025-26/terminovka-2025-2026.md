@@ -45,7 +45,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Hojnovodská Zlatá lyže](https://www.hojna-voda.eu/index.php/akce/hojna-voda-2/hojnovodska-zlata-lyze-2026), 8. února, Hojná Voda
 
-### [Krušnohorská 30](https://k30.online/), 14. - 15. února, Nové Město v Krušných horách - _zrušeno_
+### [Krušnohorská 30](https://k30.online/), 21. - 22. února, Nové Město v Krušných horách
 
 ### [JeLyMan](https://jelyman.ssu.cz/), 21. - 22. února, Paprsek
 

@@ -1,6 +1,6 @@
 ---
 Title: Polevská lyže 2026
-Date: 2026-04-06 13:34
+Date: 2026-04-06 14:08
 Category: Zima 2025/26
 Author: Petr
 ---

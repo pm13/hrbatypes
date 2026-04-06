@@ -20,6 +20,6 @@ Nakonec nejlepší část byla Cascata, s namazaným lepidlem za odměnu 😊
 | Pořadí | Jméno          | Čas       | Ztráta    | Relativně |
 | ------ | -------------- | --------- | --------- | --------- |
 | 1.     | Kasper Stadaas | 3:30:03.6 | 0.0       |           |
-| 22.    | Fabian Stocek  | 3:30:56.3 | 52.7      |           |
+| 22.    | Fabián Štoček  | 3:30:56.3 | 52.7      |           |
 | 232.   | Petr Marhoun   | 3:57:08.4 | 27:04.8   | 0.0       |
 | 2284.  | David Surma    | 6:49:41.6 | 3:19:38.0 | 2:52:33.2 |

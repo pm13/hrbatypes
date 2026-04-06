@@ -5,7 +5,7 @@ Category: Zima 2024/25
 Author: Petr
 ---
 
-### Skate
+## Skate
 
 **Ferda:** ☀️ - 5. a 🥈 v kategorii
 
@@ -16,7 +16,7 @@ Lyže dobrý, stopa od Jan Jedlicka v topu. Lyžař slabý, ale ještě ve čtvr
 | 1.     | Martin Jakš           | 38:17.2 |        |
 | 5.     | Jan Ferdinand Polášek | 40:58.6 | 2:41.4 |
 
-### Klasika
+## Klasika
 
 **Ferda**: 5. a 🥈 v kategorii
 

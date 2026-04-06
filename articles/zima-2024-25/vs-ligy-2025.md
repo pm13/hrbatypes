@@ -5,7 +5,7 @@ Category: Zima 2024/25
 Author: Petr
 ---
 
-### Velká cena Jilemnice
+## Velká cena Jilemnice
 
 **Petr**: Velká cena Jilemnice - 9. místo (+ 2. místo v Pražském přeboru pro Jihočecha nyní nejčastěji z Liberce)
 
@@ -19,7 +19,7 @@ Po soustředění (a čtvrtečních dvou fázích) dost únava - ale s tím jsem
 | ------ | ------------ | ------- | ------ |
 | 9.     | Petr Marhoun | 30:54.4 | 4:24.2 |
 
-### Přebor Prahy
+## Přebor Prahy
 
 **Ferda**: Krásná zimní podmínka, -6, prašan lyže žluté tz1-1
 
@@ -30,7 +30,7 @@ Po soustředění (a čtvrtečních dvou fázích) dost únava - ale s tím jsem
 | 1.     | Jan Ferdinand Polášek | 27:41.2 |        |
 | 8.     | Petr Marhoun          | 29:15.6 | 1:34.4 |
 
-### Humanita
+## Humanita
 
 **Petr**: Celkem složité podmínky na stoupání - led a na něm trochu novějšího sněhu. Mazal jsem pevný vosk. Rozhodně styl vůbec hezký nebyl - všechno co bylo prudší jsem vyskakoval. A jako cokoliv nepříjemného - výhoda pro mě 😅
 
@@ -42,7 +42,7 @@ Nejdříve jsme jeli čtyři, čekal jsem tudíž brambory. V druhém kole jeden
 | 2.     | Jan Vacek    | 1:21:16.1 | 45.1   |
 | 3.     | Adam Kaňka   | 1:22:13.1 | 1:42.1 |
 
-### Tygří skiatlon
+## Tygří skiatlon
 
 **Ferda**: Klasika na skinech - no nejelo to dolů, ale aspoň to stoupalo. A na trati byl vcelku kopec takže ve 3. kolečku jsem si skoro všechny dojel. Michal a mlaďák, ale byli moc daleko a jeli lépe. Přezutí za 1, ale na skatu jsem sotva stál a nějaký Dušan Kožíšek mě v posledním sjezdu dojel rozdílem třídy a pak mi i ujel do kopce. Asi dobrej oddíl. Dobré to bylo. Teď už jen odpočinout a za týden K70 💪💪 Jo a byl jsem po předchozích 2 fázích vyčichlej, ale s tím se počítalo
 

@@ -5,7 +5,7 @@ Category: Zima 2025/26
 Author: Petr
 ---
 
-### Skate
+## Skate
 
 **Ferda:** Krásná zimní podmínka, a poprvé od roku 2022 se jela pořádná trasa, toho si musíme vážit, ale jako meteorolog amatér jsem selhal. Ve čtvrtek jsem mazal lyže a vzal jsem studené TZ1-1, čekal jsem že bude pod nulou a prašan, tak půlku prvního kola byl, ale pak se to umydlilo, zvlhlo a tahalo to za nohy.
 
@@ -23,7 +23,7 @@ Na posledním kopci jsem jednoho dojel. A pak vyhrál finiš - což se mi povedl
 | 5.     | Jan Ferdinand Polášek | 1:52:03.8 | 7:01.2 | 0.0       |
 | 6.     | Petr Marhoun          | 1:53:52.8 | 8:50.2 | 1:49.0    |
 
-### Klasika
+## Klasika
 
 **Petr:** Předpověď nabízela déšť - ale nebyl! 😀 Až po závodě. Mokré to tedy bylo dost - na to však lyže mám. A v soupažích jsem byl dnes silný, asi jsem ruce pošetřil. Zato stehna v každém kopci dost bolela - ty si včerejší závod celkem pamatovaly.
 

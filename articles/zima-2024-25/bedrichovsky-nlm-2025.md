@@ -5,7 +5,7 @@ Category: Zima 2024/25
 Author: Petr
 ---
 
-### Skate
+## Skate
 
 **Ferda**: Lyžování je mrtvý sport. Přece nemůže vyhrávat nazdárek z Řevnic 🙈
 
@@ -16,7 +16,7 @@ Author: Petr
 | 1.     | Jan Ferdinand Polášek | 1:26:49.6 |         |
 | 77.    | Jan Pipek             | 2:02:59.3 | 36:09.7 |
 
-### Klasika
+## Klasika
 
 **Petr**: 6. místo, 1. v kategorii, 1. klasik
 

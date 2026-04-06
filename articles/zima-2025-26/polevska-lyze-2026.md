@@ -14,3 +14,7 @@ Author: Petr
 | 1.     | Jan Ferdinand Polášek | 41:01.0 | 0.0     |
 | 2.     | Petr Marhoun          | 41:02.0 | 1.0     |
 | 14.    | Jan Pipek             | 53:31.0 | 12:30.0 |
+
+## Přílohy:
+
+- [Polevská lyže]({static}/static/zima-2025-26/vysledky-polevska-lyze-2026.pdf)

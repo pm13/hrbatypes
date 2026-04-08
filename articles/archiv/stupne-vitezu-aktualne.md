@@ -1,8 +1,12 @@
 ---
 Title: Stupně vítězů aktuálně
-Date: 2025-07-13 16:00
+Date: 2026-04-08 22:10
 Category: Archív
 ---
+
+## Bedřichovský Night Light Marathon 2026
+
+![Bedřichovský Night Light Marathon 2026]({static}/static/archiv/stupne-vitezu-aktualne/bedrichovsky-nlm-2026.jpg){: width="450"}
 
 ## Rakovnické cyklování 2025
 

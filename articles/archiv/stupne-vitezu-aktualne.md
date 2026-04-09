@@ -4,6 +4,12 @@ Date: 2026-04-08 22:10
 Category: Archív
 ---
 
+## Polevská lyže 2026
+
+![Polevská lyže 2026]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="550"}
+
+![Polevská lyže 2026]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-petr.jpg){: width="550"}
+
 ## Bedřichovský Night Light Marathon 2026
 
 ![Bedřichovský Night Light Marathon 2026]({static}/static/archiv/stupne-vitezu-aktualne/bedrichovsky-nlm-2026.jpg){: width="450"}

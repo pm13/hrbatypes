@@ -1,8 +1,12 @@
 ---
 Title: Stupně vítězů aktuálně
-Date: 2026-04-08 22:10
+Date: 2026-04-09 08:31
 Category: Archív
 ---
+
+## Tygří skiatlon 2026 - štafeta
+
+![Tygří skiatlon 2026]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026-stafeta.jpg){: width="550"}
 
 ## Šumavský skimaraton 2026 - skate
 

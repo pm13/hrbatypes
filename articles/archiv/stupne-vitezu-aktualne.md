@@ -4,6 +4,10 @@ Date: 2026-04-08 22:10
 Category: Archív
 ---
 
+## Šumavský skimaraton 2026 - skate
+
+![Šumavský skimaraton 2026 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2026-skate-petr.jpg){: width="450"}
+
 ## Polevská lyže 2026
 
 ![Polevská lyže 2026]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="550"}

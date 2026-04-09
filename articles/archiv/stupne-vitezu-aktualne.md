@@ -6,21 +6,27 @@ Category: Archív
 
 ## Tygří skiatlon 2026 - štafeta
 
-![Tygří skiatlon 2026]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026-stafeta.jpg){: width="550"}
+![Tygří skiatlon 2026 - štafeta]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026-stafeta.jpg){: width="550"}
+
+## Tygří skiatlon 2026
+
+![Tygří skiatlon 2026]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026.jpg){: width="550"}
 
 ## Šumavský skimaraton 2026 - skate
 
-![Šumavský skimaraton 2026 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2026-skate-petr.jpg){: width="450"}
+![Šumavský skimaraton 2026 - Ferda]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2026-ferda.jpg){: width="450"}
+
+![Šumavský skimaraton 2026 - Petr]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2026-petr.jpg){: width="450"}
 
 ## Polevská lyže 2026
 
-![Polevská lyže 2026]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="550"}
+![Polevská lyže 2026 - Ferda]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="550"}
 
-![Polevská lyže 2026]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-petr.jpg){: width="550"}
+![Polevská lyže 2026 - Petr]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-petr.jpg){: width="550"}
 
-## Bedřichovský Night Light Marathon 2026
+## Bedřichovský Night Light Marathon 2026 - klasika
 
-![Bedřichovský Night Light Marathon 2026]({static}/static/archiv/stupne-vitezu-aktualne/bedrichovsky-nlm-2026.jpg){: width="450"}
+![Bedřichovský Night Light Marathon 2026 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/bedrichovsky-nlm-2026.jpg){: width="450"}
 
 ## Rakovnické cyklování 2025
 

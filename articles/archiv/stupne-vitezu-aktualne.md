@@ -1,8 +1,16 @@
 ---
 Title: Stupně vítězů aktuálně
-Date: 2026-04-09 08:31
+Date: 2026-04-09 09:03
 Category: Archív
 ---
+
+## VŠ liga 2026 - týmy
+
+![VŠ liga 2026 - týmy]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026-tymy.jpg){: width="550"}
+
+## VŠ liga 2026
+
+![VŠ liga 2026]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026.jpg){: width="550"}
 
 ## Tygří skiatlon 2026 - štafeta
 

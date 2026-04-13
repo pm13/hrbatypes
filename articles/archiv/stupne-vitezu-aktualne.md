@@ -8,6 +8,10 @@ Category: Archív
 
 ![Horské běhy 2026]({static}/static/archiv/stupne-vitezu-aktualne/horske-behy-2026.jpg){: width="550"}
 
+## Kudowska Sztafeta Górska 2026
+
+![Kudowska Sztafeta Górska 2026]({static}/static/archiv/stupne-vitezu-aktualne/kudowska-sztafeta-gorska-2026.jpg){: width="550"}
+
 ## VŠ liga 2026 - týmy
 
 ![VŠ liga 2026 - týmy]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026-tymy.jpg){: width="550"}

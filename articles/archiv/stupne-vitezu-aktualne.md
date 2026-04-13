@@ -4,6 +4,10 @@ Date: 2026-04-09 09:03
 Category: Archív
 ---
 
+## Horské běhy 2026
+
+![Horské běhy 2026]({static}/static/archiv/stupne-vitezu-aktualne/horske-behy-2026.jpg){: width="550"}
+
 ## VŠ liga 2026 - týmy
 
 ![VŠ liga 2026 - týmy]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026-tymy.jpg){: width="550"}

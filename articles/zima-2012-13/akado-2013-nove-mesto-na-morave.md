@@ -25,11 +25,11 @@ Ve čtvrtek 21. 2. 2013 se dopoledne netradičně jelo 5/10 km klasicky. Poté n
 
 ## Štafety
 
-| 4.  | UK Praha 1.     | 48:53.6 | Ztráta: 1:38.7 |
-| --- | --------------- | ------- | -------------- |
-|     | Ferda Polášek   | 19:23.8 | 19:23.8 (6)    |
-|     | Adéla Boudíková | 10:15.6 | 29:39.4 (3)    |
-|     | Kuba Škoda      | 19:14.2 | 48:53.6 (4)    |
+| 4. | UK Praha 1.     | 48:53.6 | Ztráta: 1:38.7 |
+| -- | --------------- | ------- | -------------- |
+|    | Ferda Polášek   | 19:23.8 | 19:23.8 (6)    |
+|    | Adéla Boudíková | 10:15.6 | 29:39.4 (3)    |
+|    | Kuba Škoda      | 19:14.2 | 48:53.6 (4)    |
 
 V pátek byl na pořadu vytrvalostní závod s hromadným startem na 10 respektive 20 km volnou technikou.
 

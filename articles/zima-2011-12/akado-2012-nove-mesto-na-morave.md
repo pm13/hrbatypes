@@ -25,11 +25,11 @@ Nu a teď už k výsledkům. V úterý byly na pořadu závody volnou technikou.
 
 Ve středu se jeli smíšené štafety. Petr den předem nastudoval výsledky úterních závodů a vydal předběžné výsledky, které byly pro naše jezdce velmi dobré (hypoteticky se mluvilo o bedně). Bohužel nastalo pár neočekávaných odjezdů a všechno bylo jinak.
 
-| 6.  | UK Praha I.      | 44:39,4       | Ztráta 2:47,8 |
-| --- | ---------------- | ------------- | ------------- |
-|     | J. Ferda Polášek | 17:11.8 (4.)  | 17:11,8 (4.)  |
-|     | Adéla Boudíková  | 9:10,9 (1.)   | 26:22,7 (2.)  |
-|     | Turista JFP      | 18:16,7 (12.) | 44:39,4 (6.)  |
+| 6. | UK Praha I.      | 44:39,4       | Ztráta 2:47,8 |
+| -- | ---------------- | ------------- | ------------- |
+|    | J. Ferda Polášek | 17:11.8 (4.)  | 17:11,8 (4.)  |
+|    | Adéla Boudíková  | 9:10,9 (1.)   | 26:22,7 (2.)  |
+|    | Turista JFP      | 18:16,7 (12.) | 44:39,4 (6.)  |
 
 | 26. | UK Praha II.        | 58:48,2       | Ztráta 16:56,6 |
 | --- | ------------------- | ------------- | -------------- |

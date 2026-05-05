@@ -5,7 +5,7 @@ Category: Zima 2014/15
 Author: Anička
 ---
 
-[pozn.: původně vložil *Pipucha*, který místo ťapky ťapky dělal šoupy šoupy]
+[pozn.: původně vložil _Pipucha_, který místo ťapky ťapky dělal šoupy šoupy]
 
 Ferdíka nám sklátila chřipčička. O to více se museli snažit ostatní kluci, aby alespoň trošku vyvážili moje ťapky ťapky svou rychlou jízdou. A protože jsou to frajeři, tak se jim to, v čele se zázračně vyléčeným Petrem, podařilo.
 

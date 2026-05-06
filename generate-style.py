@@ -10,7 +10,7 @@ import click
 def generate_style():
     "Generate style for web VSK MFF UK BL"
 
-    bootstrap_path = pathlib.Path('~/.local/lib/node_modules/bootstrap').expanduser()
+    bootstrap_path = pathlib.Path('~/src/node_modules/bootstrap').expanduser()
     theme_path = pathlib.Path('~/src/hrbatypes/theme/static').expanduser()
 
     bootstrap_link_path = theme_path / 'bootstrap'

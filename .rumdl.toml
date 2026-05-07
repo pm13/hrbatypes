@@ -32,6 +32,9 @@ style = "asterisk"
 [MD050]
 style = "asterisk"
 
+[MD055]
+style = "leading-and-trailing"
+
 [MD060]
 enabled = true
 style = "aligned"

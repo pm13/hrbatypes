@@ -23,6 +23,9 @@ front-matter-title-pattern = "^Title:"
 [MD046]
 style = "fenced"
 
+[MD048]
+style = "backtick"
+
 [MD049]
 style = "asterisk"
 

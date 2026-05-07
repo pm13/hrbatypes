@@ -1,0 +1,37 @@
+[global]
+flavor = "mkdocs"
+disable = [
+  "MD013",
+  "MD026",
+  "MD034",
+  "MD036",
+  "MD040",
+  "MD045",
+  "MD057",
+]
+
+[MD003]
+style = "atx"
+
+[MD004]
+style = "dash"
+
+[MD033]
+allowed = ["div", "iframe", "s"]
+
+[MD041]
+front-matter-title-pattern = "^Title:"
+
+[MD049]
+style = "consistent"
+
+[MD050]
+style = "asterisk"
+
+[MD060]
+enabled = true
+style = "aligned"
+
+[MD072]
+enabled = true
+key-order = ["Title", "Date", "Category", "Author", "Aside", "Slug", "Sticky", "Album"]

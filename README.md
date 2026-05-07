@@ -4,7 +4,7 @@
 
 ## Instalace
 
-V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz https://blog.getpelican.com/) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech Markdown - například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
+V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz <https://blog.getpelican.com/>) přítomný v distribuci. Pro Ubuntu je to `pelican`, pro Fedoru `python3-pelican`. (V některých distribucích může chybět v povinných závislostech Markdown - například v Arch Linuxu je navíc potřeba balíček `python-markdown`.)
 
 Alternativně lze nainstalovat potřebné balíčky do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
 
@@ -44,7 +44,7 @@ python -m http.server
 
 ## Změna obsahu
 
-Všechny články se píšou v **Markdownu** (vysvětlení syntaxe viz třeba https://commonmark.org/help/ nebo https://help.gamejolt.com/markdown).
+Všechny články se píšou v **Markdownu** (vysvětlení syntaxe viz třeba <https://commonmark.org/help/> nebo <https://help.gamejolt.com/markdown>).
 
 Články jsou strukturované do podadresářů `articles` podle sezón a jmenují se podle titulku, ale obojí je jen pro pohodlnost. Kde se na webu článek objeví, záleží na metadatech v něm. Příklad (snad pochopitelný):
 

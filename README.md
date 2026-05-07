@@ -63,7 +63,7 @@ Přílohy (fotky i výsledky) mají strukturu podobnou, ovšem v `static`. Odkaz
 
 a
 
-```-
+```markdown
 [celkové výsledky]({static}/static/zima-2017-18/boboloppet-2018.pdf)
 ```
 

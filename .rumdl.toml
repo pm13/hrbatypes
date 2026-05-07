@@ -20,6 +20,9 @@ allowed = ["div", "iframe", "s"]
 [MD041]
 front-matter-title-pattern = "^Title:"
 
+[MD046]
+style = "fenced"
+
 [MD049]
 style = "asterisk"
 

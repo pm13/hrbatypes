@@ -8,7 +8,7 @@ V Linuxu doporučujeme použít balíček s nástrojem **Pelican** (více viz ht
 
 Alternativně lze nainstalovat potřebné balíčky do virtuálního prostředí Pythonu, ale kdo by se s tím dělal:
 
-```
+```bash
 pip install pelican Markdown
 ```
 
@@ -18,13 +18,13 @@ V jiných systémech si nějak opatřete rozumnou instalaci Pythonu a spusťte v
 
 Pelican je generátor statických webových stránek, takže ve výchozím adresáři příkaz `pelican` udělá právě to - vygeneruje adresář `~/hrbatypes` (který lze někam nahrát). Následně můžete spustit server:
 
-```
+```bash
 pelican --listen
 ```
 
 Oba předchozí kroky lze nahradit jedním, který navíc po každé změně potřebné soubory vygeneruje znovu (doporučujeme):
 
-```
+```bash
 pelican --autoreload --listen
 ```
 
@@ -36,7 +36,7 @@ Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní 
 
 2. Spustit ve vygenerovaném adresáři integrovaný webový server Pythonu:
 
-```
+```bash
 python -m http.server
 ```
 
@@ -48,7 +48,7 @@ Všechny články se píšou v **Markdownu** (vysvětlení syntaxe viz třeba ht
 
 Články jsou strukturované do podadresářů `articles` podle sezón a jmenují se podle titulku, ale obojí je jen pro pohodlnost. Kde se na webu článek objeví, záleží na metadatech v něm. Příklad (snad pochopitelný):
 
-```
+```yaml
 Title: 47. Karlův běh
 Date: 2018-02-14 09:07
 Category: Zima 2017/18
@@ -57,7 +57,7 @@ Author: Vláďa
 
 Přílohy (fotky i výsledky) mají strukturu podobnou, ovšem v `static`. Odkazuje se pak na ně takto:
 
-```
+```markdown
 ![JF]({static}/static/zima-2017-18/vasaloppet-jf.jpg)
 ```
 
@@ -79,7 +79,7 @@ a
 
 Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [Bootstrap](https://getbootstrap.com/)) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
 
-```
+```markdown
 ![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}
 ```
 

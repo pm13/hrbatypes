@@ -4,7 +4,7 @@ Date: 2011-02-01 00:00
 Category: Archív
 ---
 
-_Na trénink vás zvou:_
+*Na trénink vás zvou:*
 
 ## Svalovec z MFF
 

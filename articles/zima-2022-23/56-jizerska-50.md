@@ -7,7 +7,7 @@ Author: Petr
 
 **Ferda**: Jizerská 50 - bez komentáře 😂
 
-_(po následném vyzvání o komentář)_
+*(po následném vyzvání o komentář)*
 
 Jestli tě to fakt zajímá, tak já ti to řeknu. Namazáno jsem měl na h….o. Nestoupalo to a nejelo. Hůř už to podle mě nešlo. Chyba asi byla, že jsem klistru dal málo. Skluz asi zabitý klistrem a nebo holt ty lyže nejsou na vodu. Takže jsem se fakt dneska styděl. S tím krásným eliťáckým číslem jsem se tam potácel krokem, neschopen se pořádně odrazit. Jediné pozitivum bylo, že jsem se od Žďárku vcelku rozjel a dojel a předjel Petr Marhoun 💪💪💪💪
 

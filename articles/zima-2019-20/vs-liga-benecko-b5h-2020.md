@@ -28,7 +28,7 @@ Author: Petr
 | 7.     | Bochenková Martina | 15:04.4 | 02:06.9 | 00:00.0   |
 | 8.     | Chejnovská Anna    | 15:16.4 | 02:18.9 | 00:12.0   |
 
-_Ani jedna se k nám tak úplně nehlásí (Martina vůbec, Anička v jedné ze dvou kolonek), ale když s námi obě občas trénují..._
+*Ani jedna se k nám tak úplně nehlásí (Martina vůbec, Anička v jedné ze dvou kolonek), ale když s námi obě občas trénují...*
 
 ## VŠ liga, muži, 8 km klasicky, 6. 1. 2020
 

@@ -7,7 +7,7 @@ Author: Ferda
 
 Orlický maraton je již minulostí. Letošní ročník se opět uskutečnil na pěkných, ale těžkých tratích v okolí Deštného v Orlických horách. Podmínky byly vhodné na vodní lyžování, místy i na travní lyžování čímž se letošní ročník stal ještě náročnějším než obvykle. Když k sněhovým podmínkám připočtem to, že jsem si neuměl namazat, stal se z krásného lehkého závodu závod obtížnosti havajského Ironmana.
 
-Komentář Pipuchy: _Jo, Ferdo, na Jizerce jste se mi divili a posléze i smáli, že jsem dokázal promazat za jasných klisterových podmínek. Od té doby si dávám pozor a směju se pro změnu já :-)_
+Komentář Pipuchy: *Jo, Ferdo, na Jizerce jste se mi divili a posléze i smáli, že jsem dokázal promazat za jasných klisterových podmínek. Od té doby si dávám pozor a směju se pro změnu já :-)*
 
 | Pořadí | Jméno                 | 1. kolo   | 2. kolo   | Celkový čas |
 | ------ | --------------------- | --------- | --------- | ----------- |

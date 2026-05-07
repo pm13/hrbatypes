@@ -17,7 +17,7 @@ Ale trénink to byl pěkný. Kdy jindy natrénovat na Krkonoše - než když sn�
 
 Mohl bych ještě citovat poděkování od Honzy (pil jsem málo, takže jsem si oproti očekávání cestou žádnou láhev nevzal - **a děkuji Aničce za občerstvení na trase!!!**):
 
-_Což mi připomíná, že jsem ti chtěl poděkovat za tvůj ionťák. Ač jsem ho původně nechtěl, zachránil mi téměř život, přinejmenším alespoň sílu dojet do cíle kolem hřebínku a přehrady..._
+*Což mi připomíná, že jsem ti chtěl poděkovat za tvůj ionťák. Ač jsem ho původně nechtěl, zachránil mi téměř život, přinejmenším alespoň sílu dojet do cíle kolem hřebínku a přehrady...*
 
 | Pořadí | Jméno         | Čas     | Ztráta  |
 | ------ | ------------- | ------- | ------- |

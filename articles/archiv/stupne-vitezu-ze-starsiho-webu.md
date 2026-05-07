@@ -66,7 +66,7 @@ Na úvodní stránce se často objevuje, že někdo zvládl vyšplhat na bednu. 
 
 ![BoBoloppet 2017]({static}/static/archiv/stupne-vitezu-ze-starsiho-webu/boboloppet-2017.jpg){: width="650"}
 
-_(Třetí se bál na vyhlášení, radši ujel na Orlický maratón.)_
+*(Třetí se bál na vyhlášení, radši ujel na Orlický maratón.)*
 
 ## Polevská lyže 2017
 

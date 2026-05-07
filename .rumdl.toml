@@ -22,7 +22,7 @@ allowed = ["div", "iframe", "s"]
 front-matter-title-pattern = "^Title:"
 
 [MD049]
-style = "consistent"
+style = "asterisk"
 
 [MD050]
 style = "asterisk"

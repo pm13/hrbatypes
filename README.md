@@ -40,7 +40,7 @@ Ve Windows jsme s `--listen` narazili na problém a museli zvolit alternativní 
 python -m http.server
 ```
 
-_Pro pokročilé:_ Příkaz `pelican` má několik dalších parametrů, například `--output`, `--port` a především `--help`.
+*Pro pokročilé:* Příkaz `pelican` má několik dalších parametrů, například `--output`, `--port` a především `--help`.
 
 ## Změna obsahu
 

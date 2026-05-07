@@ -33,13 +33,13 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ## Ostatní závody hodné vážného zřetele
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - _zrušeno_
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 11. ledna, Polevsko - *zrušeno*
 
 ### [Skadi Loppet](https://www.skadi-loppet.de/), 25. - 26. ledna, Velký Javor
 
 ### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
 
-### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - _zrušeno_
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - *zrušeno*
 
 ### [Jizerská 50](https://jiz50.cz), 6. - 9. února, Bedřichov
 

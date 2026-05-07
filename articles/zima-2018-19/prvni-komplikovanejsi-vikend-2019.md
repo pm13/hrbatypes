@@ -11,7 +11,7 @@ V sobotu na VŠ lize se Ferda na chvíli probral z letargie, dokázal ujet Tomá
 
 To ať si bystrý čtenář přebere sám, ale každopádně Petr musel bojovat sám. A po ideální "rychlostní" přípravě, kdy si v pátek večer naordinoval závod na 30 km, v sobotu regenerační 100 km projížďku po Jizerkách, si dojel pro cenné skalpy Sucháče a dalších.
 
-_/\* Předchozí dva odstavce doplnil Ferda. \*/ Ve skutečnosti sobotních kilometrů bylo výrazně méně (zato v dešti) a v neděli mě Sucháč o necelou půlminutku porazil ... ale text pěkný!_
+*/\* Předchozí dva odstavce doplnil Ferda. \*/ Ve skutečnosti sobotních kilometrů bylo výrazně méně (zato v dešti) a v neděli mě Sucháč o necelou půlminutku porazil ... ale text pěkný!*
 
 ## Bedřichovský Night Light Marathon, 30 km volně, 4. 1. 2019
 

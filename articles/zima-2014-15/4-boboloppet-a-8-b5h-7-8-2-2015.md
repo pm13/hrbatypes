@@ -7,7 +7,7 @@ Author: Petr
 
 Úvodní varianta od Honzy (následně se totiž nehodlám odchylovat od pravidla, že přesnost je podstatnější než stručnost nebo pochopitelnost):
 
-_Jen stručně (zatím). Petr vyhrál. Jakože úplně. Dalších komentářů asi není třeba dodávat._
+*Jen stručně (zatím). Petr vyhrál. Jakože úplně. Dalších komentářů asi není třeba dodávat.*
 
 Cesta k prvnímu (a mám obavu, že i poslednímu) vítězství v obsazenějším závodě začala už loni. To mi totiž jeden z účastníků, kterého jsem (dvakrát) předjížděl, v cíli radil: "Nemůžeš se přece takhle zastavovat, když jezdíš celkem hezky - jíst i pít musíš za jízdy! A hlavně je potřeba vyrazit včas, ideálně hned v osm - ráno jedeš rychleji, odpoledne na rozměklém sněhu už tolik ne."
 

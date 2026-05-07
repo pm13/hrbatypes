@@ -32,4 +32,4 @@ Na přelomu roku 2008 a 2009 jsme dospěli k důležitému rozhodnutí - poříd
 
 V prvním kole nejvíce uspěli **Modrý extra na skluznici** a **Vosa**, postoupili tedy do finále. V něm dlouho vedl **Modrý extra na skluznici**. Ale památného sobotního večera 17. ledna 2009 (kdy také začala VŠ liga, což však nebylo tolik podstatné) jsme společně s Ferdou a Honzou Pipkou telefonovali, psali zprávy, přesvědčovali a nakonec **Vosa** slavně zvítězila 9:9. Dobře, nezní to úplně jednoznačně, ale následující čtvrtek byla Vosa prostě a jednoduše prohlášena za vítěze.
 
-Pro historiky, kteří se jednoho dne budou ptát "_Kdo za to může?_", máme [úplné výsledky hlasování]({static}/static/archiv/vyber-dresu/hlasovani.xls).
+Pro historiky, kteří se jednoho dne budou ptát "*Kdo za to může?*", máme [úplné výsledky hlasování]({static}/static/archiv/vyber-dresu/hlasovani.xls).

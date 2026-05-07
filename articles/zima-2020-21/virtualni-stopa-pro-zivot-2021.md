@@ -43,7 +43,7 @@ Celkově rozhodně opravdu moc krásné!
 
 Včera při prohlídce trati velké spekulace, co namazat. Ideální silné ruce, ale ty jsem si nevzal. Nakonec jenom klistr, nepřekrýval jsem - v rámci možností šlo. I když druhá Černá hora ideální nebyla, na ledu jsem se moc neodrazil.
 
-_/\* Později v chatu Ferdovi \*/_ Velké selhání. Nechal jsem ti Černou horu zpátky o sekundu. Když mně to tam prostě vůbec nestoupalo :(
+*/\* Později v chatu Ferdovi \*/* Velké selhání. Nechal jsem ti Černou horu zpátky o sekundu. Když mně to tam prostě vůbec nestoupalo :(
 
 **Ferda:** Nejen, že jsi ztratil sekundu na mě, ale co ty sekundy na ty dva kašpárky před tebou?
 

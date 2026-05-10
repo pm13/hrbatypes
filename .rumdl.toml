@@ -1,12 +1,6 @@
 [global]
 flavor = "mkdocs"
-disable = [
-  "MD013",
-  "MD026",
-  "MD036",
-  "MD045",
-  "MD057",
-]
+disable = ["MD013", "MD026", "MD036", "MD045", "MD057"]
 
 [MD003]
 style = "atx"
@@ -38,6 +32,7 @@ style = "leading-and-trailing"
 [MD060]
 enabled = true
 style = "aligned"
+max-width = 120
 
 [MD072]
 enabled = true

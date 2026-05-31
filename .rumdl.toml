@@ -33,6 +33,7 @@ style = "leading-and-trailing"
 enabled = true
 style = "aligned"
 max-width = 120
+aligned-delimiter = true
 
 [MD072]
 enabled = true

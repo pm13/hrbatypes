@@ -41,6 +41,7 @@ STATIC_PATHS = ['favicon.ico', 'static']
 STATIC_CREATE_LINKS = True
 
 THEME = 'theme'
+TEMPLATE_EXTENSIONS = ['.html.jinja', '.html']
 
 ARTICLE_EXCLUDES = ['theme']
 IGNORE_FILES = ['README.md']

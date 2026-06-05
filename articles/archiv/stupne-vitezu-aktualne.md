@@ -1,32 +1,36 @@
 ---
 Title: Stupně vítězů aktuálně
-Date: 2026-04-13 21:01
+Date: 2026-06-05 12:05
 Category: Archív
 ---
 
+## Kvadriatlon dvojic 2026
+
+![Kvadriatlon dvojic 2026]({static}/static/archiv/stupne-vitezu-aktualne/kvadriatlon-dvojic-2026.jpg){: width="600"}
+
 ## Horské běhy 2026
 
-![Horské běhy 2026]({static}/static/archiv/stupne-vitezu-aktualne/horske-behy-2026.jpg){: width="550"}
+![Horské běhy 2026]({static}/static/archiv/stupne-vitezu-aktualne/horske-behy-2026.jpg){: width="600"}
 
 ## Kudowska Sztafeta Górska 2026
 
-![Kudowska Sztafeta Górska 2026]({static}/static/archiv/stupne-vitezu-aktualne/kudowska-sztafeta-gorska-2026.jpg){: width="550"}
+![Kudowska Sztafeta Górska 2026]({static}/static/archiv/stupne-vitezu-aktualne/kudowska-sztafeta-gorska-2026.jpg){: width="600"}
 
 ## VŠ liga 2026 - týmy
 
-![VŠ liga 2026 - týmy]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026-tymy.jpg){: width="550"}
+![VŠ liga 2026 - týmy]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026-tymy.jpg){: width="600"}
 
 ## VŠ liga 2026
 
-![VŠ liga 2026]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026.jpg){: width="550"}
+![VŠ liga 2026]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-2026.jpg){: width="600"}
 
 ## Tygří skiatlon 2026 - štafeta
 
-![Tygří skiatlon 2026 - štafeta]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026-stafeta.jpg){: width="550"}
+![Tygří skiatlon 2026 - štafeta]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026-stafeta.jpg){: width="600"}
 
 ## Tygří skiatlon 2026
 
-![Tygří skiatlon 2026]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026.jpg){: width="550"}
+![Tygří skiatlon 2026]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2026.jpg){: width="600"}
 
 ## Šumavský skimaraton 2026 - skate
 
@@ -36,9 +40,9 @@ Category: Archív
 
 ## Polevská lyže 2026
 
-![Polevská lyže 2026 - Ferda]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="550"}
+![Polevská lyže 2026 - Ferda]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-ferda.jpg){: width="600"}
 
-![Polevská lyže 2026 - Petr]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-petr.jpg){: width="550"}
+![Polevská lyže 2026 - Petr]({static}/static/archiv/stupne-vitezu-aktualne/polevska-lyze-2026-petr.jpg){: width="600"}
 
 ## Bedřichovský Night Light Marathon 2026 - klasika
 
@@ -46,15 +50,15 @@ Category: Archív
 
 ## Rakovnické cyklování 2025
 
-![Rakovnické cyklování 2025]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2025.jpg){: width="550"}
+![Rakovnické cyklování 2025]({static}/static/archiv/stupne-vitezu-aktualne/rakovnicke-cyklovani-2025.jpg){: width="600"}
 
 ## Napříč Českou Kanadou 2025
 
-![Napříč Českou Kanadou 2025]({static}/static/archiv/stupne-vitezu-aktualne/napric-ceskou-kanadou-2025.jpg){: width="550"}
+![Napříč Českou Kanadou 2025]({static}/static/archiv/stupne-vitezu-aktualne/napric-ceskou-kanadou-2025.jpg){: width="600"}
 
 ## Veteraniáda ČR 2025
 
-![Veteraniáda ČR 2025]({static}/static/archiv/stupne-vitezu-aktualne/veteraniada-cr-2025.jpg){: width="550"}
+![Veteraniáda ČR 2025]({static}/static/archiv/stupne-vitezu-aktualne/veteraniada-cr-2025.jpg){: width="600"}
 
 ## VIPrahlý bajkonur 2025
 
@@ -62,21 +66,21 @@ Category: Archív
 
 ## Tygří skiatlon 2025
 
-![Tygří skiatlon 2025]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2025.jpg){: width="550"}
+![Tygří skiatlon 2025]({static}/static/archiv/stupne-vitezu-aktualne/tygri-skiatlon-2025.jpg){: width="600"}
 
 ## Šumavský skimaraton 2025 - klasika
 
-![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-1.jpg){: width="550"}
+![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-1.jpg){: width="600"}
 
-![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-2.jpg){: width="550"}
+![Šumavský skimaraton 2025 - klasika]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-klasika-2.jpg){: width="600"}
 
 ## Šumavský skimaraton 2025 - skate
 
-![Šumavský skimaraton 2025 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-skate.jpg){: width="550"}
+![Šumavský skimaraton 2025 - skate]({static}/static/archiv/stupne-vitezu-aktualne/sumavsky-skimaraton-2025-skate.jpg){: width="600"}
 
 ## BoBoloppet 2025
 
-![BoBoloppet 2025]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2025.jpg){: width="550"}
+![BoBoloppet 2025]({static}/static/archiv/stupne-vitezu-aktualne/boboloppet-2025.jpg){: width="600"}
 
 ## VŠ liga Benecko 2025
 
@@ -96,4 +100,4 @@ Category: Archív
 
 ## VŠ liga Horní Mísečky 2025
 
-![VŠ liga Horní Mísečky 2025]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-horni-misecky-2025.jpg){: width="650"}
+![VŠ liga Horní Mísečky 2025]({static}/static/archiv/stupne-vitezu-aktualne/vs-liga-horni-misecky-2025.jpg){: width="600"}

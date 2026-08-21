@@ -11,15 +11,49 @@
     <link rel="icon" href="/favicon.ico" />
   </head>
   <body>
-    <nav class="navbar fixed-top p-0 pt-1">
-      <div class="container">
-        <a class="navbar-brand" href="/">
-          <img src="/theme/logo.png" />
+    {# Mobile menu toggle — hidden checkbox used as CSS-only open/close state #}
+    <input type="checkbox" id="nav-toggle" class="peer hidden" aria-hidden="true" />
+
+    <nav class="navbar bg-accent text-accent-content fixed top-0 left-0 right-0 z-50 shadow px-4">
+      {# Left: logo + site name #}
+      <div class="navbar-start">
+        <a class="flex items-center gap-2 font-bold text-base" href="/">
+          <img src="/theme/logo.png" class="h-8 w-auto" alt="" />
           {{ SITENAME }}
         </a>
       </div>
+
+      {# Right (desktop): inline nav links #}
+      <div class="navbar-end hidden lg:flex gap-1">
+        <a class="btn btn-ghost btn-sm" href="/trenink/">Trénink</a>
+        <a class="btn btn-ghost btn-sm" href="/clenove-oddilu/">Členové oddílu</a>
+        <a class="btn btn-ghost btn-sm" href="/odkazy/">Odkazy</a>
+        <a class="btn btn-ghost btn-sm" href="https://clenove.hrbatypes.cz/"><em>Pro členy</em></a>
+      </div>
+
+      {# Right (mobile): hamburger button #}
+      <div class="navbar-end lg:hidden">
+        <label for="nav-toggle" class="btn btn-ghost btn-square" aria-label="Otevřít menu">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </label>
+      </div>
     </nav>
-    <div class="container">
+
+    {# Mobile dropdown menu — shown when checkbox is checked #}
+    <div class="fixed top-16 left-0 right-0 z-40 bg-accent text-accent-content shadow
+                hidden peer-checked:flex flex-col lg:hidden">
+      <a class="px-4 py-3 hover:bg-accent-content/10 font-medium border-b border-accent-content/20"
+         href="/trenink/">Trénink</a>
+      <a class="px-4 py-3 hover:bg-accent-content/10 font-medium border-b border-accent-content/20"
+         href="/clenove-oddilu/">Členové oddílu</a>
+      <a class="px-4 py-3 hover:bg-accent-content/10 font-medium border-b border-accent-content/20"
+         href="/odkazy/">Odkazy</a>
+      <a class="px-4 py-3 hover:bg-accent-content/10 font-medium"
+         href="https://clenove.hrbatypes.cz/"><em>Pro členy</em></a>
+    </div>
+    <div class="container pt-16">
       <div class="row mb-2">
         <header class="col-md-9 offset-md-3">{% block header %}{% endblock %}</header>
       </div>

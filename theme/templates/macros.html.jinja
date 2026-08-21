@@ -9,7 +9,7 @@
 
 {% macro local_link(text, url) %}
   {% with active = (text in (category, article and article.title, page and page.title, page and page.aside)) %}
-    <a class="list-group-item list-group-item-action {{ 'active' if active }}" href="{{ url }}">{{ text }}</a>
+    <a class="{{ 'active' if active }}" href="{{ url }}">{{ text }}</a>
   {% endwith %}
 {% endmacro %}
 

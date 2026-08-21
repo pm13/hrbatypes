@@ -1,4 +1,4 @@
-{% from 'macros.html.jinja' import local_nav_unit, article_header %}
+{% from 'macros.html.jinja' import article_header %}
 {% from 'macros.html.jinja' import local_link with context %}
 
 <!DOCTYPE html>
@@ -9,41 +9,87 @@
     <title>{% block title %}{% endblock %} | {{ SITENAME }}</title>
     <link rel="stylesheet" href="/theme/{{ CSS_FILE }}" />
     <link rel="icon" href="/favicon.ico" />
+    <style>
+      body { padding-top: 3.75rem; }
+      .site-navbar {
+        position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+        background: #ffc000;
+        display: flex; align-items: center; flex-wrap: wrap;
+        padding: 0 1rem; min-height: 3.5rem;
+      }
+      .site-navbar-brand {
+        display: flex; align-items: center; gap: 0.4rem;
+        font-weight: bold; color: #000; text-decoration: none; flex: 1;
+      }
+      .site-navbar-brand img { height: 2rem; vertical-align: middle; }
+      .site-nav-toggle {
+        display: block; background: none; border: 1px solid #0003;
+        border-radius: 4px; cursor: pointer; padding: 0.2rem 0.5rem;
+        font-size: 1.25rem; line-height: 1;
+      }
+      .site-nav-menu {
+        display: none; width: 100%; background: #ffc000;
+        padding: 0.5rem 0 0.75rem;
+      }
+      .site-nav-menu.open { display: block; }
+      .site-nav-section { padding: 0.25rem 0; }
+      .site-nav-section-title {
+        font-weight: bold; font-size: 0.85rem; text-transform: uppercase;
+        padding: 0.35rem 0.75rem 0.1rem; color: #444;
+      }
+      .site-nav-menu a {
+        display: block; padding: 0.2rem 0.75rem;
+        color: #000; text-decoration: none;
+      }
+      .site-nav-menu a:hover, .site-nav-menu a:focus { background: #de620722; }
+      .site-nav-menu a.active { font-weight: bold; color: #800; }
+      @media (min-width: 64rem) {
+        .site-nav-toggle { display: none; }
+        .site-nav-menu {
+          display: flex !important; width: auto; flex: 1;
+          justify-content: flex-end; align-items: flex-start;
+          gap: 1.5rem; padding: 0; background: transparent;
+        }
+        .site-nav-section { padding: 0; }
+        .site-nav-section-title { padding: 0.1rem 0.5rem 0.1rem; }
+        .site-nav-menu a { padding: 0.2rem 0.5rem; }
+      }
+    </style>
   </head>
   <body>
-    <nav class="navbar fixed-top p-0 pt-1">
-      <div class="container">
-        <a class="navbar-brand" href="/">
-          <img src="/theme/logo.png" />
-          {{ SITENAME }}
-        </a>
-      </div>
-    </nav>
+    <div class="navbar site-navbar">
+      <a class="site-navbar-brand" href="/">
+        <img src="/theme/logo.png" alt="{{ SITENAME }}" />
+        {{ SITENAME }}
+      </a>
+      <button class="site-nav-toggle" aria-label="Menu" aria-controls="site-nav"
+              onclick="var m=document.getElementById('site-nav');m.classList.toggle('open');this.setAttribute('aria-expanded',m.classList.contains('open'))">
+        &#9776;
+      </button>
+      <nav id="site-nav" class="site-nav-menu" aria-label="Hlavní navigace">
+        <div class="site-nav-section">
+          {{ local_link('Trénink', '/trenink/') }}
+          {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
+          {{ local_link('Odkazy', '/odkazy/') }}
+          {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
+        </div>
+        <div class="site-nav-section">
+          <div class="site-nav-section-title">Aktuality</div>
+          {% for article in (all_articles or articles)[:5] %}
+            {{ local_link(article.title, '/' ~ article.url) }}
+          {% endfor %}
+        </div>
+        <div class="site-nav-section">
+          <div class="site-nav-section-title">Sezóny</div>
+          {% for category, articles in categories|sort_categories %}
+            {{ local_link(category.name, '/' ~ category.url) }}
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
     <div class="container">
-      <div class="row mb-2">
-        <header class="col-md-9 offset-md-3">{% block header %}{% endblock %}</header>
-      </div>
-      <div class="row">
-        <main class="col-md-9 order-md-last">{% block content %}{% endblock %}</main>
-        <aside class="col-md-3 order-md-first">
-          {% call local_nav_unit() %}
-            {{ local_link('Trénink', '/trenink/') }}
-            {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
-            {{ local_link('Odkazy', '/odkazy/') }}
-            {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
-          {% endcall %}
-          {% call local_nav_unit('Aktuality') %}
-            {% for article in (all_articles or articles)[:5] %}
-              {{ local_link(article.title, '/' ~ article.url) }}
-            {% endfor %}
-          {% endcall %}
-          {% call local_nav_unit('Sezóny') %}
-            {% for category, articles in categories|sort_categories %}
-              {{ local_link(category.name, '/' ~ category.url) }}
-            {% endfor %}
-          {% endcall %}
-        </aside>
-      </div>
+      <header class="mb-2">{% block header %}{% endblock %}</header>
+      <main>{% block content %}{% endblock %}</main>
     </div>
   </body>
 </html>

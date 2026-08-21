@@ -4,7 +4,7 @@ default:
 
 # Run Pelican dev server
 pelican port="8000":
-    pelican --autoreload --listen --port {{ port }} -s pelicanconf.py
+    CSS_DEBUG=1 pelican --autoreload --listen --port {{ port }} -s pelicanconf.py
 
 # Watch Tailwind and write site.css
 tailwind:

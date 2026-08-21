@@ -7,8 +7,8 @@ OUTPUT_PATH = pathlib.Path('~/hrbatypes').expanduser()
 
 SITENAME = 'VSK MFF UK BL'
 SITEURL = os.environ.get('URL', '')
+
 CSS_DEBUG = os.environ.get('CSS_DEBUG', '').lower() in {'1', 'true', 'yes', 'on'}
-CSS_FILE = 'site.css' if CSS_DEBUG else 'site.min.css'
 
 ARTICLE_URL = PAGE_URL = '{slug}/'
 ARTICLE_SAVE_AS = PAGE_SAVE_AS = '{slug}/index.html'

@@ -70,7 +70,6 @@ def get_article_key(article):
 
 
 def postprocess_content(content, smaller_headers=False):
-    content = content.replace('<table>', '<table class="table table-striped">')
     content = content.replace('<h2>Přílohy:</h2>', '<h2 class="h4 mb-1">Přílohy:</h2>')
     if smaller_headers:
         content = content.replace('<h2>', '<h2 class="h3">')

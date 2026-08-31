@@ -37,27 +37,27 @@
               Aktuality
             </button>
             <div id="menu-aktuality" popover>
-              <ul class="menu">
+              <ul class="menu text-base">
                 {% for article in (all_articles or articles)[:5] %}
                   <li><a href="{{ '/' ~ article.url }}">{{ article.title }}</a></li>
                 {% endfor %}
               </ul>
             </div>
-            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-sezony-vitezu">
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-sezony">
               Sezóny
             </button>
-            <div id="menu-sezony-vitezu" popover>
-              <ul class="menu">
+            <div id="menu-sezony" popover>
+              <ul class="menu text-base">
                 {% for category, articles in (categories|sort_categories)[:5] %}
                   <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
                 {% endfor %}
               </ul>
             </div>
-            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-stupne">
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-stupne-vitezu">
               Stupně vítězů
             </button>
-            <div id="menu-stupne" popover>
-              <ul class="menu">
+            <div id="menu-stupne-vitezu" popover>
+              <ul class="menu text-base">
                 {% for category, articles in (categories|sort_categories)[:5] %}
                   <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
                 {% endfor %}

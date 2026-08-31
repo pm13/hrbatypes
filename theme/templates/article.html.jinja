@@ -4,13 +4,8 @@
   {{ article.title }}
 {% endblock %}
 
-{% block header %}
+{% block article %}
   <h1>{{ article.title }}</h1>
-{% endblock %}
-
-{% block content %}
   {{ article_header(article, link_to_category=true) }}
-  <div class="prose">
-    {{ article.content|postprocess_content(smaller_headers=article.sticky) }}
-  </div>
+  {{ article.content|postprocess_content(smaller_headers=article.sticky) }}
 {% endblock %}

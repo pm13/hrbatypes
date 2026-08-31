@@ -4,12 +4,7 @@
   {{ page.title }}
 {% endblock %}
 
-{% block header %}
+{% block article %}
   <h1>{{ page.title }}</h1>
-{% endblock %}
-
-{% block content %}
-  <div class="prose">
-    {{ page.content|postprocess_content }}
-  </div>
+  {{ page.content|postprocess_content }}
 {% endblock %}

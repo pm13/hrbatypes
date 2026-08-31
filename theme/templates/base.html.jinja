@@ -27,13 +27,13 @@
           </button>
           <a href="/" class="flex items-center gap-2">
             <img src="/theme/logo.png" alt="" class="h-8">
-            <span class="text-xl font-semibold">{{ SITENAME }}</span>
+            <span class="text-xl font-semibold whitespace-nowrap">{{ SITENAME }}</span>
           </a>
         </div>
         <div class="navbar-end">
-          <div class="megamenu max-md:megamenu-vertical megamenu-full" id="megamenu" popover>
+          <div class="megamenu max-md:megamenu-vertical" id="megamenu" popover>
             <span class="megamenu-active"></span>
-            <button popovertarget="menu-aktuality">
+            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-aktuality">
               Aktuality
             </button>
             <div id="menu-aktuality" popover>
@@ -43,7 +43,7 @@
                 {% endfor %}
               </ul>
             </div>
-            <button popovertarget="menu-sezony">
+            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-sezony">
               Sezóny
             </button>
             <div id="menu-sezony" popover>
@@ -53,7 +53,7 @@
                 {% endfor %}
               </ul>
             </div>
-            <button popovertarget="menu-stupne">
+            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-stupne">
               Stupně vítězů
             </button>
             <div id="menu-stupne" popover>
@@ -64,7 +64,11 @@
               </ul>
             </div>
           </div>
-          <a href="https://clenove.hrbatypes.cz/" class="text-lg font-medium">Pro členy</a>
+          <a
+            href="https://clenove.hrbatypes.cz/"
+            class="text-lg font-medium flex h-10 items-center px-3 whitespace-nowrap hover:bg-primary-content/10">
+            Pro členy
+          </a>
         </div>
       </div>
     </nav>

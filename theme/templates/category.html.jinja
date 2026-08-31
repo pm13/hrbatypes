@@ -4,11 +4,8 @@
   {{ category }}
 {% endblock %}
 
-{% block header %}
-  <div class="alert alert-dark h4 text-center py-2 mb-2 mt-n1">{{ category }}</div>
-{% endblock %}
-
 {% block content %}
+  <div class="alert alert-dark h4 text-center py-2 mb-2 mt-n1">{{ category }}</div>
   {% for article in articles|sort_articles %}
     {% if article.sticky %}
       {{ '<div class="border sticky p-3 mb-3">'|safe }}

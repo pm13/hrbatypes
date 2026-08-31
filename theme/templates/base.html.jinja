@@ -12,12 +12,15 @@
   </head>
   <body class="bg-base-100 text-base-content">
     <nav class="navbar bg-primary">
-      <div class="max-w-4xl mx-auto w-full">
+      <div class="max-w-4xl mx-auto w-full flex">
         <div class="navbar-start">
           <a href="/" class="flex items-center gap-2">
             <img src="/theme/logo.png" class="h-8">
             <span class="text-xl font-semibold">{{ SITENAME }}</span>
           </a>
+        </div>
+        <div class="navbar-end">
+          <a href="https://clenove.hrbatypes.cz/" class="text-lg font-medium">Pro členy</a>
         </div>
       </div>
     </nav>
@@ -32,10 +35,7 @@
     </main>
     <aside class="col-md-3 order-md-first">
       {% call local_nav_unit() %}
-        {{ local_link('Trénink', '/trenink/') }}
-        {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
         {{ local_link('Odkazy', '/odkazy/') }}
-        {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
       {% endcall %}
       {% call local_nav_unit('Aktuality') %}
         {% for article in (all_articles or articles)[:5] %}

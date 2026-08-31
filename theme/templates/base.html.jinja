@@ -12,7 +12,7 @@
   </head>
   <body class="bg-base-100 text-base-content">
     <nav class="navbar bg-primary">
-      <div class="max-w-5xl mx-auto w-full">
+      <div class="max-w-4xl mx-auto w-full">
         <div class="navbar-start">
           <a href="/" class="flex items-center gap-2">
             <img src="/theme/logo.png" class="h-8">
@@ -21,8 +21,12 @@
         </div>
       </div>
     </nav>
-    <main class="max-w-5xl mx-auto px-4 py-8">
-      <article class="prose prose-a:text-accent prose-a:no-underline prose-a:hover:underline max-w-none">
+    <main class="max-w-4xl mx-auto px-4 py-8">
+      <article
+        class="
+          prose prose-headings:font-medium prose-a:text-accent prose-a:no-underline prose-a:hover:underline
+          prose-tr:even:bg-base-200 max-w-none
+        ">
         {% block content %}{% endblock %}
       </article>
     </main>

@@ -14,12 +14,56 @@
     <nav class="navbar bg-primary">
       <div class="flex w-full max-w-4xl mx-auto">
         <div class="navbar-start">
+          <button class="btn btn-ghost btn-square md:hidden" popovertarget="megamenu" aria-label="Otevřít navigaci">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="size-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+            </svg>
+          </button>
           <a href="/" class="flex items-center gap-2">
             <img src="/theme/logo.png" alt="" class="h-8">
             <span class="text-xl font-semibold">{{ SITENAME }}</span>
           </a>
         </div>
         <div class="navbar-end">
+          <div class="megamenu max-md:megamenu-vertical megamenu-full" id="megamenu" popover>
+            <span class="megamenu-active"></span>
+            <button popovertarget="menu-aktuality">
+              Aktuality
+            </button>
+            <div id="menu-aktuality" popover>
+              <ul class="menu">
+                {% for article in (all_articles or articles)[:5] %}
+                  <li><a href="{{ '/' ~ article.url }}">{{ article.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            <button popovertarget="menu-sezony">
+              Sezóny
+            </button>
+            <div id="menu-sezony" popover>
+              <ul class="menu">
+                {% for category, articles in (categories|sort_categories)[:5] %}
+                  <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            <button popovertarget="menu-stupne">
+              Stupně vítězů
+            </button>
+            <div id="menu-stupne" popover>
+              <ul class="menu">
+                {% for category, articles in (categories|sort_categories)[:5] %}
+                  <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
           <a href="https://clenove.hrbatypes.cz/" class="text-lg font-medium">Pro členy</a>
         </div>
       </div>
@@ -37,17 +81,5 @@
         {% block content %}{% endblock %}
       </article>
     </main>
-    <aside class="col-md-3 order-md-first">
-      {% call local_nav_unit('Aktuality') %}
-        {% for article in (all_articles or articles)[:5] %}
-          {{ local_link(article.title, '/' ~ article.url) }}
-        {% endfor %}
-      {% endcall %}
-      {% call local_nav_unit('Sezóny') %}
-        {% for category, articles in categories|sort_categories %}
-          {{ local_link(category.name, '/' ~ category.url) }}
-        {% endfor %}
-      {% endcall %}
-    </aside>
   </body>
 </html>

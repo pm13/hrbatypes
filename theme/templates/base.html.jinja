@@ -33,7 +33,7 @@
         <div class="navbar-end">
           <div class="megamenu max-md:megamenu-vertical" id="megamenu" popover>
             <span class="megamenu-active"></span>
-            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-aktuality">
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-aktuality">
               Aktuality
             </button>
             <div id="menu-aktuality" popover>
@@ -43,17 +43,17 @@
                 {% endfor %}
               </ul>
             </div>
-            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-sezony">
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-sezony-vitezu">
               Sezóny
             </button>
-            <div id="menu-sezony" popover>
+            <div id="menu-sezony-vitezu" popover>
               <ul class="menu">
                 {% for category, articles in (categories|sort_categories)[:5] %}
                   <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
                 {% endfor %}
               </ul>
             </div>
-            <button class="text-lg font-medium px-3 whitespace-nowrap" popovertarget="menu-stupne">
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-stupne">
               Stupně vítězů
             </button>
             <div id="menu-stupne" popover>
@@ -66,7 +66,7 @@
           </div>
           <a
             href="https://clenove.hrbatypes.cz/"
-            class="text-lg font-medium flex h-10 items-center px-3 whitespace-nowrap hover:bg-primary-content/10">
+            class="flex h-10 items-center px-3 text-lg font-medium whitespace-nowrap hover:bg-primary-content/10">
             Pro členy
           </a>
         </div>

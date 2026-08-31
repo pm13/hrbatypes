@@ -5,5 +5,5 @@ Slug: clenove-oddilu
 ---
 
 <div class="pl-1">
-    <iframe src="https://clenove.hrbatypes.cz/iframe/clenove-oddilu/" class="w-100 border-0" height="750"></iframe>
+    <iframe src="https://clenove.hrbatypes.cz/iframe/clenove-oddilu/" height="750"></iframe>
 </div>

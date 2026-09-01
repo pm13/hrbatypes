@@ -1,5 +1,4 @@
 {% extends 'base.html.jinja' %}
-{% from 'macros.html.jinja' import article_header %}
 
 {% block title %}
   {{ article.title }}
@@ -7,6 +6,8 @@
 
 {% block content %}
   <h1>{{ article.title }}</h1>
-  {{ article_header(article, link_to_category=true) }}
-  {{ article.content|postprocess_content(smaller_headers=article.sticky) }}
+  {% with link_to_category=true %}
+    {% include 'article-header.html.jinja' %}
+  {% endwith %}
+  {{ article.content|replace('<h2>Přílohy:</h2>', '<h2 class="text-lg">Přílohy:</h2>') }}
 {% endblock %}

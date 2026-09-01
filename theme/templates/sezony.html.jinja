@@ -1,0 +1,12 @@
+{% extends 'page.html.jinja' %}
+
+{% block content %}
+  <h1>{{ page.title }}</h1>
+  <ul>
+    {% for category in categories|map('first')|sort(attribute='name', reverse=true) %}
+      {% if category != 'Stupně vítězů' %}
+        <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endblock %}

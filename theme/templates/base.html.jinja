@@ -50,7 +50,7 @@
                 {% for category in (categories|map('first')|sort(attribute='name', reverse=true))[:4] %}
                   <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
                 {% endfor %}
-                <li><a href="/" class="italic">další sezóny</a></li>
+                <li><a href="/sezony/" class="italic">další sezóny</a></li>
               </ul>
             </div>
             <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-stupne-vitezu">

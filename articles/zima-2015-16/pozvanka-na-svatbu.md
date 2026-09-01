@@ -1,6 +1,7 @@
 ---
 Title: Pozvánka na svatbu
-Category: Archív
+Date: 2015-06-19 00:00
+Category: Zima 2015/16
 Author: Zuzka
 ---
 

@@ -15,7 +15,7 @@
       <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
       {% include 'article-header.html.jinja' %}
       {{ article.summary }}
-      {% if not article.album %}
+      {% if article.content != article.summary %}
         <div class="-mt-4 {{ '-mb-4' if not article.sticky }} text-right">
           <a href="/{{ article.url }}" class="italic">číst dál</a>
         </div>

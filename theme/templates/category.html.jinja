@@ -1,28 +1,25 @@
 {% extends 'base.html.jinja' %}
-{% from 'macros.html.jinja' import article_header %}
 
 {% block title %}
   {{ category }}
 {% endblock %}
 
 {% block content %}
-  <div class="alert alert-dark h4 text-center py-2 mb-2 mt-n1">{{ category }}</div>
+  <div class="bg-base-300 text-xl text-center py-2 mb-4 -mt-4">{{ category }}</div>
   {% for article in articles|sort_articles %}
-    {% if article.sticky %}
-      {{ '<div class="border sticky p-3 mb-3">'|safe }}
-    {% endif %}
-    <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
-    {{ article_header(article) }}
-    {{ article.summary|postprocess_content(smaller_headers=true) }}
-    <div class="clearfix"></div>
-    {% if not article.album %}
-      <p class="text-right">
-        <em><a href="/{{ article.url }}">číst dál</a></em>
-      </p>
-    {% endif %}
-    {% if article.sticky %}
-      <div class="mt-n3"></div>
-      {{ '</div>'|safe }}
-    {% endif %}
+    <article
+      class="
+        prose-h1:text-3xl prose-h2:text-xl prose-h3:text-lg
+        {{ 'bg-base-200 border border-base-300 p-3 pb-0 my-3' if article.sticky }}
+      ">
+      <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
+      {% include 'article-header.html.jinja' %}
+      {{ article.summary }}
+      {% if not article.album %}
+        <div class="text-right">
+          <em><a href="/{{ article.url }}">číst dál</a></em>
+        </div>
+      {% endif %}
+    </article>
   {% endfor %}
 {% endblock %}

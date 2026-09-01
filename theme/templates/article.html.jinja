@@ -5,11 +5,11 @@
 {% endblock %}
 
 {% block content %}
-  <h1>{{ article.title }}</h1>
-  {% if article.category not in ('Archív', 'Stupně vítězů') %}
+  <article>
+    <h1>{{ article.title }}</h1>
     {% with link_to_category=true %}
       {% include 'article-header.html.jinja' %}
     {% endwith %}
-  {% endif %}
-  {{ article.content|replace('<h2>Přílohy:</h2>', '<h2 class="text-lg">Přílohy:</h2>') }}
+    {{ article.content|replace('<h2>Přílohy:</h2>', '<h2 class="text-lg">Přílohy:</h2>') }}
+  </article>
 {% endblock %}

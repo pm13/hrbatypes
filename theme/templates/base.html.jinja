@@ -36,7 +36,7 @@
             <div id="menu-aktuality" popover>
               <ul class="menu text-base">
                 {%
-                  for article in ((all_articles or articles)|rejectattr('category', 'equalto', 'Stupně vítězů')|list)[:5]
+                  for article in ((all_articles or articles)|rejectattr('category', 'eq', 'Stupně vítězů')|list)[:5]
                 %}
                   <li><a href="{{ '/' ~ article.url }}">{{ article.title }}</a></li>
                 {% endfor %}
@@ -47,7 +47,7 @@
             </button>
             <div id="menu-sezony" popover>
               <ul class="menu text-base">
-                {% for category, articles in (categories|reverse|list)[:4] %}
+                {% for category in (categories|map('first')|sort(attribute='name', reverse=true))[:4] %}
                   <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
                 {% endfor %}
                 <li><a href="/" class="italic">další sezóny</a></li>

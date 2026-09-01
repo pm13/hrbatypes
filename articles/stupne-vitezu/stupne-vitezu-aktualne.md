@@ -1,7 +1,7 @@
 ---
 Title: Stupně vítězů aktuálně
 Date: 2026-06-05 12:05
-Category: Archív
+Category: Stupně vítězů
 ---
 
 ## Kvadriatlon dvojic 2026

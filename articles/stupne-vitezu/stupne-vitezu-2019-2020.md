@@ -1,7 +1,7 @@
 ---
 Title: Stupně vítězů - 2019 a 2020
 Date: 2020-09-22 22:22
-Category: Archív
+Category: Stupně vítězů
 ---
 
 ## VIPrahlé duše 2020

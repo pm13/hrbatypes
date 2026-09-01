@@ -1,7 +1,7 @@
 ---
 Title: Stupně vítězů - 2021 a 2022
 Date: 2022-11-14 18:57
-Category: Archív
+Category: Stupně vítězů
 ---
 
 ## Velká Kunratická 2022

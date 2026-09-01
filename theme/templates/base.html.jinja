@@ -55,8 +55,12 @@
             </button>
             <div id="menu-stupne-vitezu" popover>
               <ul class="menu text-base">
-                {% for category, articles in (categories|sort_categories)[:5] %}
-                  <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
+                {% for category, articles in categories %}
+                  {% if category == 'Stupně vítězů' %}
+                    {% for article in articles %}
+                      <li><a href="{{ '/' ~ article.url }}">{{ (article.title.split(' - '))[1] }}</a></li>
+                    {% endfor %}
+                  {% endif %}
                 {% endfor %}
               </ul>
             </div>

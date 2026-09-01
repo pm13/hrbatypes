@@ -1,6 +1,6 @@
 ---
 Title: Stupně vítězů - 2019 a 2020
-Date: 2020-09-22 22:22
+Date: 2019-01-01 12:00
 Category: Stupně vítězů
 ---
 

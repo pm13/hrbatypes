@@ -1,6 +1,6 @@
 ---
 Title: Stupně vítězů - 2017 a 2018
-Date: 2019-05-12 12:00
+Date: 2017-01-01 12:00
 Category: Stupně vítězů
 ---
 

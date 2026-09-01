@@ -5,19 +5,19 @@
 {% endblock %}
 
 {% block content %}
-  <div class="bg-base-300 text-xl text-center py-2 mb-4 -mt-4">{{ category }}</div>
+  <div class="-mt-4 py-3 text-center text-xl bg-base-300">{{ category }}</div>
   {% for article in articles|sort_articles %}
     <article
       class="
         prose-h1:text-3xl prose-h2:text-xl prose-h3:text-lg
-        {{ 'bg-base-200 border border-base-300 p-3 pb-0 my-3' if article.sticky }}
+        {{ 'my-4 px-4 pt-3 pb-2 border border-base-300 bg-base-200' if article.sticky else 'prose-h1:mt-8' }}
       ">
       <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
       {% include 'article-header.html.jinja' %}
       {{ article.summary }}
       {% if not article.album %}
-        <div class="text-right">
-          <em><a href="/{{ article.url }}">číst dál</a></em>
+        <div class="-mt-4 {{ '-mb-4' if not article.sticky }} text-right">
+          <a href="/{{ article.url }}" class="italic">číst dál</a>
         </div>
       {% endif %}
     </article>

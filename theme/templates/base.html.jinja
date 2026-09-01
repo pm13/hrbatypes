@@ -35,7 +35,9 @@
             </button>
             <div id="menu-aktuality" popover>
               <ul class="menu text-base">
-                {% for article in (all_articles or articles)[:5] %}
+                {%
+                  for article in ((all_articles or articles)|rejectattr('category', 'equalto', 'Stupně vítězů')|list)[:5]
+                %}
                   <li><a href="{{ '/' ~ article.url }}">{{ article.title }}</a></li>
                 {% endfor %}
               </ul>

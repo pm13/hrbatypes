@@ -33,21 +33,21 @@ Do příští zimy s tím musím něco udělat, protože takhle z klasiky nemám
 
 Celkově 18. místo, co víc si přát.
 
-### BoBoloppet
+## BoBoloppet
 
 | Pořadí | Jméno        | Čas       | Ztráta    | Relativně |
 | ------ | ------------ | --------- | --------- | --------- |
 | 3.     | Petr Marhoun | 4:51:47.9 | 06:28.9   | 00:00.0   |
 | 70.    | Jan Pipek    | 7:12:12.3 | 2:26:53.3 | 2:20:24.4 |
 
-### Šumavák - 17 km volně
+## Šumavák - 17 km volně
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | Relativně |
 | ------ | --------------------- | --------- | ------- | --------- |
 | 3.     | Jan Ferdinand Polášek | 48:18.7   | 02:00.4 | 00:00.0   |
 | 80.    | Karel Žídek           | 1:05:30.6 | 19:12.4 | 17:12.0   |
 
-### Šumavák - 25 km klasicky
+## Šumavák - 25 km klasicky
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | Relativně | Modravský most 1 | Fischer segment 1 | Modravský most 2 | Fischer segment 2 |
 | ------ | --------------------- | --------- | ------- | --------- | ---------------- | ----------------- | ---------------- | ----------------- |

@@ -37,7 +37,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 8\. [Jilemnická 50](http://www.stopaprozivot.cz/zav/jilemnicka50), 7. - 8. února, Jilemnice
 
-## 4\. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
+## 4\. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
 
 - přihlášky od 3. 11. 2014, omezený počet startujících na 200 účastníků
 - 90 km všude v Jizerských horách
@@ -57,7 +57,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty, vypadá to velmi zajímavě
 - propozice se objeví na stránkách [Žižkovských tygrů](http://www.tygriskiatlon.cz/)
 
-## 35\. [Krušnohorská 30](http://k30.cz/), 15. února, Nové Město v Krušných horách
+## 35\. [Krušnohorská 30](https://k30.online/), 15. února, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 
@@ -66,7 +66,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - tradiční velké závody i pro malé lyžaře
 - krásné Novoměstské tratě, na kterých se jelo MS v biatlonu
 
-## 24\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 21. února, Paprsek
+## 24\. [Jelyman](https://jelyman.ssu.cz/), 21. února, Paprsek
 
 ## 30\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
 

@@ -31,7 +31,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 28. ledna, Velké Karlovice
 - [Orlický maraton](https://www.orlickymaraton.cz/), 2. - 3. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), 8. - 10. února, Bedřichov
-- [Jelyman](https://www.ski-tour.cz/jelyman/r6), 23. - 24. února, Paprsek
+- [Jelyman](https://jelyman.ssu.cz/), 23. - 24. února, Paprsek
 
 ### Seriál [Stopa pro(o) Život](http://www.stopaprozivot.cz/)
 
@@ -42,9 +42,9 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## Ostatní závody hodné vážného zřetele
 
-### 38. [Krušnohorská 30](https://www.k30.cz/), 29. prosince, Nové Město v Krušných horách
+### 38. [Krušnohorská 30](https://k30.online/), 29. prosince, Nové Město v Krušných horách
 
-### 39. [Krušnohorská 30](https://www.k30.cz/), 12. - 13. 1., Nové Město v Krušných horách
+### 39. [Krušnohorská 30](https://k30.online/), 12. - 13. 1., Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky
@@ -53,7 +53,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-### [Polevská lyže (a jiné)](http://www.skipolevsko.estranky.cz), 12. ledna, Polevsko
+### [Polevská lyže (a jiné)](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 12. ledna, Polevsko
 
 ### 8. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 2. února, Bedřichov
 

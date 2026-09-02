@@ -30,7 +30,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb Valašská Marcialonga, 29. - 30. ledna, Velké Karlovice - *zrušeno*
 - [Orlický maraton](https://www.orlickymaraton.cz/), <s>6. - 7. února</s>, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), <s>12. - 14. února</s>, Bedřichov
-- [Jelyman](https://www.ski-tour.cz/jelyman/r6), <s>27. - 28. února</s>, Paprsek
+- [Jelyman](https://jelyman.ssu.cz/), <s>27. - 28. února</s>, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), <s>5. - 7. března</s>, Polana Jakuszycka
 
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
@@ -47,11 +47,11 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - orientační závod dvojic
 
-### [Polevská lyže](https://skipolevsko.estranky.cz/), 16. - 24. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 16. - 24. ledna, Polevsko
 
-### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - *zrušeno*
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 30. ledna, Polevsko - *zrušeno*
 
-### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
+### 41. [Krušnohorská 30](https://k30.online/), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky

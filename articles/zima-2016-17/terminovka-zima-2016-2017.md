@@ -35,7 +35,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - 15\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga, 28. ledna, Velké Karlovice
 - 33\. [Orlický maraton](https://www.orlickymaraton.cz/), 4. - 5. února, Deštné v Orlických horách
 - 50\. [Jizerská 50](https://jiz50.cz/), 17. - 19. února, Bedřichov
-- 26\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 25. - 26. února, Paprsek
+- 26\. [Jelyman](https://jelyman.ssu.cz/), 25. - 26. února, Paprsek
 
 ### Seriál [Stopa pro(o) Život](http://www.stopaprozivot.cz/)
 
@@ -46,7 +46,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## Ostatní závody hodné vážného zřetele
 
-### 37. [Krušnohorská 30](http://k30.cz/), 14. - 15. ledna, Nové Město v Krušných horách
+### 37. [Krušnohorská 30](https://k30.online/), 14. - 15. ledna, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky
@@ -55,7 +55,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-### 5. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 4. února, Bedřichov
+### 5. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 4. února, Bedřichov
 
 - přihlášky od cca listopadu 2016, omezený počet startujících na 200 účastníků
 - 90 km všude v Jizerských horách

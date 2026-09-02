@@ -27,10 +27,10 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - [Horní Mísečky](https://www.ski-tour.cz/horni-misecky/r23), 7. - 8. ledna, Horní Mísečky - *přeloženo na 18. - 19. února*
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), 14. - 15. ledna, Churáňov - *zrušeno*
-- [Krušnohorská 30](https://www.ski-tour.cz/krusnohorska-30/r8), 21. - 22. ledna, Cínovec - *přeloženo na 4. - 5. března*
+- [Krušnohorská 30](https://k30.online/), 21. - 22. ledna, Cínovec - *přeloženo na 4. - 5. března*
 - [Orlický maraton](https://www.orlickymaraton.cz/), 4. - 5. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), 9. - 12. února, Bedřichov
-- [Jelyman](https://www.ski-tour.cz/jelyman/r6), 25. - 26. února, Paprsek
+- [Jelyman](https://jelyman.ssu.cz/), 25. - 26. února, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), 3. - 5. března, Polana Jakuszycka
 - [Harrachov](https://www.ski-tour.cz/harrachov/r24), 10. - 11. března, Harrachov
 

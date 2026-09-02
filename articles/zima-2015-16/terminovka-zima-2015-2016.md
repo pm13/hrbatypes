@@ -33,7 +33,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 5\. [Kašperská 30](http://www.kasperska30.cz/), 23. - 24. ledna, Churáňov
 
-## 36\. [Krušnohorská 30](http://k30.cz/), 23 - 24. ledna, Nové Město v Krušných horách
+## 36\. [Krušnohorská 30](https://k30.online/), 23 - 24. ledna, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 
@@ -48,7 +48,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - tradiční velké závody i pro malé lyžaře
 - krásné Novoměstské tratě, na kterých se jelo MS v biatlonu
 
-## 4\. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 6. února, Bedřichov
+## 4\. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 6. února, Bedřichov
 
 - přihlášky od 10. 11. 2015, omezený počet startujících na 200 účastníků
 - 90 km všude v Jizerských horách
@@ -65,7 +65,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - tradiční přebor MFF na dlouhých tratích
 
-## 25\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 27 - 28. února, Paprsek
+## 25\. [Jelyman](https://jelyman.ssu.cz/), 27 - 28. února, Paprsek
 
 ## 32\. [Orlický maraton](https://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
 

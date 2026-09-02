@@ -29,7 +29,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 12\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga - **zrušeno**
 
-## [34. Krušnohorská 30](http://www.k30.cz/), **přeloženo** na prosinec 2014, Nové Město v Krušných horách
+## [34. Krušnohorská 30](https://k30.online/), **přeloženo** na prosinec 2014, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - informace na stránkách [TJ Lokomotiva Teplice](http://lokomotiva-tp-lyze-beh.webnode.cz/)
@@ -50,7 +50,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty, vypadá to velmi zajímavě
 - propozice se objeví na stránkách [Žižkovských tygrů](http://behlyze.vse.cz/index.php?sekce=skiathlon)
 
-## 3\. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 8. února, Bedřichov - **zkráceno na 75 km**
+## 3\. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 8. února, Bedřichov - **zkráceno na 75 km**
 
 - 90 km všude v Jizerských horách
 - libovolný styl
@@ -64,7 +64,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - tradiční přebor MFF na dlouhých tratích
 
-## 23\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), přeloženo na 22. - 23. března, Paprsek - **zrušeno**
+## 23\. [Jelyman](https://jelyman.ssu.cz/), přeloženo na 22. - 23. března, Paprsek - **zrušeno**
 
 ## 38\. Bieg Piastów, 1. - 2. března, Jakuszyce - **zkráceno na 10!!! km**
 

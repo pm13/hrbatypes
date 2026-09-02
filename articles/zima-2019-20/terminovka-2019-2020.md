@@ -31,7 +31,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 24. - 25. ledna, Velké Karlovice
 - [Orlický maraton](https://www.orlickymaraton.cz/), 1. - 2. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), 7. - 9. února, Bedřichov
-- [Jelyman](https://www.ski-tour.cz/jelyman/r6), 22. - 23. února, Paprsek
+- [Jelyman](https://jelyman.ssu.cz/), 22. - 23. února, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), 28. února - 1. března, Polana Jakuszycka
 
 ### Seriál [Stopa pro(o) Život](http://www.stopaprozivot.cz/)

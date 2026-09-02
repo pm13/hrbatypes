@@ -65,7 +65,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - tradiční přebor MFF na dlouhých tratích
 
-## 25\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 27 - 28. února, Paprsek
+## 25\. [Jelyman](https://jelyman.ssu.cz/), 27 - 28. února, Paprsek
 
 ## 32\. [Orlický maraton](https://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
 

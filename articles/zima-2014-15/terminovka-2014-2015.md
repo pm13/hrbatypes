@@ -29,11 +29,11 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 1\. kolo VŠ ligy, 3. - 4. ledna, Benecko
 
-## 48\. [Jizerská 50](http://www.jiz50.cz), 9. - 11. ledna
+## 48\. [Jizerská 50](https://jiz50.cz/), 9. - 11. ledna
 
 ## 13\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga 24. ledna, Velké Karlovice
 
-## 31\. [Orlický maraton](http://www.orlickymaraton.cz/), 1. února, Deštné v Orlických horách
+## 31\. [Orlický maraton](https://www.orlickymaraton.cz/), 1. února, Deštné v Orlických horách
 
 ## 8\. [Jilemnická 50](http://www.stopaprozivot.cz/zav/jilemnicka50), 7. - 8. února, Jilemnice
 
@@ -68,18 +68,18 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 24\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 21. února, Paprsek
 
-## 30\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 21. - 22. února, Kvilda
+## 30\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
 
 - tradiční přebor MFF na dlouhých tratích
 
 ## 39\. [Bieg Piastów](http://www.bieg-piastow.pl/), 28. února, Jakuszyce
 
-## 60\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 28. února, Špindlerův Mlýn
+## 60\. [Krkonošská 70](https://www.krkonosska70.cz/), 28. února, Špindlerův Mlýn
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
-## 44\. [Karlův běh](http://www.stopaprozivot.cz/zav/karluvbeh), 7. - 8. března, Abertamy
+## 44\. [Karlův běh](https://www.karluvbeh.cz/), 7. - 8. března, Abertamy
 
 - krásný závod s rozumným množstvím účastníků
 

@@ -25,9 +25,9 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [Bedřichovský Night Light Marathon](https://stopaprozivot.cz/zavody/bnlm/propozice), 9. - 10. ledna, Bedřichov
-- [Karlův běh](https://stopaprozivot.cz/zavody/cardion-karluv-beh/propozice), 14. - 15. února, Boží Dar - *zrušeno*
-- [Šumavský skimaraton](https://stopaprozivot.cz/zavody/sumavsky-skimaraton-nova-sport/propozice), 21. - 22. února, Kvilda
-- [Krkonošská 70](https://stopaprozivot.cz/zavody/krkonosska-70/propozice), 8. března, Špindlerův Mlýn - *zrušeno*
+- [Karlův běh](https://www.karluvbeh.cz/), 14. - 15. února, Boží Dar - *zrušeno*
+- [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
+- [Krkonošská 70](https://www.krkonosska70.cz/), 8. března, Špindlerův Mlýn - *zrušeno*
 
 ## Ostatní závody hodné vážného zřetele
 
@@ -35,7 +35,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 17. ledna, Polevsko
 
-### [Jizerská 50](https://jiz50.cz), 29. ledna - 1. února, Bedřichov
+### [Jizerská 50](https://jiz50.cz/), 29. ledna - 1. února, Bedřichov
 
 ### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
 

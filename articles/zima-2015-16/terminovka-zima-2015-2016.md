@@ -27,7 +27,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## [Bedřichovský nightlight maraton](http://www.ski-tour.cz/cs/zavody/nightlightmaraton), 30. prosince, Bedřichov
 
-## 49\. [Jizerská 50](http://www.jiz50.cz), 8. - 10. ledna
+## 49\. [Jizerská 50](https://jiz50.cz/), 8. - 10. ledna
 
 ## 1\. kolo VŠ ligy, 16. - 17. ledna, Benecko
 
@@ -61,27 +61,27 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty
 - propozice se objeví na stránkách [Žižkovských tygrů](http://www.tygriskiatlon.cz/)
 
-## 31\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 27. - 28. února, Kvilda
+## 31\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 27. - 28. února, Kvilda
 
 - tradiční přebor MFF na dlouhých tratích
 
 ## 25\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 27 - 28. února, Paprsek
 
-## 32\. [Orlický maraton](http://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
+## 32\. [Orlický maraton](https://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
 
 ## 40\. [Bieg Piastów](http://www.bieg-piastow.pl/), 5. března, Jakuszyce
 
-## 61\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 5. března, Špindlerův Mlýn
+## 61\. [Krkonošská 70](https://www.krkonosska70.cz/), 5. března, Špindlerův Mlýn
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 28\. [Jesenická 70](http://www.jesenicka70.cz/cz/), 13. března, Skřítek
 
 - nejtěžší závod v běhu na lyžích na území ČR
 - po předloňské obnovené premiéře se pojede druhý ročník novodobé historie
 
-## 45\. [Karlův běh](http://www.stopaprozivot.cz/zav/karluvbeh), 12. - 13. března, Abertamy
+## 45\. [Karlův běh](https://www.karluvbeh.cz/), 12. - 13. března, Abertamy
 
 - krásný závod s rozumným množstvím účastníků
 

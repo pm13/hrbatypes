@@ -16,7 +16,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 1\. kolo VŠ ligy, 5. - 6. ledna, Benecko
 
-## 46\. [Jizerská 50](http://www.jiz50.cz), 11. - 13. ledna
+## 46\. [Jizerská 50](https://jiz50.cz/), 11. - 13. ledna
 
 ## 6\. Jilemnická 50, 19. - 20. ledna
 
@@ -33,7 +33,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 29\. Orlický maraton, 2. - 3. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 42\. Karlův běh, 9. - 10. února
 
@@ -48,7 +48,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 28\. Šumavský skimaraton, 23. - 24. února
 
-- informace k závodu naleznete na stránkách [Ski klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 2. - 3. března, Jakuszyce
 
@@ -57,7 +57,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 ## Krkonošská 70, 3. března, Špindlerův Mlýn
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 4\. kolo VŠ ligy, 9. - 10. března, HUMANITA
 

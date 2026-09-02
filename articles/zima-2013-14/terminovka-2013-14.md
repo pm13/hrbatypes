@@ -29,7 +29,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 12\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga - **zrušeno**
 
-## [34. Krušnohorská 30](http://www.k30.cz/), **přeloženo** na prosinec 2014, Nové Město v Krušných horách
+## [34. Krušnohorská 30](https://k30.online/), **přeloženo** na prosinec 2014, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - informace na stránkách [TJ Lokomotiva Teplice](http://lokomotiva-tp-lyze-beh.webnode.cz/)

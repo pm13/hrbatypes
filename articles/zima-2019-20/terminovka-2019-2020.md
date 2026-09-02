@@ -44,7 +44,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ## Ostatní závody hodné vážného zřetele
 
-### 40. [Krušnohorská 30](https://k30-lote.webnode.cz), 25. - 26. 1., Nové Město v Krušných horách
+### 40. [Krušnohorská 30](https://k30.online/), 25. - 26. 1., Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky

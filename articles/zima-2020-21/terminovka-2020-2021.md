@@ -51,7 +51,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 30. ledna, Polevsko - *zrušeno*
 
-### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
+### 41. [Krušnohorská 30](https://k30.online/), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 - doporučujeme jet kombo, tedy v sobotu 15 km skate a v neděli 30 km klasicky

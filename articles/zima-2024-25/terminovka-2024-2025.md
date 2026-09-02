@@ -49,7 +49,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - libovolný styl
 - součást série závodů Bobotripple, který Petr vyhrál v roce 2015
 
-### [Krušnohorská 30](https://www.k30.cz/), 15. - 16. února, Nové Město v Krušných horách
+### [Krušnohorská 30](https://k30.online/), 15. - 16. února, Nové Město v Krušných horách
 
 ### [Jelyman](https://jelyman.ssu.cz/), 22. - 23. února, Paprsek
 

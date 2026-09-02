@@ -57,7 +57,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty, vypadá to velmi zajímavě
 - propozice se objeví na stránkách [Žižkovských tygrů](http://www.tygriskiatlon.cz/)
 
-## 35\. [Krušnohorská 30](http://k30.cz/), 15. února, Nové Město v Krušných horách
+## 35\. [Krušnohorská 30](https://k30.online/), 15. února, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 

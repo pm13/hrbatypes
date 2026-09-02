@@ -33,7 +33,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 5\. [Kašperská 30](http://www.kasperska30.cz/), 23. - 24. ledna, Churáňov
 
-## 36\. [Krušnohorská 30](http://k30.cz/), 23 - 24. ledna, Nové Město v Krušných horách
+## 36\. [Krušnohorská 30](https://k30.online/), 23 - 24. ledna, Nové Město v Krušných horách
 
 - příjemný malý závod v krásné krajině Krušných hor
 

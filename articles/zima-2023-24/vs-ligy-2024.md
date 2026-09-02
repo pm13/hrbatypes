@@ -5,7 +5,7 @@ Category: Zima 2023/24
 Author: Petr
 ---
 
-### Velká cena Jilemnice
+## Velká cena Jilemnice
 
 **Petr**: VŠ liga - 10 km skate s překážkami - 9. místo, ve VŠ lize vítězství 💪
 
@@ -15,7 +15,7 @@ Také Velká cena Jilemnice a ještě něco pražského (což jsem taky vyhrál)
 | ------ | ------------ | ------- | ------ |
 | 9.     | Petr Marhoun | 32:38.6 | 3:32.7 |
 
-### Pražský pohár - skate
+## Pražský pohár - skate
 
 **Ferda**: Lyže dobrý, ale lyžař špatný
 
@@ -24,7 +24,7 @@ Také Velká cena Jilemnice a ještě něco pražského (což jsem taky vyhrál)
 | 4.     | Ferda Polášek | 29:17.9 | 0:42.6 | 0:00.0    |
 | 7.     | Petr Marhoun  | 30:38.4 | 2:03.1 | 1:20.5    |
 
-### Pražský pohár - klasika
+## Pražský pohár - klasika
 
 **Ferda**: Porazil jsem Kyborga 💪💪💪, jen ten rolnický čajíček mi vrátil včerejší porážku. Jinak klasiku bych se měl zase naučit, nejde mi tak jak bych chtěl. Ale pozitivní bylo, že Martin mi moc neujel 💪💪. Sajdlík je dobrej ¯\_(ツ)\_/¯
 

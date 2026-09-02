@@ -4,27 +4,23 @@
   {{ category }}
 {% endblock %}
 
-{% block header %}
-  <div class="alert alert-dark h4 text-center py-2 mb-2 mt-n1">{{ category }}</div>
-{% endblock %}
-
 {% block content %}
+  <div class="-mt-4 py-3 text-center text-xl bg-base-300">{{ category }}</div>
   {% for article in articles|sort_articles %}
-    {% if article.sticky %}
-      {{ '<div class="border sticky p-3 mb-3">'|safe }}
-    {% endif %}
-    <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
-    {{ article_header(article) }}
-    {{ article.summary|postprocess_content(smaller_headers=true) }}
-    <div class="clearfix"></div>
-    {% if not article.album %}
-      <p class="text-right">
-        <em><a href="/{{ article.url }}">číst dál</a></em>
-      </p>
-    {% endif %}
-    {% if article.sticky %}
-      <div class="mt-n3"></div>
-      {{ '</div>'|safe }}
-    {% endif %}
+    <article
+      class="
+        flow-root
+        prose-h1:text-3xl prose-h2:text-xl prose-h3:text-lg
+        {{ 'my-4 px-4 pt-3 pb-2 border border-base-300 bg-base-200' if article.sticky else 'prose-h1:mt-8' }}
+      ">
+      <h1><a href="/{{ article.url }}">{{ article.title }}</a></h1>
+      {% include 'article-header.html.jinja' %}
+      {{ article.summary }}
+      {% if article.content != article.summary %}
+        <div class="-mt-4 {{ '-mb-4' if not article.sticky }} text-right clear-both">
+          <a href="/{{ article.url }}" class="italic">číst dál</a>
+        </div>
+      {% endif %}
+    </article>
   {% endfor %}
 {% endblock %}

@@ -19,7 +19,7 @@ Ale dobře to dopadlo! Hodně jsem trpěl v kopci z luk nahoru - střídal skák
 
 **Tomáš k neděli:** Chvilku trvalo hodinkám než se ze závodu probraly... 😀 máza celkem ok, dolů to jelo pěkně, nahoru spíš střed, síly v druhém kopci trochu došly a jeden maník mi tam frnknul, ale bavilo 😀 i když teda ve sjezdech v tý vánici člověk houby viděl 😀 ztráta pod 10 % na Petra dost přijatelná a 11. místo hezké překvapení 😀 tak snad vyladěno dobře 😀
 
-### 20 km volně
+## 20 km volně
 
 | Pořadí | Jméno        |
 | ------ | ------------ |
@@ -27,14 +27,14 @@ Ale dobře to dopadlo! Hodně jsem trpěl v kopci z luk nahoru - střídal skák
 
 ![Zlomená hůlka z Orličáku]({static}/static/zima-2021-22/orlicak-zlomena-hulka.jpg){: width="400"}
 
-### 40 km klasicky
+## 40 km klasicky
 
 | Pořadí | Jméno        | Čas       | Ztráta  | Relativně |
 | ------ | ------------ | --------- | ------- | --------- |
 | 5.     | Petr Marhoun | 2:24:06.0 | 12:38.0 | 00:00.0   |
 | 11.    | Tomáš Rusý   | 2:34:55.0 | 23:27.0 | 10:49.0   |
 
-### 20 km klasicky
+## 20 km klasicky
 
 | Pořadí | Jméno       | Čas       | Ztráta    |
 | ------ | ----------- | --------- | --------- |

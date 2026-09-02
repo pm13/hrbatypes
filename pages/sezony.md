@@ -1,0 +1,4 @@
+---
+Title: Sezóny
+Template: sezony
+---

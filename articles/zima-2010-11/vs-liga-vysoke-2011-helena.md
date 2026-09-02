@@ -4,7 +4,6 @@ Date: 2011-02-20 19:27
 Category: Zima 2010/11
 Author: Helena
 Slug: vs-liga-vysoke-2011/helena
-Album: 1
 ---
 
 Hrbatí psi v akci.

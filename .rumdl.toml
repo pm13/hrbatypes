@@ -37,4 +37,4 @@ aligned-delimiter = true
 
 [MD072]
 enabled = true
-key-order = ["Title", "Date", "Category", "Author", "Aside", "Slug", "Sticky", "Album"]
+key-order = ["Title", "Date", "Category", "Author", "Aside", "Slug", "Sticky"]

@@ -77,12 +77,12 @@ a
 
 ### Vyšší (formátovací) dívčí
 
-Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [Bootstrap](https://getbootstrap.com/)) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
+Jednotlivým elementům textu lze přidat CSS třídu (které rozumí [Tailwind](https://tailwindcss.com/)) a další atributy. To se může hodit třeba pro obtékání obrázku. Příklad za všechny:
 
 ```markdown
-![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}
+![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: width="450" .float-left .mr-2}
 ```
 
-Zde obrázek s Ferdinandem plave vlevo (viz [float](https://getbootstrap.com/docs/4.3/utilities/float/)), vpravo má okraj 2 jednotky (viz [spacing](https://getbootstrap.com/docs/4.3/utilities/spacing/)) a je 450 pixelů široký (pochopitelně!).
+Zde obrázek s Ferdinandem plave vlevo (viz [float](https://tailwindcss.com/docs/float)), vpravo má okraj 2 jednotky (viz [margin](https://tailwindcss.com/docs/margin)) a je 450 pixelů široký (pochopitelně!).
 
 Inspirujte se existujícími články a nebojte se zeptat toho, kdo to celé zpískal.

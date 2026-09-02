@@ -4,7 +4,6 @@ Date: 2015-01-13 00:16
 Category: Zima 2014/15
 Author: Ferda
 Slug: vs-liga-benecko-3-4-1-2015/ferda
-Album: 1
 ---
 
 [Album](https://photos.app.goo.gl/ufuq47HEUPcoNdvQ8)

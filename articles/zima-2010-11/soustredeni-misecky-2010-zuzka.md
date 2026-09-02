@@ -4,7 +4,6 @@ Date: 2010-12-20 00:00
 Category: Zima 2010/11
 Author: Zuzka
 Slug: soustredeni-misecky-2010/zuzka
-Album: 1
 ---
 
 Veselý a hravý závan z malebné krajiny Krkonoš.

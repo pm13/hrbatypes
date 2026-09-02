@@ -1,49 +1,99 @@
-{% from 'macros.html.jinja' import local_nav_unit, article_header %}
-{% from 'macros.html.jinja' import local_link with context %}
-
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}{% endblock %} | {{ SITENAME }}</title>
-    <link rel="stylesheet" href="/theme/style.min.css" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/theme/{{ 'site.css' if CSS_DEBUG else 'site.min.css' }}">
+    <link rel="icon" href="/favicon.ico">
   </head>
-  <body>
-    <nav class="navbar fixed-top p-0 pt-1">
-      <div class="container">
-        <a class="navbar-brand" href="/">
-          <img src="/theme/logo.png" />
-          {{ SITENAME }}
-        </a>
+  <body class="bg-base-100 text-base-content">
+    <nav class="navbar bg-primary">
+      <div class="flex w-full max-w-4xl mx-auto">
+        <div class="navbar-start">
+          <button class="btn btn-ghost btn-square md:hidden" popovertarget="megamenu" aria-label="Otevřít navigaci">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="size-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+            </svg>
+          </button>
+          <a href="/" class="flex items-center gap-2">
+            <img src="/theme/logo.png" alt="" class="h-8">
+            <span class="text-xl font-semibold whitespace-nowrap">{{ SITENAME }}</span>
+          </a>
+        </div>
+        <div class="navbar-end">
+          <div id="megamenu" class="megamenu max-md:megamenu-vertical" popover>
+            <span class="megamenu-active"></span>
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-aktuality">
+              Aktuality
+            </button>
+            <div id="menu-aktuality" popover>
+              <ul class="menu text-base">
+                {%
+                  for article in ((all_articles or articles)|rejectattr('category', 'eq', 'Stupně vítězů')|list)[:5]
+                %}
+                  <li><a href="{{ '/' ~ article.url }}">{{ article.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-sezony">
+              Sezóny
+            </button>
+            <div id="menu-sezony" popover>
+              <ul class="menu text-base">
+                {% for category in (categories|map('first')|sort(attribute='name', reverse=true))[:4] %}
+                  <li><a href="{{ '/' ~ category.url }}">{{ category.name }}</a></li>
+                {% endfor %}
+                <li><a href="/sezony/" class="italic">další sezóny</a></li>
+              </ul>
+            </div>
+            <button class="px-3 text-lg font-medium whitespace-nowrap" popovertarget="menu-stupne-vitezu">
+              Stupně vítězů
+            </button>
+            <div id="menu-stupne-vitezu" popover>
+              <ul class="menu text-base">
+                {% for category, articles in categories %}
+                  {% if category == 'Stupně vítězů' %}
+                    {% for article in articles %}
+                      <li><a href="{{ '/' ~ article.url }}">{{ (article.title.split(' - '))[1] }}</a></li>
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <a
+            href="https://clenove.hrbatypes.cz/"
+            class="flex h-10 items-center px-3 text-lg font-medium whitespace-nowrap hover:bg-primary-content/10">
+            Pro členy
+          </a>
+        </div>
       </div>
     </nav>
-    <div class="container">
-      <div class="row mb-2">
-        <header class="col-md-9 offset-md-3">{% block header %}{% endblock %}</header>
+    <main class="mx-auto max-w-4xl px-4 py-8">
+      <div
+        class="
+          prose max-w-none
+          prose-headings:mb-4 prose-headings:font-medium
+          prose-h2:mt-6
+          prose-h3:mt-4
+          prose-p:my-4
+          prose-ul:my-4
+          prose-li:my-1
+          prose-table:my-4
+          prose-th:px-2 prose-td:px-2
+          prose-img:my-1
+          prose-a:text-accent prose-a:no-underline prose-a:hover:underline
+          prose-tr:even:bg-base-200
+        ">
+        {% block content %}{% endblock %}
       </div>
-      <div class="row">
-        <main class="col-md-9 order-md-last">{% block content %}{% endblock %}</main>
-        <aside class="col-md-3 order-md-first">
-          {% call local_nav_unit() %}
-            {{ local_link('Trénink', '/trenink/') }}
-            {{ local_link('Členové oddílu', '/clenove-oddilu/') }}
-            {{ local_link('Odkazy', '/odkazy/') }}
-            {{ local_link('<em>Pro členy</em>'|safe, 'https://clenove.hrbatypes.cz/') }}
-          {% endcall %}
-          {% call local_nav_unit('Aktuality') %}
-            {% for article in (all_articles or articles)[:5] %}
-              {{ local_link(article.title, '/' ~ article.url) }}
-            {% endfor %}
-          {% endcall %}
-          {% call local_nav_unit('Sezóny') %}
-            {% for category, articles in categories|sort_categories %}
-              {{ local_link(category.name, '/' ~ category.url) }}
-            {% endfor %}
-          {% endcall %}
-        </aside>
-      </div>
-    </div>
+    </main>
   </body>
 </html>

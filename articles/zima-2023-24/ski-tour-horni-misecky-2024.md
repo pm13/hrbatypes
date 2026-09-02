@@ -15,7 +15,7 @@ Hodilo se správně vyhodnotit, že nejsem dobrý lyžař. Swix radil 45 - já s
 
 První pořádný závod a hned na Mísečkách. Ke konci trošku docházely síly, ale celkově asi spokojenost. Hlavně hromada zkušeností pro příště, například že už bych si fakt měl pořídit brýle 😅
 
-### 30 km klasicky
+## 30 km klasicky
 
 třikrát sedmička a svážnice ke sjezdovce
 

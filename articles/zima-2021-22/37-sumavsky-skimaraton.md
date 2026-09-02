@@ -35,20 +35,20 @@ Za 14. dní je cíl jasný 🥇 na K70 💪💪💪 Bude to velké.
 
 Navíc dnes naprosto nejlepší fanynka!
 
-### 46 km volně
+## 46 km volně
 
 | Pořadí | Jméno                 | Čas       | Ztráta  | Relativně | 4 km    | 14 km   | 22 km     | 26 km     | 36 km     | 44 km     |
 | ------ | --------------------- | --------- | ------- | --------- | ------- | ------- | --------- | --------- | --------- | --------- |
 | 2.     | Jan Ferdinand Polášek | 2:19:04.6 | 04:12.4 | 00:00.0   | 09:00.5 | 38:01.4 | 1:02:28.4 | 1:17:48.3 | 1:48:25.3 | 2:13:51.5 |
 | 5.     | Petr Marhoun          | 2:26:24.3 | 11:32.2 | 07:19.8   | 09:09.1 | 39:46.4 | 1:06:05.9 | 1:22:20.3 | 1:54:20.6 | 2:20:44.3 |
 
-### 23 km volně
+## 23 km volně
 
 | Pořadí | Jméno        | Čas       | Ztráta  | 4 km    | 14 km   | 22 km     |
 | ------ | ------------ | --------- | ------- | ------- | ------- | --------- |
 | 16.    | Petr Polášek | 1:10:05.3 | 05:19.2 | 09:39.6 | 39:45.0 | 1:05:10.9 |
 
-### 45 km klasicky
+## 45 km klasicky
 
 | Pořadí | Jméno                 | Čas       | Ztráta    | Relativně | 4 km    | 14 km   | 19 km     | 43 km     |
 | ------ | --------------------- | --------- | --------- | --------- | ------- | ------- | --------- | --------- |
@@ -63,6 +63,4 @@ Navíc dnes naprosto nejlepší fanynka!
 - [45 km CT]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-abs.pdf)
 - [45 km CT týmy]({static}/static/zima-2021-22/20220227-spz-sm-45-km-ct-tymy.pdf)
 
-![Poháry ze skatu]({static}/static/zima-2021-22/sumavak-pohary.jpg){: width="400" .float-md-left .mr-3}
-
-![Soudek z týmů]({static}/static/zima-2021-22/sumavak-soudek.jpg){: width="400" .float-md-left}
+![Poháry ze skatu]({static}/static/zima-2021-22/sumavak-pohary.jpg){: width="400" .inline-block .mr-3} ![Soudek z týmů]({static}/static/zima-2021-22/sumavak-soudek.jpg){: width="400" .inline-block}

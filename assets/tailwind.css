@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@plugin "daisyui" {
+  themes: hrbatypes --default;
+}
+
+@plugin "daisyui/theme" {
+  name: "hrbatypes";
+  default: true;
+  color-scheme: light;
+  --color-base-100: oklch(1 0 0);
+  --color-base-200: oklch(0.97 0 0);
+  --color-base-300: oklch(0.90 0 0);
+  --color-base-content: oklch(0.22 0 0);
+  --color-primary: #ffc000;
+  --color-primary-content: #000000;
+  --color-accent: #de6207;
+  --color-accent-content: #ffffff;
+}
+
+.prose {
+  --tw-prose-th-borders: oklch(0.77 0 0);
+  --tw-prose-td-borders: var(--color-base-300);
+}

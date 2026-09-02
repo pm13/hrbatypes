@@ -1,0 +1,13 @@
+{% if article.category not in ('Archív', 'Stupně vítězů') %}
+  <p class="italic">
+    {{ article.locale_date }}
+    {% if article.author %}
+      – {{ article.author }}
+    {% endif %}
+    {% if link_to_category %}
+      – <a href="/{{ article.category.url }}">{{ article.category }}</a>
+    {% else %}
+      – {{ article.category }}
+    {% endif %}
+  </p>
+{% endif %}

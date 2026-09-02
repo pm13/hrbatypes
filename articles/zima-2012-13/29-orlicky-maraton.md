@@ -12,7 +12,7 @@ Author: Jirka
 | 27.    | Ferda | 2:26:37 |        |
 | 35.    | Jirka | 2:28:57 | +2:20  |
 
-![Ferda]({static}/static/zima-2012-13/orlicak-ferda.jpg){: width="150"} ![Jirka]({static}/static/zima-2012-13/orlicak-jirka.jpg){: width="150"}
+![Ferda]({static}/static/zima-2012-13/orlicak-ferda.jpg){: width="150" .inline-block .ml-3} ![Jirka]({static}/static/zima-2012-13/orlicak-jirka.jpg){: width="150" .inline-block}
 
 ## Přílohy:
 

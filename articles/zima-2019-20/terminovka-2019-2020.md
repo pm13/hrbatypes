@@ -54,7 +54,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - orientační závod dvojic
 
-### [Polevská lyže](http://www.skipolevsko.estranky.cz), 18. ledna, Polevsko
+### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 18. ledna, Polevsko
 
 ### [Lužická 30](http://www.skipolevsko.estranky.cz), 1. února, Polevsko
 

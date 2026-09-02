@@ -53,7 +53,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-### [Polevská lyže (a jiné)](http://www.skipolevsko.estranky.cz), 12. ledna, Polevsko
+### [Polevská lyže (a jiné)](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 12. ledna, Polevsko
 
 ### 8. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 2. února, Bedřichov
 

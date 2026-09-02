@@ -50,7 +50,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty, vypadá to velmi zajímavě
 - propozice se objeví na stránkách [Žižkovských tygrů](http://behlyze.vse.cz/index.php?sekce=skiathlon)
 
-## 3\. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 8. února, Bedřichov - **zkráceno na 75 km**
+## 3\. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 8. února, Bedřichov - **zkráceno na 75 km**
 
 - 90 km všude v Jizerských horách
 - libovolný styl

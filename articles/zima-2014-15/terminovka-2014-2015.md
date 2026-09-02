@@ -37,7 +37,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 8\. [Jilemnická 50](http://www.stopaprozivot.cz/zav/jilemnicka50), 7. - 8. února, Jilemnice
 
-## 4\. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
+## 4\. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 7. února, Bedřichov
 
 - přihlášky od 3. 11. 2014, omezený počet startujících na 200 účastníků
 - 90 km všude v Jizerských horách

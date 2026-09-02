@@ -4,7 +4,6 @@ Date: 2012-12-21 19:25
 Category: Zima 2012/13
 Author: Helena
 Slug: soustredeni-misecky-2012/helena
-Album: 1
 ---
 
 Počasí nám přálo...

@@ -9,11 +9,11 @@ Jmenuji se Petr Einar a nejsem žádné ořezávátko, takže se na mne všichni
 
 Ténujeme záda. Vzkaz všem budoucím soupeřům.
 
-![Trénujeme záda]({static}/static/zima-2012-13/pe-zada.jpg){: width="300"} ![Vzkaz všem budoucím soupeřům]({static}/static/zima-2012-13/pe-vzkaz.jpg){: width="300" .float-right .ml-2}
+![Trénujeme záda]({static}/static/zima-2012-13/pe-zada.jpg){: width="300" .inline-block .mr-3} ![Vzkaz všem budoucím soupeřům]({static}/static/zima-2012-13/pe-vzkaz.jpg){: width="300" .inline-block}
 
 Tratě znám už nazpaměť. Malý Birkebeinerec.
 
-![Tratě znám už nazpaměť]({static}/static/zima-2012-13/pe-trate.jpg){: width="300"} ![Malý Birkebeinerec]({static}/static/zima-2012-13/pe-birkebeinerec.jpg){: width="300" .float-right .ml-2}
+![Tratě znám už nazpaměť]({static}/static/zima-2012-13/pe-trate.jpg){: width="300" .inline-block .mr-3} ![Malý Birkebeinerec]({static}/static/zima-2012-13/pe-birkebeinerec.jpg){: width="300" .inline-block}
 
 Konzultace s šéftrenérkou.
 

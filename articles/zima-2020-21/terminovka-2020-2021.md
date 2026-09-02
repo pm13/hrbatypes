@@ -49,7 +49,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 16. - 24. ledna, Polevsko
 
-### [Lužická 30](https://skipolevsko.estranky.cz/), 30. ledna, Polevsko - *zrušeno*
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 30. ledna, Polevsko - *zrušeno*
 
 ### 41. [Krušnohorská 30](https://k30-lote.webnode.cz), <s>30. - 31. ledna</s>, Nové Město v Krušných horách
 

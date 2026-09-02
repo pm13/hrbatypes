@@ -66,7 +66,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - tradiční velké závody i pro malé lyžaře
 - krásné Novoměstské tratě, na kterých se jelo MS v biatlonu
 
-## 24\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 21. února, Paprsek
+## 24\. [Jelyman](https://jelyman.ssu.cz/), 21. února, Paprsek
 
 ## 30\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
 

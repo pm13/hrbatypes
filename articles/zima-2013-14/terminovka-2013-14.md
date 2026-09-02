@@ -64,7 +64,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - tradiční přebor MFF na dlouhých tratích
 
-## 23\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), přeloženo na 22. - 23. března, Paprsek - **zrušeno**
+## 23\. [Jelyman](https://jelyman.ssu.cz/), přeloženo na 22. - 23. března, Paprsek - **zrušeno**
 
 ## 38\. Bieg Piastów, 1. - 2. března, Jakuszyce - **zkráceno na 10!!! km**
 

@@ -18,7 +18,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 1\. kolo VŠ ligy, 4. - 5. ledna, Benecko
 
-## 47\. [Jizerská 50](http://www.jiz50.cz), 10. - 12. ledna - **zrušeno**
+## 47\. [Jizerská 50](https://jiz50.cz/), 10. - 12. ledna - **zrušeno**
 
 ## 7\. [Jilemnická 50](http://www.ski-tour.cz/cs/zavody/jilemnicka50), 8. - 9. března, Horní Mísečky - **zrušeno**
 

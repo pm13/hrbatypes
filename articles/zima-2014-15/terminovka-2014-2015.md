@@ -29,7 +29,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 1\. kolo VŠ ligy, 3. - 4. ledna, Benecko
 
-## 48\. [Jizerská 50](http://www.jiz50.cz), 9. - 11. ledna
+## 48\. [Jizerská 50](https://jiz50.cz/), 9. - 11. ledna
 
 ## 13\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga 24. ledna, Velké Karlovice
 

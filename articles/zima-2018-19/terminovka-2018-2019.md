@@ -30,7 +30,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - [Kašperská 30](https://www.ski-tour.cz/kasperska-30/r3), 19. - 20. ledna, Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 28. ledna, Velké Karlovice
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 2. - 3. února, Deštné v Orlických horách
-- [Jizerská 50](http://jiz50.cz), 8. - 10. února, Bedřichov
+- [Jizerská 50](https://jiz50.cz/), 8. - 10. února, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), 23. - 24. února, Paprsek
 
 ### Seriál [Stopa pro(o) Život](http://www.stopaprozivot.cz/)

@@ -30,7 +30,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Krušnohorská 30](https://www.ski-tour.cz/krusnohorska-30/r8), 22. - 23. ledna, Nové Město v Krušných horách
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 28. - 29. ledna, Velké Karlovice
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 5. - 6. února, Deštné v Orlických horách
-- [Jizerská 50](https://jiz50.cz), 11. - 13. února, Bedřichov
+- [Jizerská 50](https://jiz50.cz/), 11. - 13. února, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), 26. - 27. února, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), 4. - 6. března, Polana Jakuszycka
 

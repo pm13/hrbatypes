@@ -29,7 +29,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), <s>16. - 17. ledna</s>, Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb Valašská Marcialonga, 29. - 30. ledna, Velké Karlovice - *zrušeno*
 - [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), <s>6. - 7. února</s>, Deštné v Orlických horách
-- [Jizerská 50](https://jiz50.cz), <s>12. - 14. února</s>, Bedřichov
+- [Jizerská 50](https://jiz50.cz/), <s>12. - 14. února</s>, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), <s>27. - 28. února</s>, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), <s>5. - 7. března</s>, Polana Jakuszycka
 

@@ -41,7 +41,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - *zrušeno*
 
-### [Jizerská 50](https://jiz50.cz), 6. - 9. února, Bedřichov
+### [Jizerská 50](https://jiz50.cz/), 6. - 9. února, Bedřichov
 
 ### [BoBoloppet](https://www.boboloppet.com/boboloppet/), 15. února, Bedřichov
 

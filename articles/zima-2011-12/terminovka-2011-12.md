@@ -14,7 +14,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 - přebor MFF
 
-## 45\. [Jizerská 50](http://www.jiz50.cz), 6. - 8. ledna
+## 45\. [Jizerská 50](https://jiz50.cz/), 6. - 8. ledna
 
 ## 1\. kolo VŠ ligy, 14. - 15. ledna, Benecko
 

@@ -27,7 +27,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## [Bedřichovský nightlight maraton](http://www.ski-tour.cz/cs/zavody/nightlightmaraton), 30. prosince, Bedřichov
 
-## 49\. [Jizerská 50](http://www.jiz50.cz), 8. - 10. ledna
+## 49\. [Jizerská 50](https://jiz50.cz/), 8. - 10. ledna
 
 ## 1\. kolo VŠ ligy, 16. - 17. ledna, Benecko
 

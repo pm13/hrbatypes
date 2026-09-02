@@ -35,7 +35,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 28\. Orlický maraton, 4. - 5. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 1\. Šumavská třicítka
 

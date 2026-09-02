@@ -67,7 +67,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 25\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 27 - 28. února, Paprsek
 
-## 32\. [Orlický maraton](http://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
+## 32\. [Orlický maraton](https://www.orlickymaraton.cz/), 5. - 6. března, Deštné v Orlických horách
 
 ## 40\. [Bieg Piastów](http://www.bieg-piastow.pl/), 5. března, Jakuszyce
 

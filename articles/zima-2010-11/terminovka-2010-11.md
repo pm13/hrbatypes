@@ -28,7 +28,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 
 ## 27\. Orlický maraton, 5. - 6. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 40\. Karlův běh, 12. - 13. února
 

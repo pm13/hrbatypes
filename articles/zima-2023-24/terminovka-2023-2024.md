@@ -30,7 +30,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Horní Mísečky](https://www.ski-tour.cz/propozice/horni-misecky), 13. - 14. ledna, Horní Mísečky
 - [Krušnohorská 30](https://www.ski-tour.cz/propozice/krusnohorska30), 20. - 21. ledna, Cínovec - *zrušeno*
 - [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/propozice/bedrichovsky-night-light-marathon), 26. - 27. ledna, Bedřichov
-- [Orlický maraton](https://www.ski-tour.cz/propozice/orlicky-maraton), 3. - 4. února, Deštné v Orlických horách
+- [Orlický maraton](https://www.orlickymaraton.cz/), 3. - 4. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), 8. - 11. února, Bedřichov - *zrušeno*
 - [Jelyman](https://www.ski-tour.cz/propozice/jelyman), 24. - 25. února, Paprsek - *zrušeno*
 - [Bieg Piastow](https://www.ski-tour.cz/propozice/bieg-piastow), 1. - 3. března, Polana Jakuszycka - *zrušeno*

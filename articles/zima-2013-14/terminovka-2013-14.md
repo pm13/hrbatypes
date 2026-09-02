@@ -38,7 +38,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-## 30\. [Orlický maraton](http://www.orlickymaraton.cz/) - **zrušeno**
+## 30\. [Orlický maraton](https://www.orlickymaraton.cz/) - **zrušeno**
 
 ## 2\. kolo VŠ ligy a Akademické mistrovství ČR Nové Město na Moravě, 11. - 13. února
 

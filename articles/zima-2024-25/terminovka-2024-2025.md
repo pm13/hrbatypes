@@ -37,7 +37,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Skadi Loppet](https://www.skadi-loppet.de/), 25. - 26. ledna, Velký Javor
 
-### [Orlický maraton](https://orlickymaraton.cz/), 1. - 2. února, Šerlich
+### [Orlický maraton](https://www.orlickymaraton.cz/), 1. - 2. února, Šerlich
 
 ### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 1. února, Polevsko - *zrušeno*
 

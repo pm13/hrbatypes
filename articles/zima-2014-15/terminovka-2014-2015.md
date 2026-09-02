@@ -33,7 +33,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 13\. [Karlovská 50](http://www.ski-tour.cz/cs/zavody/karlovska50) aneb valašská Marcialonga 24. ledna, Velké Karlovice
 
-## 31\. [Orlický maraton](http://www.orlickymaraton.cz/), 1. února, Deštné v Orlických horách
+## 31\. [Orlický maraton](https://www.orlickymaraton.cz/), 1. února, Deštné v Orlických horách
 
 ## 8\. [Jilemnická 50](http://www.stopaprozivot.cz/zav/jilemnicka50), 7. - 8. února, Jilemnice
 

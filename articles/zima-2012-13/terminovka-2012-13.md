@@ -33,7 +33,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 29\. Orlický maraton, 2. - 3. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 42\. Karlův běh, 9. - 10. února
 

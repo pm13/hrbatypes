@@ -32,7 +32,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 
 ## 40\. Karlův běh, 12. - 13. února
 
-- informace k závodu jsou [zde](http://www.lkslovan.cz/karel/)
+- informace k závodu jsou [zde](https://www.karluvbeh.cz/)
 
 ## AMČŘ Nové město na Moravě, 15. -17. února
 

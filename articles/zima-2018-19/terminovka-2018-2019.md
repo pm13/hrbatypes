@@ -36,7 +36,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 ### Seriál [Stopa pro(o) Život](http://www.stopaprozivot.cz/)
 
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50-zp-mv-cr/), 26. - 27. ledna, Jilemnice/Benecko
-- [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 16. - 17. února, Boží dar
+- [Karlův běh](https://www.karluvbeh.cz/), 16. - 17. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 23. - 24. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70-lawi/), 16. března, Špindlerův Mlýn
 

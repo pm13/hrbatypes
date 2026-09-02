@@ -75,7 +75,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
 - informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
 
-## 43\. [Karlův běh](http://www.stopaprozivot.cz/zav/karluvbeh), 8. - 9. března, Abertamy - **zrušeno**
+## 43\. [Karlův běh](https://www.karluvbeh.cz/), 8. - 9. března, Abertamy - **zrušeno**
 
 - krásný závod s rozumným množstvím účastníků
 

@@ -81,7 +81,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - nejtěžší závod v běhu na lyžích na území ČR
 - po předloňské obnovené premiéře se pojede druhý ročník novodobé historie
 
-## 45\. [Karlův běh](http://www.stopaprozivot.cz/zav/karluvbeh), 12. - 13. března, Abertamy
+## 45\. [Karlův běh](https://www.karluvbeh.cz/), 12. - 13. března, Abertamy
 
 - krásný závod s rozumným množstvím účastníků
 

@@ -43,7 +43,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 41\. Karlův běh, 11. - 12. února
 
-- informace k závodu jsou [zde](http://www.lkslovan.cz/karel/)
+- informace k závodu jsou [zde](https://www.karluvbeh.cz/)
 
 ## Rucksacklauf, 11. února, Schwarzwald - [http://www.fernskiwanderweg.de/](http://www.fernskiwanderweg.de/)
 

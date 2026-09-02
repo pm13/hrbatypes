@@ -38,7 +38,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - [Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/ve-stope-zlate-lyze/), 15. ledna, Vysočina Arena
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 29. - 30. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
-- [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 19. - 20. února, Boží dar
+- [Karlův běh](https://www.karluvbeh.cz/), 19. - 20. února, Boží dar
 - [Šumavský skimaraton](https://www.stopaprozivot.cz/sumavsky-skimaraton/), 26. - 27. února, Kvilda
 - [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 12. března, Špindlerův Mlýn
 

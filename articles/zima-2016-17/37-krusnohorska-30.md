@@ -7,7 +7,7 @@ Author: Ferda
 
 Silný nárazový vítr, závěje a sněhové jazyky, uzavřené silnice, husté sněžení doporučení nevyjíždět, ale závod nezrušili tak jsem musel jet. Dostat se na start bylo sice obtížnější než obvykle, ale s odstavením auta do závěje, prorážením sněhových jazyků pěšky a úpěním na lyžích proti větru se mi to podařilo.
 
-![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: .float-left .mr-2 width="450"}
+![K30 - bedna]({static}/static/zima-2016-17/k30-bedna.jpg){: width="450" .float-left .mr-2}
 
 Prezentace probíhá v příjemném bufetu na stadionu, lidí je tu příjemně málo, organizátoři milí a usměvaví, velký rozdíl oproti Night Light Marathonu. Trasa je naštěstí změněna, původní trasu přes Vitišku a Pramenáč se vzhledem k podmínkám nedaří udržet ve sjízdném stavu. I na náhradní trati jsou místa kde se bruslí jen velmi obtížně.
 

@@ -27,7 +27,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - [Bedřichovský nightlight maraton](https://www.ski-tour.cz/bedrichovsky-nlm/r2), 7. - 8. ledna, Bedřichov
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), 15. - 16. ledna, Churáňov
-- [Krušnohorská 30](https://www.ski-tour.cz/krusnohorska-30/r8), 22. - 23. ledna, Nové Město v Krušných horách
+- [Krušnohorská 30](https://k30.online/), 22. - 23. ledna, Nové Město v Krušných horách
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 28. - 29. ledna, Velké Karlovice
 - [Orlický maraton](https://www.orlickymaraton.cz/), 5. - 6. února, Deštné v Orlických horách
 - [Jizerská 50](https://jiz50.cz/), 11. - 13. února, Bedřichov

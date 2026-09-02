@@ -57,7 +57,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 ## Krkonošská 70, 3. března, Špindlerův Mlýn
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 4\. kolo VŠ ligy, 9. - 10. března, HUMANITA
 

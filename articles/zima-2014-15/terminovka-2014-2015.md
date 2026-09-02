@@ -74,10 +74,10 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 39\. [Bieg Piastów](http://www.bieg-piastow.pl/), 28. února, Jakuszyce
 
-## 60\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 28. února, Špindlerův Mlýn
+## 60\. [Krkonošská 70](https://www.krkonosska70.cz/), 28. února, Špindlerův Mlýn
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 44\. [Karlův běh](https://www.karluvbeh.cz/), 7. - 8. března, Abertamy
 

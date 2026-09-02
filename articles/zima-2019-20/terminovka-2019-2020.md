@@ -40,7 +40,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 25. - 26. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
 - [Karlův běh](https://www.karluvbeh.cz/), 15. - 16. února, Boží dar
 - [Šumavský skimaraton](https://www.skisumava.cz/ski), 22. - 23. února, Kvilda
-- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 7. března, Špindlerův Mlýn
+- [Krkonošská 70](https://www.krkonosska70.cz/), 7. března, Špindlerův Mlýn
 
 ## Ostatní závody hodné vážného zřetele
 

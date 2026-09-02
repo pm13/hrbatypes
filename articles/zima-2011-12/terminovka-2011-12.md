@@ -66,7 +66,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 ## Krkonošská 70, 3. března, Špindlerův Mlýn
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 4\. kolo VŠ ligy, 17. - 18. března, HUMANITA
 

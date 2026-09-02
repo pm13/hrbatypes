@@ -71,10 +71,10 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 40\. [Bieg Piastów](http://www.bieg-piastow.pl/), 5. března, Jakuszyce
 
-## 61\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 5. března, Špindlerův Mlýn
+## 61\. [Krkonošská 70](https://www.krkonosska70.cz/), 5. března, Špindlerův Mlýn
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 28\. [Jesenická 70](http://www.jesenicka70.cz/cz/), 13. března, Skřítek
 

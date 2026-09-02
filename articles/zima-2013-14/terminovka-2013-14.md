@@ -70,10 +70,10 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - informace: [http://www.bieg-piastow.pl/](http://www.bieg-piastow.pl/)
 
-## 59\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 1. března, Špindlerův Mlýn - **zrušeno**
+## 59\. [Krkonošská 70](https://www.krkonosska70.cz/), 1. března, Špindlerův Mlýn - **zrušeno**
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 43\. [Karlův běh](https://www.karluvbeh.cz/), 8. - 9. března, Abertamy - **zrušeno**
 

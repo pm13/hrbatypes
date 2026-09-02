@@ -42,7 +42,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - 10\. [Jilemnická 50](http://www.stopaprozivot.cz/zav/jilemnicka50), 28. - 29. ledna, Jilemnice/Benecko
 - 46\. [Karlův běh](https://www.karluvbeh.cz/), 11. - 12. února, Boží dar
 - 32\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 25. - 26. února, Kvilda
-- 62\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 4. března, Špindlerův Mlýn
+- 62\. [Krkonošská 70](https://www.krkonosska70.cz/), 4. března, Špindlerův Mlýn
 
 ## Ostatní závody hodné vážného zřetele
 

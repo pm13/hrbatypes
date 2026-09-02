@@ -41,7 +41,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Jilemnická 50](https://www.stopaprozivot.cz/zavody/cus-jilemnicka-50/trasy), 27. - 28. ledna, Horní Mísečky
 - [Karlův běh](https://www.karluvbeh.cz/), 17. - 18. února, Boží Dar - *zrušeno*
 - [Šumavský skimaraton](https://www.skisumava.cz/ski), 24. - 25. února, Kvilda - *zrušeno*
-- [Krkonošská 70](https://www.stopaprozivot.cz/zavody/krkonosska-70-monzas/trasy), 9. března, Špindlerův Mlýn - *zrušeno*
+- [Krkonošská 70](https://www.krkonosska70.cz/), 9. března, Špindlerův Mlýn - *zrušeno*
 
 ## Ostatní závody hodné vážného zřetele
 

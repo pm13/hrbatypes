@@ -51,7 +51,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 ## Krkonošská 70, 19. března, Špindlerův Mlým
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## VŠ liga, 25. - 27. března, HUMANITA
 

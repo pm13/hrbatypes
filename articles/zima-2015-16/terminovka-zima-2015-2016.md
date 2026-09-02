@@ -61,7 +61,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - pojede se skiatlon a sprinty
 - propozice se objeví na stránkách [Žižkovských tygrů](http://www.tygriskiatlon.cz/)
 
-## 31\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 27. - 28. února, Kvilda
+## 31\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 27. - 28. února, Kvilda
 
 - tradiční přebor MFF na dlouhých tratích
 

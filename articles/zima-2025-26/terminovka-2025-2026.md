@@ -26,7 +26,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - [Bedřichovský Night Light Marathon](https://stopaprozivot.cz/zavody/bnlm/propozice), 9. - 10. ledna, Bedřichov
 - [Karlův běh](https://www.karluvbeh.cz/), 14. - 15. února, Boží Dar - *zrušeno*
-- [Šumavský skimaraton](https://stopaprozivot.cz/zavody/sumavsky-skimaraton-nova-sport/propozice), 21. - 22. února, Kvilda
+- [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
 - [Krkonošská 70](https://stopaprozivot.cz/zavody/krkonosska-70/propozice), 8. března, Špindlerův Mlýn - *zrušeno*
 
 ## Ostatní závody hodné vážného zřetele

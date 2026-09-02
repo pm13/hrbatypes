@@ -57,7 +57,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 27\. Šumavský skimaraton, 25. - 26. února
 
-- informace k závodu naleznete na stránkách [Ski klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 2. - 4. března, Jakuszyce
 

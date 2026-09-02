@@ -48,7 +48,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 28\. Šumavský skimaraton, 23. - 24. února
 
-- informace k závodu naleznete na stránkách [Ski klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 2. - 3. března, Jakuszyce
 

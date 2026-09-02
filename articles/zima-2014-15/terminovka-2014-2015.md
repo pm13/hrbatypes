@@ -68,7 +68,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 24\. [Jelyman](http://www.ski-tour.cz/cs/zavody/jelyman), 21. února, Paprsek
 
-## 30\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 21. - 22. února, Kvilda
+## 30\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 21. - 22. února, Kvilda
 
 - tradiční přebor MFF na dlouhých tratích
 

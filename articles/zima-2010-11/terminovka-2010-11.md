@@ -42,7 +42,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 
 ## 26\. Šumavský skimaraton, 26. - 27. února
 
-- informace k závodu naleznete na stránkách [Ski Klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski Klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 5. - 6. března, Jakuszyce
 

@@ -60,7 +60,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - nově na Modravě
 - jede se kolečko na Filipku, Loví skálu, Ztracený a zpět na Modravu
 
-## 29\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 22. - 23. února, Kvilda - **zkráceno na 25 km**
+## 29\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 22. - 23. února, Kvilda - **zkráceno na 25 km**
 
 - tradiční přebor MFF na dlouhých tratích
 

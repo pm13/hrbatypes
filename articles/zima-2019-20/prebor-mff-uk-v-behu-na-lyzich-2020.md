@@ -28,10 +28,10 @@ Výsledky:
 | 1.     | Vahalová Petra   | 27:40 |        |
 | 2.     | Valentová Helena | 30:22 | +2:42  |
 
-![Cíl přeboru]({static}/static/zima-2019-20/soustredko-ferda-cil.jpg){: height="600"}
-![Na stadiónu]({static}/static/zima-2019-20/soustredko-tym-stadion.jpg){: height="600"}
-![Ferda na svážnici]({static}/static/zima-2019-20/soustredko-ferda-na-svaznici.jpg){: height="600"}
-![Mohyla]({static}/static/zima-2019-20/soustredko-mohyla.jpg){: height="600"}
-![Stoupání na Šmídovu vyhlídku]({static}/static/zima-2019-20/soustredko-stoupani-ke-smidovi.jpg){: height="600"}
-![Petr]({static}/static/zima-2019-20/soustredko-zlatak-petr.jpg){: height="600"}
-![Výhledy ze Zlaťáku]({static}/static/zima-2019-20/soustredko-zlatak-vyhledy.jpg){: height="600"}
+![Cíl přeboru]({static}/static/zima-2019-20/soustredko-ferda-cil.jpg){: width="600"}
+![Na stadiónu]({static}/static/zima-2019-20/soustredko-tym-stadion.jpg){: width="600"}
+![Ferda na svážnici]({static}/static/zima-2019-20/soustredko-ferda-na-svaznici.jpg){: width="600"}
+![Mohyla]({static}/static/zima-2019-20/soustredko-mohyla.jpg){: width="600"}
+![Stoupání na Šmídovu vyhlídku]({static}/static/zima-2019-20/soustredko-stoupani-ke-smidovi.jpg){: width="600"}
+![Petr]({static}/static/zima-2019-20/soustredko-zlatak-petr.jpg){: width="600"}
+![Výhledy ze Zlaťáku]({static}/static/zima-2019-20/soustredko-zlatak-vyhledy.jpg){: width="600"}

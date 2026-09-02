@@ -2447,8 +2447,17 @@
   .float-right {
     float: right;
   }
+  .clear-both {
+    clear: both;
+  }
   .mx-auto {
     margin-inline: auto;
+  }
+  .my-0 {
+    margin-block: 0px;
+  }
+  .my-0\! {
+    margin-block: 0px !important;
   }
   .my-1 {
     margin-block: var(--spacing);
@@ -2458,6 +2467,9 @@
   }
   .my-3 {
     margin-block: calc(var(--spacing) * 3);
+  }
+  .my-4 {
+    margin-block: calc(var(--spacing) * 4);
   }
   .my-10 {
     margin-block: calc(var(--spacing) * 10);
@@ -2939,8 +2951,17 @@
       display: none;
     }
   }
+  .-mt-3 {
+    margin-top: calc(var(--spacing) * -3);
+  }
   .-mt-4 {
     margin-top: calc(var(--spacing) * -4);
+  }
+  .mt-0 {
+    margin-top: 0px;
+  }
+  .mt-0\! {
+    margin-top: 0px !important;
   }
   .mr-2 {
     margin-right: calc(var(--spacing) * 2);
@@ -2948,11 +2969,47 @@
   .mr-3 {
     margin-right: calc(var(--spacing) * 3);
   }
+  .-mb-2 {
+    margin-bottom: calc(var(--spacing) * -2);
+  }
+  .-mb-4 {
+    margin-bottom: calc(var(--spacing) * -4);
+  }
+  .mb-0 {
+    margin-bottom: 0px;
+  }
+  .mb-0\! {
+    margin-bottom: 0px !important;
+  }
   .mb-1 {
     margin-bottom: var(--spacing);
   }
+  .mb-2 {
+    margin-bottom: calc(var(--spacing) * 2);
+  }
+  .mb-2\! {
+    margin-bottom: calc(var(--spacing) * 2) !important;
+  }
+  .mb-3 {
+    margin-bottom: calc(var(--spacing) * 3);
+  }
+  .mb-3\! {
+    margin-bottom: calc(var(--spacing) * 3) !important;
+  }
   .mb-4 {
     margin-bottom: calc(var(--spacing) * 4);
+  }
+  .mb-10 {
+    margin-bottom: calc(var(--spacing) * 10);
+  }
+  .mb-10\! {
+    margin-bottom: calc(var(--spacing) * 10) !important;
+  }
+  .mb-50 {
+    margin-bottom: calc(var(--spacing) * 50);
+  }
+  .mb-50\! {
+    margin-bottom: calc(var(--spacing) * 50) !important;
   }
   .ml-1 {
     margin-left: var(--spacing);
@@ -3056,6 +3113,15 @@
   }
   .flex {
     display: flex;
+  }
+  .flow-root {
+    display: flow-root;
+  }
+  .inline {
+    display: inline;
+  }
+  .inline-block {
+    display: inline-block;
   }
   .table {
     display: table;
@@ -3218,6 +3284,9 @@
   .p-3 {
     padding: calc(var(--spacing) * 3);
   }
+  .p-4 {
+    padding: calc(var(--spacing) * 4);
+  }
   .px-3 {
     padding-inline: calc(var(--spacing) * 3);
   }
@@ -3227,11 +3296,26 @@
   .py-2 {
     padding-block: calc(var(--spacing) * 2);
   }
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+  .py-4 {
+    padding-block: calc(var(--spacing) * 4);
+  }
   .py-8 {
     padding-block: calc(var(--spacing) * 8);
   }
+  .pt-3 {
+    padding-top: calc(var(--spacing) * 3);
+  }
   .pb-0 {
     padding-bottom: 0px;
+  }
+  .pb-2 {
+    padding-bottom: calc(var(--spacing) * 2);
+  }
+  .pb-3 {
+    padding-bottom: calc(var(--spacing) * 3);
   }
   .pl-1 {
     padding-left: var(--spacing);
@@ -3384,12 +3468,27 @@
       display: none;
     }
   }
+  .prose-headings\:my-4 :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: calc(var(--spacing) * 4);
+  }
   .prose-headings\:mb-4 :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     margin-bottom: calc(var(--spacing) * 4);
+  }
+  .prose-headings\:mb-6 :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 6);
+  }
+  .prose-headings\:mb-16 :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 16);
   }
   .prose-headings\:font-medium :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     --tw-font-weight: var(--font-weight-medium);
     font-weight: var(--font-weight-medium);
+  }
+  .prose-h1\:mt-6 :is(:where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-top: calc(var(--spacing) * 6);
+  }
+  .prose-h1\:mt-8 :is(:where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-top: calc(var(--spacing) * 8);
   }
   .prose-h1\:text-3xl :is(:where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     font-size: var(--text-3xl);
@@ -3398,6 +3497,15 @@
   .prose-h2\:mt-6 :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     margin-top: calc(var(--spacing) * 6);
   }
+  .prose-h2\:mt-12 :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-top: calc(var(--spacing) * 12);
+  }
+  .prose-h2\:mb-4 :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 4);
+  }
+  .prose-h2\:mb-6 :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 6);
+  }
   .prose-h2\:text-2xl :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     font-size: var(--text-2xl);
     line-height: var(--tw-leading, var(--text-2xl--line-height));
@@ -3405,6 +3513,21 @@
   .prose-h2\:text-xl :is(:where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     font-size: var(--text-xl);
     line-height: var(--tw-leading, var(--text-xl--line-height));
+  }
+  .prose-h3\:mt-3 :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-top: calc(var(--spacing) * 3);
+  }
+  .prose-h3\:mt-4 :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-top: calc(var(--spacing) * 4);
+  }
+  .prose-h3\:mb-2 :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 2);
+  }
+  .prose-h3\:mb-3 :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 3);
+  }
+  .prose-h3\:mb-4 :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-bottom: calc(var(--spacing) * 4);
   }
   .prose-h3\:text-lg :is(:where(h3):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     font-size: var(--text-lg);
@@ -3435,20 +3558,50 @@
   .prose-ul\:my-4 :is(:where(ul):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     margin-block: calc(var(--spacing) * 4);
   }
+  .prose-li\:my-0 :is(:where(li):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: 0px;
+  }
   .prose-li\:my-1 :is(:where(li):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     margin-block: var(--spacing);
+  }
+  .prose-li\:my-2 :is(:where(li):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: calc(var(--spacing) * 2);
+  }
+  .prose-table\:my-4 :is(:where(table):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: calc(var(--spacing) * 4);
   }
   .prose-tr\:even\:bg-base-200 :is(:where(tr):not(:where([class~="not-prose"], [class~="not-prose"] *))):nth-child(even) {
     background-color: var(--color-base-200);
   }
+  .prose-th\:px-2 :is(:where(th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    padding-inline: calc(var(--spacing) * 2);
+  }
   .prose-th\:px-3 :is(:where(th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     padding-inline: calc(var(--spacing) * 3);
+  }
+  .prose-th\:px-4 :is(:where(th):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    padding-inline: calc(var(--spacing) * 4);
+  }
+  .prose-td\:px-2 :is(:where(td):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    padding-inline: calc(var(--spacing) * 2);
   }
   .prose-td\:px-3 :is(:where(td):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     padding-inline: calc(var(--spacing) * 3);
   }
+  .prose-td\:px-4 :is(:where(td):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    padding-inline: calc(var(--spacing) * 4);
+  }
+  .prose-img\:my-1 :is(:where(img):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: var(--spacing);
+  }
+  .prose-img\:my-2 :is(:where(img):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: calc(var(--spacing) * 2);
+  }
   .prose-img\:my-3 :is(:where(img):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     margin-block: calc(var(--spacing) * 3);
+  }
+  .prose-img\:my-4 :is(:where(img):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    margin-block: calc(var(--spacing) * 4);
   }
 }
 .prose {

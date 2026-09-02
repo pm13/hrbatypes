@@ -55,7 +55,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-### 5. [BoBoloppet](http://www.boboloppet.com/boboloppet/), 4. února, Bedřichov
+### 5. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 4. února, Bedřichov
 
 - přihlášky od cca listopadu 2016, omezený počet startujících na 200 účastníků
 - 90 km všude v Jizerských horách

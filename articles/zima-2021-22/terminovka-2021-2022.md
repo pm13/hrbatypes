@@ -50,7 +50,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 ### [Polevská lyže](https://skipolevsko.estranky.cz/clanky/zavody/polevska-lyze/), 15. ledna, Polevsko
 
-### [Lužická 30](https://skipolevsko.estranky.cz/), 29. ledna, Polevsko
+### [Lužická 30](https://skipolevsko.estranky.cz/clanky/zavody/luzicka-tricitka/), 29. ledna, Polevsko
 
 ### 11. [BoBoloppet](https://www.boboloppet.com/boboloppet/), 19. února, Bedřichov
 

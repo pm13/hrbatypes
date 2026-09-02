@@ -28,11 +28,11 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 
 ## 27\. Orlický maraton, 5. - 6. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 40\. Karlův běh, 12. - 13. února
 
-- informace k závodu jsou [zde](http://www.lkslovan.cz/karel/)
+- informace k závodu jsou [zde](https://www.karluvbeh.cz/)
 
 ## AMČŘ Nové město na Moravě, 15. -17. února
 
@@ -42,7 +42,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 
 ## 26\. Šumavský skimaraton, 26. - 27. února
 
-- informace k závodu naleznete na stránkách [Ski Klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski Klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 5. - 6. března, Jakuszyce
 
@@ -51,7 +51,7 @@ V zimě nás čekají závody v rámci VŠ Ligy, [ski-tour](http://ski-tour.cz) 
 ## Krkonošská 70, 19. března, Špindlerův Mlým
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## VŠ liga, 25. - 27. března, HUMANITA
 

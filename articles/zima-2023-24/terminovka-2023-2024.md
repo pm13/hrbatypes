@@ -30,8 +30,8 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Horní Mísečky](https://www.ski-tour.cz/propozice/horni-misecky), 13. - 14. ledna, Horní Mísečky
 - [Krušnohorská 30](https://www.ski-tour.cz/propozice/krusnohorska30), 20. - 21. ledna, Cínovec - *zrušeno*
 - [Bedřichovský Night Light Marathon](https://www.ski-tour.cz/propozice/bedrichovsky-night-light-marathon), 26. - 27. ledna, Bedřichov
-- [Orlický maraton](https://www.ski-tour.cz/propozice/orlicky-maraton), 3. - 4. února, Deštné v Orlických horách
-- [Jizerská 50](https://jiz50.cz), 8. - 11. února, Bedřichov - *zrušeno*
+- [Orlický maraton](https://www.orlickymaraton.cz/), 3. - 4. února, Deštné v Orlických horách
+- [Jizerská 50](https://jiz50.cz/), 8. - 11. února, Bedřichov - *zrušeno*
 - [Jelyman](https://www.ski-tour.cz/propozice/jelyman), 24. - 25. února, Paprsek - *zrušeno*
 - [Bieg Piastow](https://www.ski-tour.cz/propozice/bieg-piastow), 1. - 3. března, Polana Jakuszycka - *zrušeno*
 - [Harrachov](https://www.ski-tour.cz/propozice/harrachov), 8. - 9. března, Harrachov - *zrušeno*
@@ -39,9 +39,9 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 ### Seriál [Stopa pro(o) Život](https://www.stopaprozivot.cz/)
 
 - [Jilemnická 50](https://www.stopaprozivot.cz/zavody/cus-jilemnicka-50/trasy), 27. - 28. ledna, Horní Mísečky
-- [Karlův běh](https://www.stopaprozivot.cz/zavody/cardion-karluv-beh/trasy), 17. - 18. února, Boží Dar - *zrušeno*
-- [Šumavský skimaraton](https://www.stopaprozivot.cz/zavody/sumavsky-skimaraton-tv-nova/trasy), 24. - 25. února, Kvilda - *zrušeno*
-- [Krkonošská 70](https://www.stopaprozivot.cz/zavody/krkonosska-70-monzas/trasy), 9. března, Špindlerův Mlýn - *zrušeno*
+- [Karlův běh](https://www.karluvbeh.cz/), 17. - 18. února, Boží Dar - *zrušeno*
+- [Šumavský skimaraton](https://www.skisumava.cz/ski), 24. - 25. února, Kvilda - *zrušeno*
+- [Krkonošská 70](https://www.krkonosska70.cz/), 9. března, Špindlerův Mlýn - *zrušeno*
 
 ## Ostatní závody hodné vážného zřetele
 

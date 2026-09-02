@@ -14,7 +14,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 - přebor MFF
 
-## 45\. [Jizerská 50](http://www.jiz50.cz), 6. - 8. ledna
+## 45\. [Jizerská 50](https://jiz50.cz/), 6. - 8. ledna
 
 ## 1\. kolo VŠ ligy, 14. - 15. ledna, Benecko
 
@@ -35,7 +35,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 28\. Orlický maraton, 4. - 5. února
 
-- informace k závodu jsou na stránkách [ski-tour](http://ski-tour.cz/cz/page/20/Orlicky-maraton.html)
+- informace k závodu jsou na stránkách [ski-tour](https://www.orlickymaraton.cz/)
 
 ## 1\. Šumavská třicítka
 
@@ -43,7 +43,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 41\. Karlův běh, 11. - 12. února
 
-- informace k závodu jsou [zde](http://www.lkslovan.cz/karel/)
+- informace k závodu jsou [zde](https://www.karluvbeh.cz/)
 
 ## Rucksacklauf, 11. února, Schwarzwald - [http://www.fernskiwanderweg.de/](http://www.fernskiwanderweg.de/)
 
@@ -57,7 +57,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 
 ## 27\. Šumavský skimaraton, 25. - 26. února
 
-- informace k závodu naleznete na stránkách [Ski klubu Šumava](http://skimaraton.cz/main.aspx?lng=cz)
+- informace k závodu naleznete na stránkách [Ski klubu Šumava](https://www.skisumava.cz/ski)
 
 ## Bieg Piastów, 2. - 4. března, Jakuszyce
 
@@ -66,7 +66,7 @@ V zimě nás čekají nejrůznější závody. Ať už tradiční, jako jsou zá
 ## Krkonošská 70, 3. března, Špindlerův Mlýn
 
 - závod pětičlenných po skoro celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
 ## 4\. kolo VŠ ligy, 17. - 18. března, HUMANITA
 

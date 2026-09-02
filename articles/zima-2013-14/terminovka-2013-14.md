@@ -18,7 +18,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 ## 1\. kolo VŠ ligy, 4. - 5. ledna, Benecko
 
-## 47\. [Jizerská 50](http://www.jiz50.cz), 10. - 12. ledna - **zrušeno**
+## 47\. [Jizerská 50](https://jiz50.cz/), 10. - 12. ledna - **zrušeno**
 
 ## 7\. [Jilemnická 50](http://www.ski-tour.cz/cs/zavody/jilemnicka50), 8. - 9. března, Horní Mísečky - **zrušeno**
 
@@ -38,7 +38,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - orientační závod dvojic
 
-## 30\. [Orlický maraton](http://www.orlickymaraton.cz/) - **zrušeno**
+## 30\. [Orlický maraton](https://www.orlickymaraton.cz/) - **zrušeno**
 
 ## 2\. kolo VŠ ligy a Akademické mistrovství ČR Nové Město na Moravě, 11. - 13. února
 
@@ -60,7 +60,7 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 - nově na Modravě
 - jede se kolečko na Filipku, Loví skálu, Ztracený a zpět na Modravu
 
-## 29\. [Šumavský skimaraton](http://www.stopaprozivot.cz/zav/sumavskyskimaraton), 22. - 23. února, Kvilda - **zkráceno na 25 km**
+## 29\. [Šumavský skimaraton](https://www.skisumava.cz/ski), 22. - 23. února, Kvilda - **zkráceno na 25 km**
 
 - tradiční přebor MFF na dlouhých tratích
 
@@ -70,12 +70,12 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu podzim
 
 - informace: [http://www.bieg-piastow.pl/](http://www.bieg-piastow.pl/)
 
-## 59\. [Krkonošská 70](http://www.stopaprozivot.cz/zav/krkonoska70), 1. března, Špindlerův Mlýn - **zrušeno**
+## 59\. [Krkonošská 70](https://www.krkonosska70.cz/), 1. března, Špindlerův Mlýn - **zrušeno**
 
 - závod pětičlenných hlídek skoro po celých Krkonoších :-)
-- informace: [http://www.lokotrutnov.cz/](http://www.lokotrutnov.cz/)
+- informace: [http://www.lokotrutnov.cz/](https://www.krkonosska70.cz/)
 
-## 43\. [Karlův běh](http://www.stopaprozivot.cz/zav/karluvbeh), 8. - 9. března, Abertamy - **zrušeno**
+## 43\. [Karlův běh](https://www.karluvbeh.cz/), 8. - 9. března, Abertamy - **zrušeno**
 
 - krásný závod s rozumným množstvím účastníků
 

@@ -29,8 +29,8 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 - [Bedřichovský nightlight maraton](https://www.ski-tour.cz/bedrichovsky-nlm/r2), 3. - 4. ledna, Bedřichov
 - [Zadovská 30](https://www.ski-tour.cz/zadovska-30/r3), <s>18. - 19. ledna</s> 14. - 15. března Churáňov
 - [Karlovská 50](https://www.ski-tour.cz/karlovska-50/r1) aneb valašská Marcialonga, 24. - 25. ledna, Velké Karlovice
-- [Orlický maraton](https://www.ski-tour.cz/orlicky-maraton/r4), 1. - 2. února, Deštné v Orlických horách
-- [Jizerská 50](http://jiz50.cz), 7. - 9. února, Bedřichov
+- [Orlický maraton](https://www.orlickymaraton.cz/), 1. - 2. února, Deštné v Orlických horách
+- [Jizerská 50](https://jiz50.cz/), 7. - 9. února, Bedřichov
 - [Jelyman](https://www.ski-tour.cz/jelyman/r6), 22. - 23. února, Paprsek
 - [Bieg Piastow](https://www.ski-tour.cz/bieg-piastow/r7), 28. února - 1. března, Polana Jakuszycka
 
@@ -38,9 +38,9 @@ Změny vyhrazeny, případné další závody budou doplněny v průběhu zimy.
 
 - [STRABAG Ve stopě Zlaté lyže](https://www.stopaprozivot.cz/strabag-ve-stope-zlate-lyze/), 26. prosince, Vysočina Arena
 - [Jilemnická 50](https://www.stopaprozivot.cz/jilemnicka-50/), 25. - 26. ledna, Jilemnice – areál Hraběnka, v případě nedostatku sněhu Roudnice
-- [Karlův běh](https://www.stopaprozivot.cz/karluv-beh/), 15. - 16. února, Boží dar
-- [Šumavský skimaraton](https://www.stopaprozivot.cz/ct-sumavsky-skimaraton/), 22. - 23. února, Kvilda
-- [Krkonošská 70](https://www.stopaprozivot.cz/krkonosska-70/), 7. března, Špindlerův Mlýn
+- [Karlův běh](https://www.karluvbeh.cz/), 15. - 16. února, Boží dar
+- [Šumavský skimaraton](https://www.skisumava.cz/ski), 22. - 23. února, Kvilda
+- [Krkonošská 70](https://www.krkonosska70.cz/), 7. března, Špindlerův Mlýn
 
 ## Ostatní závody hodné vážného zřetele
 

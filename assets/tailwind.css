@@ -1,8 +1,7 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @source not "../theme/static/";
-
-@plugin "@tailwindcss/typography";
 
 @plugin "daisyui" {
   themes: hrbatypes --default;

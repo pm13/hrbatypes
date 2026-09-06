@@ -4,6 +4,10 @@ Date: 2025-01-01 12:00
 Category: Stupně vítězů
 ---
 
+## Běh Broumovskými stěnami 2026
+
+![Běh Broumovskými stěnami 2026]({static}/static/stupne-vitezu/2025-2026/beh-broumovskymi-stenami-2026.jpg){: width="450"}
+
 ## Kvadriatlon dvojic 2026
 
 ![Kvadriatlon dvojic 2026]({static}/static/stupne-vitezu/2025-2026/kvadriatlon-dvojic-2026.jpg){: width="600"}

@@ -1393,6 +1393,9 @@
   .flow-root {
     display: flow-root;
   }
+  .inline {
+    display: inline;
+  }
   .inline-block {
     display: inline-block;
   }
